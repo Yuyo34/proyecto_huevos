@@ -1,0 +1,2339 @@
+zone,egg_color,egg_size,retail_price_clp_per_dozen,month,ratio_used,wholesale_backfilled,months_n,publish_ok
+Región Metropolitana de Santiago,blanco,L,18210.0,2014-01,0.85,15478.5,141,True
+Región Metropolitana de Santiago,blanco,L,18427.86,2014-02,0.85,15663.681,141,True
+Región Metropolitana de Santiago,blanco,L,18442.74,2014-03,0.85,15676.329000000002,141,True
+Región Metropolitana de Santiago,blanco,L,18460.800000000003,2014-04,0.85,15691.680000000002,141,True
+Región Metropolitana de Santiago,blanco,L,18502.92,2014-05,0.85,15727.481999999998,141,True
+Región Metropolitana de Santiago,blanco,L,18840.78,2014-06,0.85,16014.662999999999,141,True
+Región Metropolitana de Santiago,blanco,L,19390.44,2014-07,0.85,16481.874,141,True
+Región Metropolitana de Santiago,blanco,L,19621.2,2014-08,0.85,16678.02,141,True
+Región Metropolitana de Santiago,blanco,L,19302.18,2014-09,0.85,16406.853,141,True
+Región Metropolitana de Santiago,blanco,L,19643.28,2014-10,0.85,16696.787999999997,141,True
+Región Metropolitana de Santiago,blanco,L,19989.66,2014-11,0.85,16991.211,141,True
+Región Metropolitana de Santiago,blanco,L,20451.6,2014-12,0.85,17383.859999999997,141,True
+Región Metropolitana de Santiago,blanco,L,20084.1,2015-01,0.85,17071.484999999997,141,True
+Región Metropolitana de Santiago,blanco,L,19857.18,2015-02,0.85,16878.603,141,True
+Región Metropolitana de Santiago,blanco,L,19904.22,2015-03,0.85,16918.587,141,True
+Región Metropolitana de Santiago,blanco,L,20169.0,2015-04,0.85,17143.649999999998,141,True
+Región Metropolitana de Santiago,blanco,L,20358.06,2015-05,0.85,17304.351000000002,141,True
+Región Metropolitana de Santiago,blanco,L,21326.76,2015-06,0.85,18127.746,141,True
+Región Metropolitana de Santiago,blanco,L,22896.0,2015-07,0.85,19461.6,141,True
+Región Metropolitana de Santiago,blanco,L,22567.44,2015-08,0.85,19182.323999999997,141,True
+Región Metropolitana de Santiago,blanco,L,21769.56,2015-09,0.85,18504.126,141,True
+Región Metropolitana de Santiago,blanco,L,21615.3,2015-10,0.85,18373.004999999997,141,True
+Región Metropolitana de Santiago,blanco,L,21599.52,2015-11,0.85,18359.592,141,True
+Región Metropolitana de Santiago,blanco,L,21708.0,2015-12,0.85,18451.8,141,True
+Región Metropolitana de Santiago,blanco,L,21565.53,2016-01,0.85,18330.7005,141,True
+Región Metropolitana de Santiago,blanco,L,21676.939998,2016-02,0.85,18425.3989983,141,True
+Región Metropolitana de Santiago,blanco,L,21849.6,2016-03,0.85,18572.16,141,True
+Región Metropolitana de Santiago,blanco,L,21685.62,2016-04,0.85,18432.777,141,True
+Región Metropolitana de Santiago,blanco,L,21643.5,2016-05,0.85,18396.975,141,True
+Región Metropolitana de Santiago,blanco,L,21343.68,2016-06,0.85,18142.128,141,True
+Región Metropolitana de Santiago,blanco,L,21137.7,2016-07,0.85,17967.045000000002,141,True
+Región Metropolitana de Santiago,blanco,L,21245.16,2016-08,0.85,18058.386,141,True
+Región Metropolitana de Santiago,blanco,L,21382.32,2016-09,0.85,18174.971999999998,141,True
+Región Metropolitana de Santiago,blanco,L,21359.82,2016-10,0.85,18155.846999999998,141,True
+Región Metropolitana de Santiago,blanco,L,21451.08,2016-11,0.85,18233.418,141,True
+Región Metropolitana de Santiago,blanco,L,21712.32,2016-12,0.85,18455.471999999998,141,True
+Región Metropolitana de Santiago,blanco,L,21562.800000000003,2017-01,0.85,18328.38,141,True
+Región Metropolitana de Santiago,blanco,L,21114.63,2017-02,0.85,17947.4355,141,True
+Región Metropolitana de Santiago,blanco,L,21030.12,2017-03,0.85,17875.602,141,True
+Región Metropolitana de Santiago,blanco,L,21568.980000000003,2017-04,0.85,18333.633,141,True
+Región Metropolitana de Santiago,blanco,L,21249.66,2017-05,0.85,18062.211,141,True
+Región Metropolitana de Santiago,blanco,L,21667.44,2017-06,0.85,18417.323999999997,141,True
+Región Metropolitana de Santiago,blanco,L,21911.4,2017-07,0.85,18624.690000000002,141,True
+Región Metropolitana de Santiago,blanco,L,21848.82,2017-08,0.85,18571.497,141,True
+Región Metropolitana de Santiago,blanco,L,21840.96,2017-09,0.85,18564.816,141,True
+Región Metropolitana de Santiago,blanco,L,21902.160000000003,2017-10,0.85,18616.836000000003,141,True
+Región Metropolitana de Santiago,blanco,L,21936.0,2017-11,0.85,18645.6,141,True
+Región Metropolitana de Santiago,blanco,L,22008.06,2017-12,0.85,18706.851000000002,141,True
+Región Metropolitana de Santiago,blanco,L,22153.68,2018-01,0.85,18830.628,141,True
+Región Metropolitana de Santiago,blanco,L,21853.5,2018-02,0.85,18575.475,141,True
+Región Metropolitana de Santiago,blanco,L,21749.550000000003,2018-03,0.85,18487.1175,141,True
+Región Metropolitana de Santiago,blanco,L,21948.6,2018-04,0.85,18656.309999999998,141,True
+Región Metropolitana de Santiago,blanco,L,22271.4,2018-05,0.85,18930.690000000002,141,True
+Región Metropolitana de Santiago,blanco,L,22325.4,2018-06,0.85,18976.59,141,True
+Región Metropolitana de Santiago,blanco,L,22183.92,2018-07,0.85,18856.332,141,True
+Región Metropolitana de Santiago,blanco,L,21736.68,2018-08,0.85,18476.178,141,True
+Región Metropolitana de Santiago,blanco,L,21792.0,2018-09,0.85,18523.2,141,True
+Región Metropolitana de Santiago,blanco,L,22036.8,2018-10,0.85,18731.28,141,True
+Región Metropolitana de Santiago,blanco,L,21705.72,2018-11,0.85,18449.862,141,True
+Región Metropolitana de Santiago,blanco,L,21451.74,2018-12,0.85,18233.979,141,True
+Región Metropolitana de Santiago,blanco,L,21474.0,2019-01,0.85,18252.899999999998,141,True
+Región Metropolitana de Santiago,blanco,L,21239.37,2019-02,0.85,18053.4645,141,True
+Región Metropolitana de Santiago,blanco,L,22010.34,2019-03,0.85,18708.789,141,True
+Región Metropolitana de Santiago,blanco,L,22282.17,2019-04,0.85,18939.8445,141,True
+Región Metropolitana de Santiago,blanco,L,22119.24,2019-05,0.85,18801.354,141,True
+Región Metropolitana de Santiago,blanco,L,21718.08,2019-06,0.85,18460.368000000002,141,True
+Región Metropolitana de Santiago,blanco,L,21804.0,2019-07,0.85,18533.399999999998,141,True
+Región Metropolitana de Santiago,blanco,L,21794.76,2019-08,0.85,18525.546,141,True
+Región Metropolitana de Santiago,blanco,L,21064.14,2019-09,0.85,17904.519,141,True
+Región Metropolitana de Santiago,blanco,L,21514.08,2019-10,0.85,18286.968,141,True
+Región Metropolitana de Santiago,blanco,L,21602.58,2019-11,0.85,18362.193,141,True
+Región Metropolitana de Santiago,blanco,L,21019.86,2019-12,0.85,17866.881,141,True
+Región Metropolitana de Santiago,blanco,L,21411.48,2020-01,0.85,18199.757999999998,141,True
+Región Metropolitana de Santiago,blanco,L,21493.26,2020-02,0.85,18269.270999999997,141,True
+Región Metropolitana de Santiago,blanco,L,21098.82,2020-03,0.85,17933.997,141,True
+Región Metropolitana de Santiago,blanco,L,21662.52,2020-04,0.85,18413.142,141,True
+Región Metropolitana de Santiago,blanco,L,23101.8,2020-05,0.85,19636.53,141,True
+Región Metropolitana de Santiago,blanco,L,23731.274208000003,2020-06,0.85,20171.5830768,141,True
+Región Metropolitana de Santiago,blanco,L,24162.0,2020-07,0.85,20537.7,141,True
+Región Metropolitana de Santiago,blanco,L,24373.75902,2020-08,0.85,20717.695167,141,True
+Región Metropolitana de Santiago,blanco,L,24380.300484,2020-09,0.85,20723.255411399998,141,True
+Región Metropolitana de Santiago,blanco,L,24372.3,2020-10,0.85,20716.454999999998,141,True
+Región Metropolitana de Santiago,blanco,L,24170.58,2020-11,0.85,20544.993000000002,141,True
+Región Metropolitana de Santiago,blanco,L,24046.104924,2020-12,0.85,20439.1891854,141,True
+Región Metropolitana de Santiago,blanco,L,23752.58064,2021-01,0.85,20189.693543999998,141,True
+Región Metropolitana de Santiago,blanco,L,23594.813082,2021-02,0.85,20055.5911197,141,True
+Región Metropolitana de Santiago,blanco,L,23596.68,2021-03,0.85,20057.178,141,True
+Región Metropolitana de Santiago,blanco,L,23827.98,2021-04,0.85,20253.783,141,True
+Región Metropolitana de Santiago,blanco,L,24062.337828000003,2021-05,0.85,20452.9871538,141,True
+Región Metropolitana de Santiago,blanco,L,24420.0,2021-06,0.85,20757.0,141,True
+Región Metropolitana de Santiago,blanco,L,24393.54,2021-07,0.85,20734.509000000002,141,True
+Región Metropolitana de Santiago,blanco,L,23613.6,2021-08,0.85,20071.559999999998,141,True
+Región Metropolitana de Santiago,blanco,L,23292.0,2021-09,0.85,19798.2,141,True
+Región Metropolitana de Santiago,blanco,L,23636.28,2021-10,0.85,20090.838,141,True
+Región Metropolitana de Santiago,blanco,L,23622.42,2021-11,0.85,20079.056999999997,141,True
+Región Metropolitana de Santiago,blanco,L,23223.66,2021-12,0.85,19740.111,141,True
+Región Metropolitana de Santiago,blanco,L,23129.090904,2022-01,0.85,19659.7272684,141,True
+Región Metropolitana de Santiago,blanco,L,23202.545448,2022-02,0.85,19722.1636308,141,True
+Región Metropolitana de Santiago,blanco,L,25436.799996,2022-03,0.85,21621.279996600002,141,True
+Región Metropolitana de Santiago,blanco,L,26404.714278,2022-04,0.85,22444.0071363,141,True
+Región Metropolitana de Santiago,blanco,L,27348.75,2022-05,0.85,23246.4375,141,True
+Región Metropolitana de Santiago,blanco,L,28116.0,2022-06,0.85,23898.6,141,True
+Región Metropolitana de Santiago,blanco,L,28483.714284,2022-07,0.85,24211.1571414,141,True
+Región Metropolitana de Santiago,blanco,L,29190.0,2022-08,0.85,24811.5,141,True
+Región Metropolitana de Santiago,blanco,L,29661.230766,2022-09,0.85,25212.0461511,141,True
+Región Metropolitana de Santiago,blanco,L,30421.571424,2022-10,0.85,25858.335710400002,141,True
+Región Metropolitana de Santiago,blanco,L,30469.090908,2022-11,0.85,25898.7272718,141,True
+Región Metropolitana de Santiago,blanco,L,29882.30769,2022-12,0.85,25399.9615365,141,True
+Región Metropolitana de Santiago,blanco,L,30133.742646,2023-01,0.85,25613.6812491,141,True
+Región Metropolitana de Santiago,blanco,L,30210.36363,2023-02,0.85,25678.8090855,141,True
+Región Metropolitana de Santiago,blanco,L,32103.652164,2023-03,0.85,27288.104339399997,141,True
+Región Metropolitana de Santiago,blanco,L,33249.999996,2023-04,0.85,28262.4999966,141,True
+Región Metropolitana de Santiago,blanco,L,37418.666664,2023-05,0.85,31805.866664399997,141,True
+Región Metropolitana de Santiago,blanco,L,40557.375,2023-06,0.85,34473.768749999996,141,True
+Región Metropolitana de Santiago,blanco,L,41113.217388,2023-07,0.85,34946.2347798,141,True
+Región Metropolitana de Santiago,blanco,L,42231.999996,2023-08,0.85,35897.1999966,141,True
+Región Metropolitana de Santiago,blanco,L,43381.84827,2023-09,0.85,36874.5710295,141,True
+Región Metropolitana de Santiago,blanco,L,42948.272724,2023-10,0.85,36506.0318154,141,True
+Región Metropolitana de Santiago,blanco,L,42414.0,2023-11,0.85,36051.9,141,True
+Región Metropolitana de Santiago,blanco,L,42025.668444,2023-12,0.85,35721.818177400004,141,True
+Región Metropolitana de Santiago,blanco,L,40777.999992,2024-01,0.85,34661.299993199995,141,True
+Región Metropolitana de Santiago,blanco,L,41225.999994,2024-02,0.85,35042.099994899996,141,True
+Región Metropolitana de Santiago,blanco,L,41746.941174,2024-03,0.85,35484.8999979,141,True
+Región Metropolitana de Santiago,blanco,L,41808.3,2024-04,0.85,35537.055,141,True
+Región Metropolitana de Santiago,blanco,L,42440.4,2024-05,0.85,36074.340000000004,141,True
+Región Metropolitana de Santiago,blanco,L,43258.714284,2024-06,0.85,36769.9071414,141,True
+Región Metropolitana de Santiago,blanco,L,44525.45454,2024-07,0.85,37846.636359,141,True
+Región Metropolitana de Santiago,blanco,L,43573.071426,2024-08,0.85,37037.1107121,141,True
+Región Metropolitana de Santiago,blanco,L,43590.930474,2024-09,0.85,37052.2909029,141,True
+Región Metropolitana de Santiago,blanco,L,42835.999992,2024-10,0.85,36410.5999932,141,True
+Región Metropolitana de Santiago,blanco,L,41900.459766,2024-11,0.85,35615.3908011,141,True
+Región Metropolitana de Santiago,blanco,L,42097.77018,2024-12,0.85,35783.104653,141,True
+Región Metropolitana de Santiago,blanco,L,40840.285704,2025-01,0.85,34714.2428484,141,True
+Región Metropolitana de Santiago,blanco,L,40888.74285,2025-02,0.85,34755.4314225,141,True
+Región Metropolitana de Santiago,blanco,L,41638.486836,2025-03,0.85,35392.7138106,141,True
+Región Metropolitana de Santiago,blanco,L,42343.5,2025-04,0.85,35991.975,141,True
+Región Metropolitana de Santiago,blanco,L,46123.363632,2025-05,0.85,39204.8590872,141,True
+Región Metropolitana de Santiago,blanco,L,48452.349996,2025-06,0.85,41184.49749659999,141,True
+Región Metropolitana de Santiago,blanco,L,49308.387096000006,2025-07,0.85,41912.1290316,141,True
+Región Metropolitana de Santiago,blanco,L,49174.63848,2025-08,0.85,41798.442708,141,True
+Región Metropolitana de Santiago,blanco,L,49220.71428,2025-09,0.85,41837.607138,141,True
+Región Metropolitana de Santiago,color,L,19080.0,2014-05,0.85,16218.0,137,True
+Región Metropolitana de Santiago,color,L,19848.42,2014-06,0.85,16871.157,137,True
+Región Metropolitana de Santiago,color,L,20533.2,2014-07,0.85,17453.22,137,True
+Región Metropolitana de Santiago,color,L,20520.48,2014-08,0.85,17442.408,137,True
+Región Metropolitana de Santiago,color,L,20478.72,2014-09,0.85,17406.912,137,True
+Región Metropolitana de Santiago,color,L,20623.44,2014-10,0.85,17529.924,137,True
+Región Metropolitana de Santiago,color,L,20879.58,2014-11,0.85,17747.643,137,True
+Región Metropolitana de Santiago,color,L,21597.6,2014-12,0.85,18357.96,137,True
+Región Metropolitana de Santiago,color,L,21497.16,2015-01,0.85,18272.586,137,True
+Región Metropolitana de Santiago,color,L,21208.56,2015-02,0.85,18027.276,137,True
+Región Metropolitana de Santiago,color,L,21116.88,2015-03,0.85,17949.348,137,True
+Región Metropolitana de Santiago,color,L,21261.0,2015-04,0.85,18071.85,137,True
+Región Metropolitana de Santiago,color,L,21686.52,2015-05,0.85,18433.542,137,True
+Región Metropolitana de Santiago,color,L,22413.9,2015-06,0.85,19051.815000000002,137,True
+Región Metropolitana de Santiago,color,L,24070.92,2015-07,0.85,20460.282,137,True
+Región Metropolitana de Santiago,color,L,23737.800000000003,2015-08,0.85,20177.13,137,True
+Región Metropolitana de Santiago,color,L,23241.24,2015-09,0.85,19755.054,137,True
+Región Metropolitana de Santiago,color,L,22932.0,2015-10,0.85,19492.2,137,True
+Región Metropolitana de Santiago,color,L,22916.46,2015-11,0.85,19478.990999999998,137,True
+Región Metropolitana de Santiago,color,L,22866.84,2015-12,0.85,19436.814,137,True
+Región Metropolitana de Santiago,color,L,22850.466666,2016-01,0.85,19422.8966661,137,True
+Región Metropolitana de Santiago,color,L,22811.533332,2016-02,0.85,19389.803332199997,137,True
+Región Metropolitana de Santiago,color,L,23054.88,2016-03,0.85,19596.648,137,True
+Región Metropolitana de Santiago,color,L,23157.24,2016-04,0.85,19683.654000000002,137,True
+Región Metropolitana de Santiago,color,L,23100.84,2016-05,0.85,19635.714,137,True
+Región Metropolitana de Santiago,color,L,22886.16,2016-06,0.85,19453.236,137,True
+Región Metropolitana de Santiago,color,L,22922.16,2016-07,0.85,19483.836,137,True
+Región Metropolitana de Santiago,color,L,23070.6,2016-08,0.85,19610.01,137,True
+Región Metropolitana de Santiago,color,L,23060.34,2016-09,0.85,19601.289,137,True
+Región Metropolitana de Santiago,color,L,22971.9,2016-10,0.85,19526.115,137,True
+Región Metropolitana de Santiago,color,L,22916.28,2016-11,0.85,19478.838,137,True
+Región Metropolitana de Santiago,color,L,22819.38,2016-12,0.85,19396.473,137,True
+Región Metropolitana de Santiago,color,L,22954.68,2017-01,0.85,19511.478,137,True
+Región Metropolitana de Santiago,color,L,22540.26,2017-02,0.85,19159.220999999998,137,True
+Región Metropolitana de Santiago,color,L,22516.56,2017-03,0.85,19139.076,137,True
+Región Metropolitana de Santiago,color,L,22816.92,2017-04,0.85,19394.381999999998,137,True
+Región Metropolitana de Santiago,color,L,22784.4,2017-05,0.85,19366.74,137,True
+Región Metropolitana de Santiago,color,L,23147.19,2017-06,0.85,19675.1115,137,True
+Región Metropolitana de Santiago,color,L,23067.3,2017-07,0.85,19607.204999999998,137,True
+Región Metropolitana de Santiago,color,L,23030.409228,2017-08,0.85,19575.8478438,137,True
+Región Metropolitana de Santiago,color,L,23115.6,2017-09,0.85,19648.26,137,True
+Región Metropolitana de Santiago,color,L,22861.44,2017-10,0.85,19432.224,137,True
+Región Metropolitana de Santiago,color,L,23313.96,2017-11,0.85,19816.865999999998,137,True
+Región Metropolitana de Santiago,color,L,23163.06,2017-12,0.85,19688.601000000002,137,True
+Región Metropolitana de Santiago,color,L,23352.72,2018-01,0.85,19849.812,137,True
+Región Metropolitana de Santiago,color,L,23021.52,2018-02,0.85,19568.292,137,True
+Región Metropolitana de Santiago,color,L,23117.04,2018-03,0.85,19649.484,137,True
+Región Metropolitana de Santiago,color,L,23293.68,2018-04,0.85,19799.628,137,True
+Región Metropolitana de Santiago,color,L,23478.36,2018-05,0.85,19956.606,137,True
+Región Metropolitana de Santiago,color,L,23520.78,2018-06,0.85,19992.662999999997,137,True
+Región Metropolitana de Santiago,color,L,23090.88,2018-07,0.85,19627.248,137,True
+Región Metropolitana de Santiago,color,L,23078.52,2018-08,0.85,19616.742,137,True
+Región Metropolitana de Santiago,color,L,23153.52,2018-09,0.85,19680.492,137,True
+Región Metropolitana de Santiago,color,L,23182.47,2018-10,0.85,19705.0995,137,True
+Región Metropolitana de Santiago,color,L,23198.52,2018-11,0.85,19718.742,137,True
+Región Metropolitana de Santiago,color,L,22858.98,2018-12,0.85,19430.132999999998,137,True
+Región Metropolitana de Santiago,color,L,22103.94,2019-01,0.85,18788.349,137,True
+Región Metropolitana de Santiago,color,L,22430.7,2019-02,0.85,19066.095,137,True
+Región Metropolitana de Santiago,color,L,22741.98,2019-03,0.85,19330.683,137,True
+Región Metropolitana de Santiago,color,L,22658.88,2019-04,0.85,19260.048,137,True
+Región Metropolitana de Santiago,color,L,22731.72,2019-05,0.85,19321.962,137,True
+Región Metropolitana de Santiago,color,L,22762.32,2019-06,0.85,19347.971999999998,137,True
+Región Metropolitana de Santiago,color,L,23285.64,2019-07,0.85,19792.793999999998,137,True
+Región Metropolitana de Santiago,color,L,22949.46,2019-08,0.85,19507.040999999997,137,True
+Región Metropolitana de Santiago,color,L,22745.76,2019-09,0.85,19333.895999999997,137,True
+Región Metropolitana de Santiago,color,L,23268.0,2019-10,0.85,19777.8,137,True
+Región Metropolitana de Santiago,color,L,22620.36,2019-11,0.85,19227.306,137,True
+Región Metropolitana de Santiago,color,L,22498.74,2019-12,0.85,19123.929,137,True
+Región Metropolitana de Santiago,color,L,23068.800000000003,2020-01,0.85,19608.480000000003,137,True
+Región Metropolitana de Santiago,color,L,22533.480000000003,2020-02,0.85,19153.458000000002,137,True
+Región Metropolitana de Santiago,color,L,22198.800000000003,2020-03,0.85,18868.980000000003,137,True
+Región Metropolitana de Santiago,color,L,23403.6,2020-04,0.85,19893.059999999998,137,True
+Región Metropolitana de Santiago,color,L,24331.5,2020-05,0.85,20681.774999999998,137,True
+Región Metropolitana de Santiago,color,L,25206.506208,2020-06,0.85,21425.5302768,137,True
+Región Metropolitana de Santiago,color,L,25332.0,2020-07,0.85,21532.2,137,True
+Región Metropolitana de Santiago,color,L,25607.629284,2020-08,0.85,21766.4848914,137,True
+Región Metropolitana de Santiago,color,L,25182.0,2020-09,0.85,21404.7,137,True
+Región Metropolitana de Santiago,color,L,25271.500938,2020-10,0.85,21480.7757973,137,True
+Región Metropolitana de Santiago,color,L,25309.44,2020-11,0.85,21513.023999999998,137,True
+Región Metropolitana de Santiago,color,L,24917.683632,2020-12,0.85,21180.0310872,137,True
+Región Metropolitana de Santiago,color,L,24879.362946,2021-01,0.85,21147.4585041,137,True
+Región Metropolitana de Santiago,color,L,24976.602906,2021-02,0.85,21230.1124701,137,True
+Región Metropolitana de Santiago,color,L,25148.04,2021-03,0.85,21375.834,137,True
+Región Metropolitana de Santiago,color,L,25668.54,2021-04,0.85,21818.259000000002,137,True
+Región Metropolitana de Santiago,color,L,26053.800000000003,2021-05,0.85,22145.730000000003,137,True
+Región Metropolitana de Santiago,color,L,26004.0,2021-06,0.85,22103.399999999998,137,True
+Región Metropolitana de Santiago,color,L,25702.02,2021-07,0.85,21846.717,137,True
+Región Metropolitana de Santiago,color,L,25417.68,2021-08,0.85,21605.028,137,True
+Región Metropolitana de Santiago,color,L,25627.2,2021-09,0.85,21783.12,137,True
+Región Metropolitana de Santiago,color,L,25468.02,2021-10,0.85,21647.817,137,True
+Región Metropolitana de Santiago,color,L,25279.2,2021-11,0.85,21487.32,137,True
+Región Metropolitana de Santiago,color,L,25351.92,2021-12,0.85,21549.131999999998,137,True
+Región Metropolitana de Santiago,color,L,25479.6,2022-01,0.85,21657.66,137,True
+Región Metropolitana de Santiago,color,L,25527.692304,2022-02,0.85,21698.5384584,137,True
+Región Metropolitana de Santiago,color,L,27156.0,2022-03,0.85,23082.6,137,True
+Región Metropolitana de Santiago,color,L,28337.599998,2022-04,0.85,24086.9599983,137,True
+Región Metropolitana de Santiago,color,L,28775.499996,2022-05,0.85,24459.1749966,137,True
+Región Metropolitana de Santiago,color,L,29257.714284,2022-06,0.85,24869.0571414,137,True
+Región Metropolitana de Santiago,color,L,30318.714282,2022-07,0.85,25770.9071397,137,True
+Región Metropolitana de Santiago,color,L,30954.0,2022-08,0.85,26310.899999999998,137,True
+Región Metropolitana de Santiago,color,L,31755.300000000003,2022-09,0.85,26992.005,137,True
+Región Metropolitana de Santiago,color,L,32692.499994,2022-10,0.85,27788.6249949,137,True
+Región Metropolitana de Santiago,color,L,33420.0,2022-11,0.85,28407.0,137,True
+Región Metropolitana de Santiago,color,L,32870.919996,2022-12,0.85,27940.281996599995,137,True
+Región Metropolitana de Santiago,color,L,32941.716918,2023-01,0.85,28000.4593803,137,True
+Región Metropolitana de Santiago,color,L,33314.228568000006,2023-02,0.85,28317.094282800004,137,True
+Región Metropolitana de Santiago,color,L,34548.66666,2023-03,0.85,29366.366661,137,True
+Región Metropolitana de Santiago,color,L,35650.833329999994,2023-04,0.85,30303.208330499994,137,True
+Región Metropolitana de Santiago,color,L,39769.333332,2023-05,0.85,33803.9333322,137,True
+Región Metropolitana de Santiago,color,L,42261.904302,2023-06,0.85,35922.618656700004,137,True
+Región Metropolitana de Santiago,color,L,42955.159656,2023-07,0.85,36511.8857076,137,True
+Región Metropolitana de Santiago,color,L,44018.086956,2023-08,0.85,37415.3739126,137,True
+Región Metropolitana de Santiago,color,L,44779.956516,2023-09,0.85,38062.9630386,137,True
+Región Metropolitana de Santiago,color,L,44297.33332799999,2023-10,0.85,37652.73332879999,137,True
+Región Metropolitana de Santiago,color,L,44138.85714,2023-11,0.85,37518.028569,137,True
+Región Metropolitana de Santiago,color,L,43931.56521,2023-12,0.85,37341.8304285,137,True
+Región Metropolitana de Santiago,color,L,44401.599996,2024-01,0.85,37741.3599966,137,True
+Región Metropolitana de Santiago,color,L,44360.93103,2024-02,0.85,37706.7913755,137,True
+Región Metropolitana de Santiago,color,L,44485.5,2024-03,0.85,37812.674999999996,137,True
+Región Metropolitana de Santiago,color,L,44670.025968,2024-04,0.85,37969.5220728,137,True
+Región Metropolitana de Santiago,color,L,45164.88888,2024-05,0.85,38390.155547999995,137,True
+Región Metropolitana de Santiago,color,L,45653.55555,2024-06,0.85,38805.522217499994,137,True
+Región Metropolitana de Santiago,color,L,46050.0,2024-07,0.85,39142.5,137,True
+Región Metropolitana de Santiago,color,L,45814.450542,2024-08,0.85,38942.282960699995,137,True
+Región Metropolitana de Santiago,color,L,45994.285704,2024-09,0.85,39095.1428484,137,True
+Región Metropolitana de Santiago,color,L,45271.058820000006,2024-10,0.85,38480.399997,137,True
+Región Metropolitana de Santiago,color,L,44109.6,2024-11,0.85,37493.159999999996,137,True
+Región Metropolitana de Santiago,color,L,43750.421052,2024-12,0.85,37187.857894199995,137,True
+Región Metropolitana de Santiago,color,L,42540.0,2025-01,0.85,36159.0,137,True
+Región Metropolitana de Santiago,color,L,42932.58333,2025-02,0.85,36492.6958305,137,True
+Región Metropolitana de Santiago,color,L,43776.69444,2025-03,0.85,37210.190274,137,True
+Región Metropolitana de Santiago,color,L,45364.363632,2025-04,0.85,38559.7090872,137,True
+Región Metropolitana de Santiago,color,L,47297.823528,2025-05,0.85,40203.1499988,137,True
+Región Metropolitana de Santiago,color,L,49989.518178,2025-06,0.85,42491.0904513,137,True
+Región Metropolitana de Santiago,color,L,50801.647056,2025-07,0.85,43181.3999976,137,True
+Región Metropolitana de Santiago,color,L,50724.0,2025-08,0.85,43115.4,137,True
+Región Metropolitana de Santiago,color,L,50657.71428,2025-09,0.85,43059.057138,137,True
+Región de Arica y Parinacota,blanco,L,21130.02,2014-10,0.85,17960.517,125,True
+Región de Arica y Parinacota,blanco,L,20790.0,2014-11,0.85,17671.5,125,True
+Región de Arica y Parinacota,blanco,L,20787.96,2014-12,0.85,17669.766,125,True
+Región de Arica y Parinacota,blanco,L,19638.0,2015-01,0.85,16692.3,125,True
+Región de Arica y Parinacota,blanco,L,20478.0,2015-02,0.85,17406.3,125,True
+Región de Arica y Parinacota,blanco,L,21048.0,2015-03,0.85,17890.8,125,True
+Región de Arica y Parinacota,blanco,L,21048.0,2015-04,0.85,17890.8,125,True
+Región de Arica y Parinacota,blanco,L,20764.02,2015-05,0.85,17649.417,125,True
+Región de Arica y Parinacota,blanco,L,21547.98,2015-06,0.85,18315.783,125,True
+Región de Arica y Parinacota,blanco,L,20388.0,2015-07,0.85,17329.8,125,True
+Región de Arica y Parinacota,blanco,L,21507.96,2015-08,0.85,18281.766,125,True
+Región de Arica y Parinacota,blanco,L,20868.0,2015-09,0.85,17737.8,125,True
+Región de Arica y Parinacota,blanco,L,20088.0,2015-10,0.85,17074.8,125,True
+Región de Arica y Parinacota,blanco,L,21318.0,2015-11,0.85,18120.3,125,True
+Región de Arica y Parinacota,blanco,L,21468.0,2015-12,0.85,18247.8,125,True
+Región de Arica y Parinacota,blanco,L,21828.0,2016-01,0.85,18553.8,125,True
+Región de Arica y Parinacota,blanco,L,21828.0,2016-02,0.85,18553.8,125,True
+Región de Arica y Parinacota,blanco,L,22008.0,2016-03,0.85,18706.8,125,True
+Región de Arica y Parinacota,blanco,L,22008.0,2016-04,0.85,18706.8,125,True
+Región de Arica y Parinacota,blanco,L,21468.0,2016-05,0.85,18247.8,125,True
+Región de Arica y Parinacota,blanco,L,21648.0,2016-06,0.85,18400.8,125,True
+Región de Arica y Parinacota,blanco,L,21018.0,2016-07,0.85,17865.3,125,True
+Región de Arica y Parinacota,blanco,L,21468.0,2016-08,0.85,18247.8,125,True
+Región de Arica y Parinacota,blanco,L,21243.0,2016-09,0.85,18056.55,125,True
+Región de Arica y Parinacota,blanco,L,21468.0,2016-10,0.85,18247.8,125,True
+Región de Arica y Parinacota,blanco,L,21468.0,2016-11,0.85,18247.8,125,True
+Región de Arica y Parinacota,blanco,L,21603.0,2016-12,0.85,18362.55,125,True
+Región de Arica y Parinacota,blanco,L,21648.0,2017-01,0.85,18400.8,125,True
+Región de Arica y Parinacota,blanco,L,21660.0,2017-02,0.85,18411.0,125,True
+Región de Arica y Parinacota,blanco,L,20328.0,2017-03,0.85,17278.8,125,True
+Región de Arica y Parinacota,blanco,L,21648.0,2017-04,0.85,18400.8,125,True
+Región de Arica y Parinacota,blanco,L,19188.0,2017-05,0.85,16309.8,125,True
+Región de Arica y Parinacota,blanco,L,21828.0,2017-06,0.85,18553.8,125,True
+Región de Arica y Parinacota,blanco,L,22388.04,2017-07,0.85,19029.834,125,True
+Región de Arica y Parinacota,blanco,L,21972.0,2017-08,0.85,18676.2,125,True
+Región de Arica y Parinacota,blanco,L,22476.0,2017-09,0.85,19104.6,125,True
+Región de Arica y Parinacota,blanco,L,22168.02,2017-10,0.85,18842.817,125,True
+Región de Arica y Parinacota,blanco,L,22827.96,2017-11,0.85,19403.766,125,True
+Región de Arica y Parinacota,blanco,L,22278.0,2017-12,0.85,18936.3,125,True
+Región de Arica y Parinacota,blanco,L,22632.0,2018-01,0.85,19237.2,125,True
+Región de Arica y Parinacota,blanco,L,22918.02,2018-02,0.85,19480.317,125,True
+Región de Arica y Parinacota,blanco,L,21829.02,2018-03,0.85,18554.667,125,True
+Región de Arica y Parinacota,blanco,L,22432.02,2018-04,0.85,19067.217,125,True
+Región de Arica y Parinacota,blanco,L,22428.0,2018-05,0.85,19063.8,125,True
+Región de Arica y Parinacota,blanco,L,22878.0,2018-06,0.85,19446.3,125,True
+Región de Arica y Parinacota,blanco,L,22818.0,2018-07,0.85,19395.3,125,True
+Región de Arica y Parinacota,blanco,L,22608.0,2018-08,0.85,19216.8,125,True
+Región de Arica y Parinacota,blanco,L,21867.96,2018-09,0.85,18587.766,125,True
+Región de Arica y Parinacota,blanco,L,21918.0,2018-10,0.85,18630.3,125,True
+Región de Arica y Parinacota,blanco,L,22646.4,2018-11,0.85,19249.440000000002,125,True
+Región de Arica y Parinacota,blanco,L,21684.0,2018-12,0.85,18431.399999999998,125,True
+Región de Arica y Parinacota,blanco,L,21657.6,2019-01,0.85,18408.96,125,True
+Región de Arica y Parinacota,blanco,L,21894.0,2019-02,0.85,18609.899999999998,125,True
+Región de Arica y Parinacota,blanco,L,22728.0,2019-03,0.85,19318.8,125,True
+Región de Arica y Parinacota,blanco,L,21730.02,2019-04,0.85,18470.517,125,True
+Región de Arica y Parinacota,blanco,L,22352.04,2019-05,0.85,18999.234,125,True
+Región de Arica y Parinacota,blanco,L,20490.0,2019-06,0.85,17416.5,125,True
+Región de Arica y Parinacota,blanco,L,22008.0,2019-07,0.85,18706.8,125,True
+Región de Arica y Parinacota,blanco,L,21216.0,2019-08,0.85,18033.6,125,True
+Región de Arica y Parinacota,blanco,L,21408.0,2019-09,0.85,18196.8,125,True
+Región de Arica y Parinacota,blanco,L,22868.04,2019-10,0.85,19437.834,125,True
+Región de Arica y Parinacota,blanco,L,22347.96,2019-11,0.85,18995.766,125,True
+Región de Arica y Parinacota,blanco,L,20608.02,2019-12,0.85,17516.817,125,True
+Región de Arica y Parinacota,blanco,L,21738.0,2020-01,0.85,18477.3,125,True
+Región de Arica y Parinacota,blanco,L,21988.02,2020-02,0.85,18689.817,125,True
+Región de Arica y Parinacota,blanco,L,22368.0,2020-03,0.85,19012.8,125,True
+Región de Arica y Parinacota,blanco,L,19788.0,2020-04,0.85,16819.8,125,True
+Región de Arica y Parinacota,blanco,L,22788.0,2020-05,0.85,19369.8,125,True
+Región de Arica y Parinacota,blanco,L,24168.0,2020-06,0.85,20542.8,125,True
+Región de Arica y Parinacota,blanco,L,24088.02,2020-07,0.85,20474.817,125,True
+Región de Arica y Parinacota,blanco,L,24168.0,2020-08,0.85,20542.8,125,True
+Región de Arica y Parinacota,blanco,L,23988.0,2020-09,0.85,20389.8,125,True
+Región de Arica y Parinacota,blanco,L,23988.0,2020-10,0.85,20389.8,125,True
+Región de Arica y Parinacota,blanco,L,24468.0,2020-11,0.85,20797.8,125,True
+Región de Arica y Parinacota,blanco,L,23688.0,2020-12,0.85,20134.8,125,True
+Región de Arica y Parinacota,blanco,L,23137.98,2021-01,0.85,19667.283,125,True
+Región de Arica y Parinacota,blanco,L,21108.0,2021-02,0.85,17941.8,125,True
+Región de Arica y Parinacota,blanco,L,23388.0,2021-03,0.85,19879.8,125,True
+Región de Arica y Parinacota,blanco,L,23388.0,2021-04,0.85,19879.8,125,True
+Región de Arica y Parinacota,blanco,L,24918.0,2021-05,0.85,21180.3,125,True
+Región de Arica y Parinacota,blanco,L,25428.0,2021-06,0.85,21613.8,125,True
+Región de Arica y Parinacota,blanco,L,25428.0,2021-08,0.85,21613.8,125,True
+Región de Arica y Parinacota,blanco,L,21480.0,2021-09,0.85,18258.0,125,True
+Región de Arica y Parinacota,blanco,L,23454.0,2021-10,0.85,19935.899999999998,125,True
+Región de Arica y Parinacota,blanco,L,24588.0,2021-12,0.85,20899.8,125,True
+Región de Arica y Parinacota,blanco,L,21000.0,2022-01,0.85,17850.0,125,True
+Región de Arica y Parinacota,blanco,L,21480.0,2022-02,0.85,18258.0,125,True
+Región de Arica y Parinacota,blanco,L,25428.0,2022-04,0.85,21613.8,125,True
+Región de Arica y Parinacota,blanco,L,29274.0,2022-09,0.85,24882.899999999998,125,True
+Región de Arica y Parinacota,blanco,L,30408.0,2022-10,0.85,25846.8,125,True
+Región de Arica y Parinacota,blanco,L,30408.0,2022-11,0.85,25846.8,125,True
+Región de Arica y Parinacota,blanco,L,29356.5,2022-12,0.85,24953.024999999998,125,True
+Región de Arica y Parinacota,blanco,L,30708.0,2023-01,0.85,26101.8,125,True
+Región de Arica y Parinacota,blanco,L,30472.999998,2023-02,0.85,25902.049998299997,125,True
+Región de Arica y Parinacota,blanco,L,32688.0,2023-03,0.85,27784.8,125,True
+Región de Arica y Parinacota,blanco,L,35358.0,2023-04,0.85,30054.3,125,True
+Región de Arica y Parinacota,blanco,L,40687.999998,2023-05,0.85,34584.7999983,125,True
+Región de Arica y Parinacota,blanco,L,41400.0,2023-06,0.85,35190.0,125,True
+Región de Arica y Parinacota,blanco,L,40998.0,2023-07,0.85,34848.299999999996,125,True
+Región de Arica y Parinacota,blanco,L,42168.0,2023-08,0.85,35842.799999999996,125,True
+Región de Arica y Parinacota,blanco,L,40668.0,2023-09,0.85,34567.799999999996,125,True
+Región de Arica y Parinacota,blanco,L,41194.5,2023-10,0.85,35015.325,125,True
+Región de Arica y Parinacota,blanco,L,41028.0,2023-11,0.85,34873.799999999996,125,True
+Región de Arica y Parinacota,blanco,L,41121.0,2023-12,0.85,34952.85,125,True
+Región de Arica y Parinacota,blanco,L,41058.0,2024-01,0.85,34899.299999999996,125,True
+Región de Arica y Parinacota,blanco,L,41088.0,2024-02,0.85,34924.799999999996,125,True
+Región de Arica y Parinacota,blanco,L,41088.0,2024-03,0.85,34924.799999999996,125,True
+Región de Arica y Parinacota,blanco,L,41058.0,2024-04,0.85,34899.299999999996,125,True
+Región de Arica y Parinacota,blanco,L,41187.999996,2024-05,0.85,35009.7999966,125,True
+Región de Arica y Parinacota,blanco,L,41197.999998,2024-06,0.85,35018.2999983,125,True
+Región de Arica y Parinacota,blanco,L,42894.0,2024-07,0.85,36459.9,125,True
+Región de Arica y Parinacota,blanco,L,42462.999996,2024-08,0.85,36093.5499966,125,True
+Región de Arica y Parinacota,blanco,L,43313.142852,2024-09,0.85,36816.171424199994,125,True
+Región de Arica y Parinacota,blanco,L,42649.999992,2024-10,0.85,36252.4999932,125,True
+Región de Arica y Parinacota,blanco,L,42810.0,2024-11,0.85,36388.5,125,True
+Región de Arica y Parinacota,blanco,L,43147.999998,2024-12,0.85,36675.7999983,125,True
+Región de Arica y Parinacota,blanco,L,42904.5,2025-01,0.85,36468.825,125,True
+Región de Arica y Parinacota,blanco,L,42801.0,2025-02,0.85,36380.85,125,True
+Región de Arica y Parinacota,blanco,L,42501.999996,2025-03,0.85,36126.6999966,125,True
+Región de Arica y Parinacota,blanco,L,43824.0,2025-04,0.85,37250.4,125,True
+Región de Arica y Parinacota,blanco,L,45039.514284,2025-05,0.85,38283.5871414,125,True
+Región de Arica y Parinacota,blanco,L,46013.499996,2025-06,0.85,39111.474996599994,125,True
+Región de Arica y Parinacota,blanco,L,46320.0,2025-07,0.85,39372.0,125,True
+Región de Arica y Parinacota,blanco,L,46392.857142,2025-08,0.85,39433.9285707,125,True
+Región de Arica y Parinacota,blanco,L,47138.095230000006,2025-09,0.85,40067.3809455,125,True
+Región de Arica y Parinacota,color,L,21955.32,2014-10,0.85,18662.022,132,True
+Región de Arica y Parinacota,color,L,22061.52,2014-11,0.85,18752.292,132,True
+Región de Arica y Parinacota,color,L,22086.84,2014-12,0.85,18773.814,132,True
+Región de Arica y Parinacota,color,L,21493.74,2015-01,0.85,18269.679,132,True
+Región de Arica y Parinacota,color,L,21470.73,2015-02,0.85,18250.1205,132,True
+Región de Arica y Parinacota,color,L,21325.11,2015-03,0.85,18126.3435,132,True
+Región de Arica y Parinacota,color,L,21310.800000000003,2015-04,0.85,18114.18,132,True
+Región de Arica y Parinacota,color,L,22150.53,2015-05,0.85,18827.9505,132,True
+Región de Arica y Parinacota,color,L,22786.26,2015-06,0.85,19368.321,132,True
+Región de Arica y Parinacota,color,L,23708.88,2015-07,0.85,20152.548,132,True
+Región de Arica y Parinacota,color,L,23028.36,2015-08,0.85,19574.106,132,True
+Región de Arica y Parinacota,color,L,22760.04,2015-09,0.85,19346.034,132,True
+Región de Arica y Parinacota,color,L,23300.94,2015-10,0.85,19805.799,132,True
+Región de Arica y Parinacota,color,L,22879.86,2015-11,0.85,19447.881,132,True
+Región de Arica y Parinacota,color,L,23268.0,2015-12,0.85,19777.8,132,True
+Región de Arica y Parinacota,color,L,22462.800000000003,2016-01,0.85,19093.38,132,True
+Región de Arica y Parinacota,color,L,23017.800000000003,2016-02,0.85,19565.13,132,True
+Región de Arica y Parinacota,color,L,23819.22,2016-03,0.85,20246.337,132,True
+Región de Arica y Parinacota,color,L,23389.83,2016-04,0.85,19881.3555,132,True
+Región de Arica y Parinacota,color,L,23449.86,2016-05,0.85,19932.381,132,True
+Región de Arica y Parinacota,color,L,22851.48,2016-06,0.85,19423.757999999998,132,True
+Región de Arica y Parinacota,color,L,23703.6,2016-07,0.85,20148.059999999998,132,True
+Región de Arica y Parinacota,color,L,23769.0,2016-08,0.85,20203.649999999998,132,True
+Región de Arica y Parinacota,color,L,23935.92,2016-09,0.85,20345.532,132,True
+Región de Arica y Parinacota,color,L,24402.6,2016-10,0.85,20742.21,132,True
+Región de Arica y Parinacota,color,L,23585.28,2016-11,0.85,20047.487999999998,132,True
+Región de Arica y Parinacota,color,L,22808.7,2016-12,0.85,19387.395,132,True
+Región de Arica y Parinacota,color,L,22900.74,2017-01,0.85,19465.629,132,True
+Región de Arica y Parinacota,color,L,23454.57,2017-02,0.85,19936.3845,132,True
+Región de Arica y Parinacota,color,L,22593.24,2017-03,0.85,19204.254,132,True
+Región de Arica y Parinacota,color,L,22838.34,2017-04,0.85,19412.589,132,True
+Región de Arica y Parinacota,color,L,23513.16,2017-05,0.85,19986.185999999998,132,True
+Región de Arica y Parinacota,color,L,24519.78,2017-06,0.85,20841.813,132,True
+Región de Arica y Parinacota,color,L,24362.4,2017-07,0.85,20708.04,132,True
+Región de Arica y Parinacota,color,L,24332.94,2017-08,0.85,20682.999,132,True
+Región de Arica y Parinacota,color,L,24715.98,2017-09,0.85,21008.583,132,True
+Región de Arica y Parinacota,color,L,24363.63,2017-10,0.85,20709.0855,132,True
+Región de Arica y Parinacota,color,L,24459.0,2017-11,0.85,20790.149999999998,132,True
+Región de Arica y Parinacota,color,L,24042.18,2017-12,0.85,20435.853,132,True
+Región de Arica y Parinacota,color,L,23871.96,2018-01,0.85,20291.165999999997,132,True
+Región de Arica y Parinacota,color,L,23811.81,2018-02,0.85,20240.038500000002,132,True
+Región de Arica y Parinacota,color,L,23577.42,2018-03,0.85,20040.806999999997,132,True
+Región de Arica y Parinacota,color,L,24023.88,2018-04,0.85,20420.298,132,True
+Región de Arica y Parinacota,color,L,23805.0,2018-05,0.85,20234.25,132,True
+Región de Arica y Parinacota,color,L,24074.46,2018-06,0.85,20463.290999999997,132,True
+Región de Arica y Parinacota,color,L,23973.0,2018-07,0.85,20377.05,132,True
+Región de Arica y Parinacota,color,L,23577.0,2018-08,0.85,20040.45,132,True
+Región de Arica y Parinacota,color,L,23215.38,2018-09,0.85,19733.073,132,True
+Región de Arica y Parinacota,color,L,23592.42,2018-10,0.85,20053.556999999997,132,True
+Región de Arica y Parinacota,color,L,23508.0,2018-11,0.85,19981.8,132,True
+Región de Arica y Parinacota,color,L,23080.38,2018-12,0.85,19618.323,132,True
+Región de Arica y Parinacota,color,L,23278.800000000003,2019-01,0.85,19786.980000000003,132,True
+Región de Arica y Parinacota,color,L,22669.32,2019-02,0.85,19268.922,132,True
+Región de Arica y Parinacota,color,L,23203.44,2019-03,0.85,19722.924,132,True
+Región de Arica y Parinacota,color,L,22961.4,2019-04,0.85,19517.190000000002,132,True
+Región de Arica y Parinacota,color,L,22662.96,2019-05,0.85,19263.516,132,True
+Región de Arica y Parinacota,color,L,22828.8,2019-06,0.85,19404.48,132,True
+Región de Arica y Parinacota,color,L,23054.52,2019-07,0.85,19596.342,132,True
+Región de Arica y Parinacota,color,L,22798.2,2019-08,0.85,19378.47,132,True
+Región de Arica y Parinacota,color,L,22395.96,2019-09,0.85,19036.566,132,True
+Región de Arica y Parinacota,color,L,23168.52,2019-10,0.85,19693.242,132,True
+Región de Arica y Parinacota,color,L,23225.04,2019-11,0.85,19741.284,132,True
+Región de Arica y Parinacota,color,L,23053.74,2019-12,0.85,19595.679,132,True
+Región de Arica y Parinacota,color,L,23642.52,2020-01,0.85,20096.142,132,True
+Región de Arica y Parinacota,color,L,22988.28,2020-02,0.85,19540.037999999997,132,True
+Región de Arica y Parinacota,color,L,23301.12,2020-03,0.85,19805.951999999997,132,True
+Región de Arica y Parinacota,color,L,23056.800000000003,2020-04,0.85,19598.280000000002,132,True
+Región de Arica y Parinacota,color,L,22431.96,2020-05,0.85,19067.165999999997,132,True
+Región de Arica y Parinacota,color,L,25323.0,2020-06,0.85,21524.55,132,True
+Región de Arica y Parinacota,color,L,25508.04,2020-07,0.85,21681.834,132,True
+Región de Arica y Parinacota,color,L,25401.0,2020-08,0.85,21590.85,132,True
+Región de Arica y Parinacota,color,L,25551.0,2020-09,0.85,21718.35,132,True
+Región de Arica y Parinacota,color,L,25098.6,2020-10,0.85,21333.809999999998,132,True
+Región de Arica y Parinacota,color,L,24569.22,2020-11,0.85,20883.837,132,True
+Región de Arica y Parinacota,color,L,24420.0,2020-12,0.85,20757.0,132,True
+Región de Arica y Parinacota,color,L,23756.58,2021-01,0.85,20193.093,132,True
+Región de Arica y Parinacota,color,L,24350.46,2021-02,0.85,20697.891,132,True
+Región de Arica y Parinacota,color,L,25956.0,2021-03,0.85,22062.6,132,True
+Región de Arica y Parinacota,color,L,24553.32,2021-04,0.85,20870.322,132,True
+Región de Arica y Parinacota,color,L,24870.78,2021-05,0.85,21140.162999999997,132,True
+Región de Arica y Parinacota,color,L,24894.0,2021-06,0.85,21159.899999999998,132,True
+Región de Arica y Parinacota,color,L,25351.26,2021-07,0.85,21548.570999999996,132,True
+Región de Arica y Parinacota,color,L,24512.82,2021-08,0.85,20835.897,132,True
+Región de Arica y Parinacota,color,L,25678.32,2021-09,0.85,21826.572,132,True
+Región de Arica y Parinacota,color,L,25308.24,2021-10,0.85,21512.004,132,True
+Región de Arica y Parinacota,color,L,28050.0,2021-11,0.85,23842.5,132,True
+Región de Arica y Parinacota,color,L,24115.56,2021-12,0.85,20498.226000000002,132,True
+Región de Arica y Parinacota,color,L,26136.499998,2022-01,0.85,22216.0249983,132,True
+Región de Arica y Parinacota,color,L,25497.6,2022-02,0.85,21672.96,132,True
+Región de Arica y Parinacota,color,L,27669.6,2022-03,0.85,23519.16,132,True
+Región de Arica y Parinacota,color,L,26169.3,2022-04,0.85,22243.905,132,True
+Región de Arica y Parinacota,color,L,28404.0,2022-05,0.85,24143.399999999998,132,True
+Región de Arica y Parinacota,color,L,28417.999992,2022-06,0.85,24155.2999932,132,True
+Región de Arica y Parinacota,color,L,28479.942852,2022-07,0.85,24207.9514242,132,True
+Región de Arica y Parinacota,color,L,30775.999992,2022-08,0.85,26159.5999932,132,True
+Región de Arica y Parinacota,color,L,29953.999998,2022-09,0.85,25460.8999983,132,True
+Región de Arica y Parinacota,color,L,31539.733332,2022-10,0.85,26808.7733322,132,True
+Región de Arica y Parinacota,color,L,31720.800000000003,2022-11,0.85,26962.68,132,True
+Región de Arica y Parinacota,color,L,30912.9,2022-12,0.85,26275.965,132,True
+Región de Arica y Parinacota,color,L,31536.070584,2023-01,0.85,26805.6599964,132,True
+Región de Arica y Parinacota,color,L,32081.368416,2023-02,0.85,27269.1631536,132,True
+Región de Arica y Parinacota,color,L,33649.599996000004,2023-03,0.85,28602.159996600003,132,True
+Región de Arica y Parinacota,color,L,33806.259738,2023-04,0.85,28735.3207773,132,True
+Región de Arica y Parinacota,color,L,37843.999992,2023-05,0.85,32167.399993199997,132,True
+Región de Arica y Parinacota,color,L,40601.723076,2023-06,0.85,34511.4646146,132,True
+Región de Arica y Parinacota,color,L,40720.714284,2023-07,0.85,34612.6071414,132,True
+Región de Arica y Parinacota,color,L,40974.0,2023-08,0.85,34827.9,132,True
+Región de Arica y Parinacota,color,L,41678.499996,2023-09,0.85,35426.724996599994,132,True
+Región de Arica y Parinacota,color,L,41358.0,2023-10,0.85,35154.299999999996,132,True
+Región de Arica y Parinacota,color,L,42399.999996,2023-11,0.85,36039.999996599996,132,True
+Región de Arica y Parinacota,color,L,42348.0,2023-12,0.85,35995.799999999996,132,True
+Región de Arica y Parinacota,color,L,44257.714284,2024-01,0.85,37619.0571414,132,True
+Región de Arica y Parinacota,color,L,44082.738456,2024-02,0.85,37470.3276876,132,True
+Región de Arica y Parinacota,color,L,44198.833326,2024-03,0.85,37569.0083271,132,True
+Región de Arica y Parinacota,color,L,45639.05454,2024-04,0.85,38793.196358999994,132,True
+Región de Arica y Parinacota,color,L,45018.857136000006,2024-05,0.85,38266.028565600005,132,True
+Región de Arica y Parinacota,color,L,44828.133324,2024-06,0.85,38103.913325400004,132,True
+Región de Arica y Parinacota,color,L,45097.714284,2024-07,0.85,38333.0571414,132,True
+Región de Arica y Parinacota,color,L,44798.823528,2024-08,0.85,38078.9999988,132,True
+Región de Arica y Parinacota,color,L,44416.5,2024-09,0.85,37754.025,132,True
+Región de Arica y Parinacota,color,L,45594.857136000006,2024-10,0.85,38755.628565600004,132,True
+Región de Arica y Parinacota,color,L,45181.714284,2024-11,0.85,38404.4571414,132,True
+Región de Arica y Parinacota,color,L,43886.373618,2024-12,0.85,37303.417575299994,132,True
+Región de Arica y Parinacota,color,L,43902.0,2025-01,0.85,37316.7,132,True
+Región de Arica y Parinacota,color,L,43847.505486,2025-02,0.85,37270.3796631,132,True
+Región de Arica y Parinacota,color,L,43062.399996,2025-03,0.85,36603.0399966,132,True
+Región de Arica y Parinacota,color,L,42863.076912,2025-04,0.85,36433.615375199995,132,True
+Región de Arica y Parinacota,color,L,44889.214284,2025-05,0.85,38155.8321414,132,True
+Región de Arica y Parinacota,color,L,47284.84033200001,2025-06,0.85,40192.114282200004,132,True
+Región de Arica y Parinacota,color,L,48999.999996,2025-07,0.85,41649.999996599996,132,True
+Región de Arica y Parinacota,color,L,49531.01298,2025-08,0.85,42101.361033,132,True
+Región de Arica y Parinacota,color,L,49864.852938,2025-09,0.85,42385.1249973,132,True
+Región de Coquimbo,blanco,L,19306.02,2014-06,0.85,16410.117,136,True
+Región de Coquimbo,blanco,L,21228.0,2014-07,0.85,18043.8,136,True
+Región de Coquimbo,blanco,L,21074.7,2014-08,0.85,17913.495,136,True
+Región de Coquimbo,blanco,L,21059.64,2014-09,0.85,17900.694,136,True
+Región de Coquimbo,blanco,L,20907.96,2014-10,0.85,17771.766,136,True
+Región de Coquimbo,blanco,L,20820.0,2014-11,0.85,17697.0,136,True
+Región de Coquimbo,blanco,L,21174.72,2014-12,0.85,17998.512,136,True
+Región de Coquimbo,blanco,L,21264.0,2015-01,0.85,18074.399999999998,136,True
+Región de Coquimbo,blanco,L,21264.0,2015-02,0.85,18074.399999999998,136,True
+Región de Coquimbo,blanco,L,21318.0,2015-03,0.85,18120.3,136,True
+Región de Coquimbo,blanco,L,21264.0,2015-04,0.85,18074.399999999998,136,True
+Región de Coquimbo,blanco,L,20767.98,2015-05,0.85,17652.783,136,True
+Región de Coquimbo,blanco,L,21228.0,2015-06,0.85,18043.8,136,True
+Región de Coquimbo,blanco,L,20588.04,2015-07,0.85,17499.834,136,True
+Región de Coquimbo,blanco,L,20737.98,2015-08,0.85,17627.283,136,True
+Región de Coquimbo,blanco,L,21468.0,2015-09,0.85,18247.8,136,True
+Región de Coquimbo,blanco,L,20988.0,2015-10,0.85,17839.8,136,True
+Región de Coquimbo,blanco,L,19984.02,2015-11,0.85,16986.417,136,True
+Región de Coquimbo,blanco,L,21918.0,2015-12,0.85,18630.3,136,True
+Región de Coquimbo,blanco,L,21268.02,2016-01,0.85,18077.817,136,True
+Región de Coquimbo,blanco,L,21468.0,2016-02,0.85,18247.8,136,True
+Región de Coquimbo,blanco,L,21732.0,2016-03,0.85,18472.2,136,True
+Región de Coquimbo,blanco,L,22008.0,2016-04,0.85,18706.8,136,True
+Región de Coquimbo,blanco,L,19818.0,2016-05,0.85,16845.3,136,True
+Región de Coquimbo,blanco,L,21468.0,2016-06,0.85,18247.8,136,True
+Región de Coquimbo,blanco,L,20868.0,2016-07,0.85,17737.8,136,True
+Región de Coquimbo,blanco,L,21732.0,2016-08,0.85,18472.2,136,True
+Región de Coquimbo,blanco,L,21612.0,2016-09,0.85,18370.2,136,True
+Región de Coquimbo,blanco,L,20542.98,2016-10,0.85,17461.533,136,True
+Región de Coquimbo,blanco,L,20778.0,2016-11,0.85,17661.3,136,True
+Región de Coquimbo,blanco,L,21627.96,2016-12,0.85,18383.766,136,True
+Región de Coquimbo,blanco,L,21453.0,2017-01,0.85,18235.05,136,True
+Región de Coquimbo,blanco,L,21240.0,2017-02,0.85,18054.0,136,True
+Región de Coquimbo,blanco,L,21108.0,2017-03,0.85,17941.8,136,True
+Región de Coquimbo,blanco,L,21684.0,2017-04,0.85,18431.399999999998,136,True
+Región de Coquimbo,blanco,L,20916.0,2017-05,0.85,17778.6,136,True
+Región de Coquimbo,blanco,L,22008.0,2017-06,0.85,18706.8,136,True
+Región de Coquimbo,blanco,L,22008.0,2017-07,0.85,18706.8,136,True
+Región de Coquimbo,blanco,L,22398.0,2017-08,0.85,19038.3,136,True
+Región de Coquimbo,blanco,L,22668.0,2017-09,0.85,19267.8,136,True
+Región de Coquimbo,blanco,L,22173.0,2017-10,0.85,18847.05,136,True
+Región de Coquimbo,blanco,L,22608.0,2017-11,0.85,19216.8,136,True
+Región de Coquimbo,blanco,L,22068.0,2017-12,0.85,18757.8,136,True
+Región de Coquimbo,blanco,L,22248.0,2018-01,0.85,18910.8,136,True
+Región de Coquimbo,blanco,L,22638.0,2018-02,0.85,19242.3,136,True
+Región de Coquimbo,blanco,L,22068.0,2018-03,0.85,18757.8,136,True
+Región de Coquimbo,blanco,L,22008.0,2018-04,0.85,18706.8,136,True
+Región de Coquimbo,blanco,L,22248.0,2018-05,0.85,18910.8,136,True
+Región de Coquimbo,blanco,L,22893.0,2018-06,0.85,19459.05,136,True
+Región de Coquimbo,blanco,L,22822.98,2018-07,0.85,19399.533,136,True
+Región de Coquimbo,blanco,L,22638.0,2018-08,0.85,19242.3,136,True
+Región de Coquimbo,blanco,L,22248.0,2018-09,0.85,18910.8,136,True
+Región de Coquimbo,blanco,L,22388.04,2018-10,0.85,19029.834,136,True
+Región de Coquimbo,blanco,L,21948.0,2018-11,0.85,18655.8,136,True
+Región de Coquimbo,blanco,L,21948.0,2018-12,0.85,18655.8,136,True
+Región de Coquimbo,blanco,L,21948.0,2019-01,0.85,18655.8,136,True
+Región de Coquimbo,blanco,L,22608.0,2019-02,0.85,19216.8,136,True
+Región de Coquimbo,blanco,L,24108.0,2019-03,0.85,20491.8,136,True
+Región de Coquimbo,blanco,L,21951.0,2019-04,0.85,18658.35,136,True
+Región de Coquimbo,blanco,L,23388.0,2019-05,0.85,19879.8,136,True
+Región de Coquimbo,blanco,L,21858.0,2019-06,0.85,18579.3,136,True
+Región de Coquimbo,blanco,L,21247.98,2019-07,0.85,18060.783,136,True
+Región de Coquimbo,blanco,L,18948.0,2019-08,0.85,16105.8,136,True
+Región de Coquimbo,blanco,L,22188.0,2019-09,0.85,18859.8,136,True
+Región de Coquimbo,blanco,L,20688.0,2019-10,0.85,17584.8,136,True
+Región de Coquimbo,blanco,L,22848.0,2019-11,0.85,19420.8,136,True
+Región de Coquimbo,blanco,L,19188.0,2019-12,0.85,16309.8,136,True
+Región de Coquimbo,blanco,L,21738.0,2020-01,0.85,18477.3,136,True
+Región de Coquimbo,blanco,L,22188.0,2020-02,0.85,18859.8,136,True
+Región de Coquimbo,blanco,L,20088.0,2020-03,0.85,17074.8,136,True
+Región de Coquimbo,blanco,L,21813.0,2020-04,0.85,18541.05,136,True
+Región de Coquimbo,blanco,L,22188.0,2020-05,0.85,18859.8,136,True
+Región de Coquimbo,blanco,L,24108.0,2020-06,0.85,20491.8,136,True
+Región de Coquimbo,blanco,L,23988.0,2020-07,0.85,20389.8,136,True
+Región de Coquimbo,blanco,L,24018.0,2020-08,0.85,20415.3,136,True
+Región de Coquimbo,blanco,L,23988.0,2020-09,0.85,20389.8,136,True
+Región de Coquimbo,blanco,L,24138.0,2020-10,0.85,20517.3,136,True
+Región de Coquimbo,blanco,L,24468.0,2020-11,0.85,20797.8,136,True
+Región de Coquimbo,blanco,L,24468.0,2020-12,0.85,20797.8,136,True
+Región de Coquimbo,blanco,L,22788.0,2021-01,0.85,19369.8,136,True
+Región de Coquimbo,blanco,L,21867.96,2021-02,0.85,18587.766,136,True
+Región de Coquimbo,blanco,L,23088.0,2021-03,0.85,19624.8,136,True
+Región de Coquimbo,blanco,L,23388.0,2021-04,0.85,19879.8,136,True
+Región de Coquimbo,blanco,L,23688.0,2021-05,0.85,20134.8,136,True
+Región de Coquimbo,blanco,L,24948.0,2021-06,0.85,21205.8,136,True
+Región de Coquimbo,blanco,L,24828.0,2021-07,0.85,21103.8,136,True
+Región de Coquimbo,blanco,L,23454.0,2021-08,0.85,19935.899999999998,136,True
+Región de Coquimbo,blanco,L,21480.0,2021-09,0.85,18258.0,136,True
+Región de Coquimbo,blanco,L,22680.0,2021-10,0.85,19278.0,136,True
+Región de Coquimbo,blanco,L,24654.0,2021-11,0.85,20955.899999999998,136,True
+Región de Coquimbo,blanco,L,25428.0,2021-12,0.85,21613.8,136,True
+Región de Coquimbo,blanco,L,25428.0,2022-01,0.85,21613.8,136,True
+Región de Coquimbo,blanco,L,21480.0,2022-02,0.85,18258.0,136,True
+Región de Coquimbo,blanco,L,23454.0,2022-03,0.85,19935.899999999998,136,True
+Región de Coquimbo,blanco,L,23454.0,2022-04,0.85,19935.899999999998,136,True
+Región de Coquimbo,blanco,L,28428.0,2022-05,0.85,24163.8,136,True
+Región de Coquimbo,blanco,L,25080.0,2022-06,0.85,21318.0,136,True
+Región de Coquimbo,blanco,L,28428.0,2022-07,0.85,24163.8,136,True
+Región de Coquimbo,blanco,L,29748.0,2022-08,0.85,25285.8,136,True
+Región de Coquimbo,blanco,L,29148.0,2022-09,0.85,24775.8,136,True
+Región de Coquimbo,blanco,L,28851.0,2022-10,0.85,24523.35,136,True
+Región de Coquimbo,blanco,L,29628.0,2022-11,0.85,25183.8,136,True
+Región de Coquimbo,blanco,L,30337.999998,2022-12,0.85,25787.299998299997,136,True
+Región de Coquimbo,blanco,L,30864.0,2023-01,0.85,26234.399999999998,136,True
+Región de Coquimbo,blanco,L,30939.0,2023-02,0.85,26298.149999999998,136,True
+Región de Coquimbo,blanco,L,31188.0,2023-03,0.85,26509.8,136,True
+Región de Coquimbo,blanco,L,36234.0,2023-04,0.85,30798.899999999998,136,True
+Región de Coquimbo,blanco,L,38688.0,2023-05,0.85,32884.799999999996,136,True
+Región de Coquimbo,blanco,L,41568.0,2023-06,0.85,35332.799999999996,136,True
+Región de Coquimbo,blanco,L,40627.999998,2023-07,0.85,34533.7999983,136,True
+Región de Coquimbo,blanco,L,41028.0,2023-08,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2023-09,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2023-10,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2023-11,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2023-12,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,40968.0,2024-01,0.85,34822.799999999996,136,True
+Región de Coquimbo,blanco,L,41067.999996,2024-02,0.85,34907.7999966,136,True
+Región de Coquimbo,blanco,L,41028.0,2024-03,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2024-04,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2024-05,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41028.0,2024-06,0.85,34873.799999999996,136,True
+Región de Coquimbo,blanco,L,41268.0,2024-07,0.85,35077.799999999996,136,True
+Región de Coquimbo,blanco,L,42409.5,2024-08,0.85,36048.075,136,True
+Región de Coquimbo,blanco,L,46080.0,2024-09,0.85,39168.0,136,True
+Región de Coquimbo,blanco,L,42606.857136000006,2024-10,0.85,36215.8285656,136,True
+Región de Coquimbo,blanco,L,42610.857138,2024-11,0.85,36219.2285673,136,True
+Región de Coquimbo,blanco,L,42528.0,2024-12,0.85,36148.799999999996,136,True
+Región de Coquimbo,blanco,L,42438.0,2025-01,0.85,36072.299999999996,136,True
+Región de Coquimbo,blanco,L,42408.0,2025-02,0.85,36046.799999999996,136,True
+Región de Coquimbo,blanco,L,42507.999996,2025-03,0.85,36131.7999966,136,True
+Región de Coquimbo,blanco,L,43613.999994,2025-04,0.85,37071.8999949,136,True
+Región de Coquimbo,blanco,L,44827.999992,2025-05,0.85,38103.799993199995,136,True
+Región de Coquimbo,blanco,L,46258.999992,2025-06,0.85,39320.14999319999,136,True
+Región de Coquimbo,blanco,L,45799.999992,2025-07,0.85,38929.9999932,136,True
+Región de Coquimbo,blanco,L,49080.0,2025-08,0.85,41718.0,136,True
+Región de Coquimbo,blanco,L,47629.999998,2025-09,0.85,40485.4999983,136,True
+Región de Coquimbo,color,L,20761.62,2014-06,0.85,17647.377,136,True
+Región de Coquimbo,color,L,21141.0,2014-07,0.85,17969.85,136,True
+Región de Coquimbo,color,L,21213.48,2014-08,0.85,18031.458,136,True
+Región de Coquimbo,color,L,21350.52,2014-09,0.85,18147.942,136,True
+Región de Coquimbo,color,L,21096.0,2014-10,0.85,17931.6,136,True
+Región de Coquimbo,color,L,21284.04,2014-11,0.85,18091.434,136,True
+Región de Coquimbo,color,L,21109.32,2014-12,0.85,17942.922,136,True
+Región de Coquimbo,color,L,20914.08,2015-01,0.85,17776.968,136,True
+Región de Coquimbo,color,L,20612.16,2015-02,0.85,17520.336,136,True
+Región de Coquimbo,color,L,20833.62,2015-03,0.85,17708.576999999997,136,True
+Región de Coquimbo,color,L,21928.56,2015-04,0.85,18639.276,136,True
+Región de Coquimbo,color,L,21967.38,2015-05,0.85,18672.273,136,True
+Región de Coquimbo,color,L,22574.34,2015-06,0.85,19188.189,136,True
+Región de Coquimbo,color,L,22957.32,2015-07,0.85,19513.721999999998,136,True
+Región de Coquimbo,color,L,22188.660000000003,2015-08,0.85,18860.361,136,True
+Región de Coquimbo,color,L,22293.36,2015-09,0.85,18949.356,136,True
+Región de Coquimbo,color,L,22341.36,2015-10,0.85,18990.156,136,True
+Región de Coquimbo,color,L,22213.86,2015-11,0.85,18881.781,136,True
+Región de Coquimbo,color,L,22623.12,2015-12,0.85,19229.652,136,True
+Región de Coquimbo,color,L,22611.120000000003,2016-01,0.85,19219.452,136,True
+Región de Coquimbo,color,L,22703.16,2016-02,0.85,19297.685999999998,136,True
+Región de Coquimbo,color,L,22817.28,2016-03,0.85,19394.688,136,True
+Región de Coquimbo,color,L,22393.2,2016-04,0.85,19034.22,136,True
+Región de Coquimbo,color,L,22654.68,2016-05,0.85,19256.478,136,True
+Región de Coquimbo,color,L,22476.84,2016-06,0.85,19105.314,136,True
+Región de Coquimbo,color,L,22795.08,2016-07,0.85,19375.818,136,True
+Región de Coquimbo,color,L,23271.24,2016-08,0.85,19780.554,136,True
+Región de Coquimbo,color,L,23574.48,2016-09,0.85,20038.308,136,True
+Región de Coquimbo,color,L,23856.96,2016-10,0.85,20278.415999999997,136,True
+Región de Coquimbo,color,L,23370.36,2016-11,0.85,19864.806,136,True
+Región de Coquimbo,color,L,23028.36,2016-12,0.85,19574.106,136,True
+Región de Coquimbo,color,L,22728.06,2017-01,0.85,19318.851000000002,136,True
+Región de Coquimbo,color,L,22952.88,2017-02,0.85,19509.948,136,True
+Región de Coquimbo,color,L,22666.56,2017-03,0.85,19266.576,136,True
+Región de Coquimbo,color,L,22464.0,2017-04,0.85,19094.399999999998,136,True
+Región de Coquimbo,color,L,22923.48,2017-05,0.85,19484.958,136,True
+Región de Coquimbo,color,L,23626.2,2017-06,0.85,20082.27,136,True
+Región de Coquimbo,color,L,24013.74,2017-07,0.85,20411.679,136,True
+Región de Coquimbo,color,L,23621.52,2017-08,0.85,20078.292,136,True
+Región de Coquimbo,color,L,23818.98,2017-09,0.85,20246.132999999998,136,True
+Región de Coquimbo,color,L,23980.74,2017-10,0.85,20383.629,136,True
+Región de Coquimbo,color,L,23755.56,2017-11,0.85,20192.226000000002,136,True
+Región de Coquimbo,color,L,24135.36,2017-12,0.85,20515.056,136,True
+Región de Coquimbo,color,L,24121.56,2018-01,0.85,20503.326,136,True
+Región de Coquimbo,color,L,23442.9,2018-02,0.85,19926.465,136,True
+Región de Coquimbo,color,L,24096.24,2018-03,0.85,20481.804,136,True
+Región de Coquimbo,color,L,23408.04,2018-04,0.85,19896.834,136,True
+Región de Coquimbo,color,L,24297.48,2018-05,0.85,20652.858,136,True
+Región de Coquimbo,color,L,24334.68,2018-06,0.85,20684.478,136,True
+Región de Coquimbo,color,L,24243.72,2018-07,0.85,20607.162,136,True
+Región de Coquimbo,color,L,24141.78,2018-08,0.85,20520.513,136,True
+Región de Coquimbo,color,L,23776.56,2018-09,0.85,20210.076,136,True
+Región de Coquimbo,color,L,23211.96,2018-10,0.85,19730.165999999997,136,True
+Región de Coquimbo,color,L,23311.56,2018-11,0.85,19814.826,136,True
+Región de Coquimbo,color,L,23813.28,2018-12,0.85,20241.287999999997,136,True
+Región de Coquimbo,color,L,23500.800000000003,2019-01,0.85,19975.68,136,True
+Región de Coquimbo,color,L,23113.38,2019-02,0.85,19646.373,136,True
+Región de Coquimbo,color,L,23503.68,2019-03,0.85,19978.128,136,True
+Región de Coquimbo,color,L,23315.04,2019-04,0.85,19817.784,136,True
+Región de Coquimbo,color,L,22848.96,2019-05,0.85,19421.615999999998,136,True
+Región de Coquimbo,color,L,23011.98,2019-06,0.85,19560.183,136,True
+Región de Coquimbo,color,L,22836.36,2019-07,0.85,19410.906,136,True
+Región de Coquimbo,color,L,23106.24,2019-08,0.85,19640.304,136,True
+Región de Coquimbo,color,L,23061.6,2019-09,0.85,19602.359999999997,136,True
+Región de Coquimbo,color,L,23622.36,2019-10,0.85,20079.006,136,True
+Región de Coquimbo,color,L,23408.04,2019-11,0.85,19896.834,136,True
+Región de Coquimbo,color,L,23418.84,2019-12,0.85,19906.014,136,True
+Región de Coquimbo,color,L,23527.68,2020-01,0.85,19998.528,136,True
+Región de Coquimbo,color,L,23988.84,2020-02,0.85,20390.514,136,True
+Región de Coquimbo,color,L,23468.46,2020-03,0.85,19948.191,136,True
+Región de Coquimbo,color,L,23781.36,2020-04,0.85,20214.156,136,True
+Región de Coquimbo,color,L,23995.2,2020-05,0.85,20395.920000000002,136,True
+Región de Coquimbo,color,L,25513.02,2020-06,0.85,21686.067,136,True
+Región de Coquimbo,color,L,25533.24,2020-07,0.85,21703.254,136,True
+Región de Coquimbo,color,L,25375.32,2020-08,0.85,21569.022,136,True
+Región de Coquimbo,color,L,25063.68,2020-09,0.85,21304.128,136,True
+Región de Coquimbo,color,L,25555.2,2020-10,0.85,21721.92,136,True
+Región de Coquimbo,color,L,25477.980000000003,2020-11,0.85,21656.283000000003,136,True
+Región de Coquimbo,color,L,24202.32,2020-12,0.85,20571.971999999998,136,True
+Región de Coquimbo,color,L,24279.660000000003,2021-01,0.85,20637.711000000003,136,True
+Región de Coquimbo,color,L,24577.98,2021-02,0.85,20891.283,136,True
+Región de Coquimbo,color,L,25022.1,2021-03,0.85,21268.785,136,True
+Región de Coquimbo,color,L,25335.6,2021-04,0.85,21535.26,136,True
+Región de Coquimbo,color,L,25381.38,2021-05,0.85,21574.173,136,True
+Región de Coquimbo,color,L,26345.58,2021-06,0.85,22393.743000000002,136,True
+Región de Coquimbo,color,L,26393.34,2021-07,0.85,22434.339,136,True
+Región de Coquimbo,color,L,25659.300000000003,2021-08,0.85,21810.405000000002,136,True
+Región de Coquimbo,color,L,25534.68,2021-09,0.85,21704.478,136,True
+Región de Coquimbo,color,L,26199.96,2021-10,0.85,22269.966,136,True
+Región de Coquimbo,color,L,27898.800000000003,2021-11,0.85,23713.980000000003,136,True
+Región de Coquimbo,color,L,27195.96,2021-12,0.85,23116.566,136,True
+Región de Coquimbo,color,L,27454.999998,2022-01,0.85,23336.749998299998,136,True
+Región de Coquimbo,color,L,27002.799996,2022-02,0.85,22952.3799966,136,True
+Región de Coquimbo,color,L,27529.333332,2022-03,0.85,23399.9333322,136,True
+Región de Coquimbo,color,L,28254.0,2022-04,0.85,24015.899999999998,136,True
+Región de Coquimbo,color,L,27794.25,2022-05,0.85,23625.1125,136,True
+Región de Coquimbo,color,L,28435.999992,2022-06,0.85,24170.5999932,136,True
+Región de Coquimbo,color,L,30695.799996,2022-07,0.85,26091.4299966,136,True
+Región de Coquimbo,color,L,30948.0,2022-08,0.85,26305.8,136,True
+Región de Coquimbo,color,L,31356.0,2022-09,0.85,26652.6,136,True
+Región de Coquimbo,color,L,31579.2,2022-10,0.85,26842.32,136,True
+Región de Coquimbo,color,L,32490.66666,2022-11,0.85,27617.066660999997,136,True
+Región de Coquimbo,color,L,32248.235292,2022-12,0.85,27410.9999982,136,True
+Región de Coquimbo,color,L,32658.499998,2023-01,0.85,27759.7249983,136,True
+Región de Coquimbo,color,L,32937.030294,2023-02,0.85,27996.475749899997,136,True
+Región de Coquimbo,color,L,33924.0,2023-03,0.85,28835.399999999998,136,True
+Región de Coquimbo,color,L,34372.441554000005,2023-04,0.85,29216.575320900003,136,True
+Región de Coquimbo,color,L,36594.0,2023-05,0.85,31104.899999999998,136,True
+Región de Coquimbo,color,L,40530.964284,2023-06,0.85,34451.3196414,136,True
+Región de Coquimbo,color,L,40708.5,2023-07,0.85,34602.225,136,True
+Región de Coquimbo,color,L,40762.666656,2023-08,0.85,34648.2666576,136,True
+Región de Coquimbo,color,L,41722.166664,2023-09,0.85,35463.841664399995,136,True
+Región de Coquimbo,color,L,41899.068822,2023-10,0.85,35614.2084987,136,True
+Región de Coquimbo,color,L,42116.727264,2023-11,0.85,35799.2181744,136,True
+Región de Coquimbo,color,L,43256.862852,2023-12,0.85,36768.3334242,136,True
+Región de Coquimbo,color,L,43643.42856,2024-01,0.85,37096.914275999996,136,True
+Región de Coquimbo,color,L,43671.378942,2024-02,0.85,37120.6721007,136,True
+Región de Coquimbo,color,L,43890.6,2024-03,0.85,37307.009999999995,136,True
+Región de Coquimbo,color,L,44681.890908,2024-04,0.85,37979.6072718,136,True
+Región de Coquimbo,color,L,44754.399996,2024-05,0.85,38041.2399966,136,True
+Región de Coquimbo,color,L,44238.999996,2024-06,0.85,37603.1499966,136,True
+Región de Coquimbo,color,L,43916.799996,2024-07,0.85,37329.2799966,136,True
+Región de Coquimbo,color,L,44434.736832,2024-08,0.85,37769.5263072,136,True
+Región de Coquimbo,color,L,43765.090908,2024-09,0.85,37200.3272718,136,True
+Región de Coquimbo,color,L,44803.999998,2024-10,0.85,38083.399998299996,136,True
+Región de Coquimbo,color,L,45483.0,2024-11,0.85,38660.549999999996,136,True
+Región de Coquimbo,color,L,44942.392854,2024-12,0.85,38201.033925899996,136,True
+Región de Coquimbo,color,L,44518.153836,2025-01,0.85,37840.4307606,136,True
+Región de Coquimbo,color,L,44007.6,2025-02,0.85,37406.46,136,True
+Región de Coquimbo,color,L,44011.2,2025-03,0.85,37409.52,136,True
+Región de Coquimbo,color,L,43665.122796,2025-04,0.85,37115.3543766,136,True
+Región de Coquimbo,color,L,45170.666664,2025-05,0.85,38395.066664399994,136,True
+Región de Coquimbo,color,L,45547.2,2025-06,0.85,38715.119999999995,136,True
+Región de Coquimbo,color,L,48216.0,2025-07,0.85,40983.6,136,True
+Región de Coquimbo,color,L,47590.714284,2025-08,0.85,40452.1071414,136,True
+Región de Coquimbo,color,L,51112.5,2025-09,0.85,43445.625,136,True
+Región de La Araucanía,blanco,L,20103.84,2014-08,0.85,17088.264,134,True
+Región de La Araucanía,blanco,L,20349.12,2014-09,0.85,17296.752,134,True
+Región de La Araucanía,blanco,L,20392.32,2014-10,0.85,17333.471999999998,134,True
+Región de La Araucanía,blanco,L,20494.86,2014-11,0.85,17420.631,134,True
+Región de La Araucanía,blanco,L,20442.24,2014-12,0.85,17375.904000000002,134,True
+Región de La Araucanía,blanco,L,20689.32,2015-01,0.85,17585.922,134,True
+Región de La Araucanía,blanco,L,20713.92,2015-02,0.85,17606.832,134,True
+Región de La Araucanía,blanco,L,20778.0,2015-03,0.85,17661.3,134,True
+Región de La Araucanía,blanco,L,20779.92,2015-04,0.85,17662.931999999997,134,True
+Región de La Araucanía,blanco,L,22025.76,2015-05,0.85,18721.895999999997,134,True
+Región de La Araucanía,blanco,L,22328.22,2015-06,0.85,18978.987,134,True
+Región de La Araucanía,blanco,L,22664.7,2015-07,0.85,19264.995,134,True
+Región de La Araucanía,blanco,L,22617.06,2015-08,0.85,19224.501,134,True
+Región de La Araucanía,blanco,L,22932.0,2015-09,0.85,19492.2,134,True
+Región de La Araucanía,blanco,L,22134.0,2015-10,0.85,18813.899999999998,134,True
+Región de La Araucanía,blanco,L,21616.26,2015-11,0.85,18373.821,134,True
+Región de La Araucanía,blanco,L,21553.5,2015-12,0.85,18320.475,134,True
+Región de La Araucanía,blanco,L,21291.96,2016-01,0.85,18098.165999999997,134,True
+Región de La Araucanía,blanco,L,21430.68,2016-02,0.85,18216.078,134,True
+Región de La Araucanía,blanco,L,21668.58,2016-03,0.85,18418.293,134,True
+Región de La Araucanía,blanco,L,21553.68,2016-04,0.85,18320.628,134,True
+Región de La Araucanía,blanco,L,21336.42,2016-05,0.85,18135.957,134,True
+Región de La Araucanía,blanco,L,21158.28,2016-06,0.85,17984.537999999997,134,True
+Región de La Araucanía,blanco,L,21076.44,2016-07,0.85,17914.974,134,True
+Región de La Araucanía,blanco,L,20880.0,2016-08,0.85,17748.0,134,True
+Región de La Araucanía,blanco,L,21341.64,2016-09,0.85,18140.394,134,True
+Región de La Araucanía,blanco,L,21058.92,2016-10,0.85,17900.082,134,True
+Región de La Araucanía,blanco,L,21283.38,2016-11,0.85,18090.873,134,True
+Región de La Araucanía,blanco,L,21083.94,2016-12,0.85,17921.349,134,True
+Región de La Araucanía,blanco,L,20777.94,2017-01,0.85,17661.249,134,True
+Región de La Araucanía,blanco,L,20595.6,2017-02,0.85,17506.26,134,True
+Región de La Araucanía,blanco,L,20872.92,2017-03,0.85,17741.981999999996,134,True
+Región de La Araucanía,blanco,L,20994.0,2017-04,0.85,17844.899999999998,134,True
+Región de La Araucanía,blanco,L,20916.96,2017-05,0.85,17779.415999999997,134,True
+Región de La Araucanía,blanco,L,21660.84,2017-06,0.85,18411.714,134,True
+Región de La Araucanía,blanco,L,21771.36,2017-07,0.85,18505.656,134,True
+Región de La Araucanía,blanco,L,22221.48,2017-08,0.85,18888.257999999998,134,True
+Región de La Araucanía,blanco,L,22139.16,2017-09,0.85,18818.286,134,True
+Región de La Araucanía,blanco,L,22125.3,2017-10,0.85,18806.504999999997,134,True
+Región de La Araucanía,blanco,L,21997.56,2017-11,0.85,18697.926,134,True
+Región de La Araucanía,blanco,L,21967.74,2017-12,0.85,18672.579,134,True
+Región de La Araucanía,blanco,L,21556.56,2018-01,0.85,18323.076,134,True
+Región de La Araucanía,blanco,L,21473.28,2018-02,0.85,18252.287999999997,134,True
+Región de La Araucanía,blanco,L,21466.92,2018-03,0.85,18246.881999999998,134,True
+Región de La Araucanía,blanco,L,21562.62,2018-04,0.85,18328.227,134,True
+Región de La Araucanía,blanco,L,22260.0,2018-05,0.85,18921.0,134,True
+Región de La Araucanía,blanco,L,21955.56,2018-06,0.85,18662.226000000002,134,True
+Región de La Araucanía,blanco,L,21916.98,2018-07,0.85,18629.433,134,True
+Región de La Araucanía,blanco,L,21997.14,2018-08,0.85,18697.569,134,True
+Región de La Araucanía,blanco,L,22428.96,2018-09,0.85,19064.615999999998,134,True
+Región de La Araucanía,blanco,L,21378.6,2018-10,0.85,18171.809999999998,134,True
+Región de La Araucanía,blanco,L,21857.34,2018-11,0.85,18578.739,134,True
+Región de La Araucanía,blanco,L,21222.9,2018-12,0.85,18039.465,134,True
+Región de La Araucanía,blanco,L,20635.74,2019-01,0.85,17540.379,134,True
+Región de La Araucanía,blanco,L,20587.86,2019-02,0.85,17499.681,134,True
+Región de La Araucanía,blanco,L,20494.2,2019-03,0.85,17420.07,134,True
+Región de La Araucanía,blanco,L,20537.76,2019-04,0.85,17457.095999999998,134,True
+Región de La Araucanía,blanco,L,21446.76,2019-05,0.85,18229.746,134,True
+Región de La Araucanía,blanco,L,21283.86,2019-06,0.85,18091.281,134,True
+Región de La Araucanía,blanco,L,21310.86,2019-07,0.85,18114.231,134,True
+Región de La Araucanía,blanco,L,21214.08,2019-08,0.85,18031.968,134,True
+Región de La Araucanía,blanco,L,20589.24,2019-09,0.85,17500.854,134,True
+Región de La Araucanía,blanco,L,20820.0,2019-10,0.85,17697.0,134,True
+Región de La Araucanía,blanco,L,21670.44,2019-11,0.85,18419.874,134,True
+Región de La Araucanía,blanco,L,20172.0,2019-12,0.85,17146.2,134,True
+Región de La Araucanía,blanco,L,20701.874112,2020-01,0.85,17596.5929952,134,True
+Región de La Araucanía,blanco,L,21065.52,2020-02,0.85,17905.692,134,True
+Región de La Araucanía,blanco,L,20742.42,2020-03,0.85,17631.056999999997,134,True
+Región de La Araucanía,blanco,L,22635.96,2020-04,0.85,19240.566,134,True
+Región de La Araucanía,blanco,L,22852.92,2020-05,0.85,19424.981999999996,134,True
+Región de La Araucanía,blanco,L,24440.28,2020-06,0.85,20774.237999999998,134,True
+Región de La Araucanía,blanco,L,24375.84,2020-07,0.85,20719.464,134,True
+Región de La Araucanía,blanco,L,24461.34,2020-08,0.85,20792.139,134,True
+Región de La Araucanía,blanco,L,24840.0,2020-09,0.85,21114.0,134,True
+Región de La Araucanía,blanco,L,23695.02,2020-10,0.85,20140.767,134,True
+Región de La Araucanía,blanco,L,23675.7,2020-11,0.85,20124.345,134,True
+Región de La Araucanía,blanco,L,22818.6,2020-12,0.85,19395.809999999998,134,True
+Región de La Araucanía,blanco,L,23044.26,2021-01,0.85,19587.621,134,True
+Región de La Araucanía,blanco,L,22795.56,2021-02,0.85,19376.226000000002,134,True
+Región de La Araucanía,blanco,L,22600.800000000003,2021-03,0.85,19210.68,134,True
+Región de La Araucanía,blanco,L,23084.16,2021-04,0.85,19621.536,134,True
+Región de La Araucanía,blanco,L,23435.4,2021-05,0.85,19920.09,134,True
+Región de La Araucanía,blanco,L,23856.0,2021-06,0.85,20277.6,134,True
+Región de La Araucanía,blanco,L,23964.96,2021-07,0.85,20370.216,134,True
+Región de La Araucanía,blanco,L,23076.84,2021-08,0.85,19615.314,134,True
+Región de La Araucanía,blanco,L,22615.38,2021-09,0.85,19223.073,134,True
+Región de La Araucanía,blanco,L,22387.98,2021-10,0.85,19029.783,134,True
+Región de La Araucanía,blanco,L,23217.6,2021-11,0.85,19734.96,134,True
+Región de La Araucanía,blanco,L,22506.54,2021-12,0.85,19130.559,134,True
+Región de La Araucanía,blanco,L,22260.0,2022-01,0.85,18921.0,134,True
+Región de La Araucanía,blanco,L,22393.999998,2022-02,0.85,19034.8999983,134,True
+Región de La Araucanía,blanco,L,23535.428568000003,2022-03,0.85,20005.1142828,134,True
+Región de La Araucanía,blanco,L,24922.999998,2022-04,0.85,21184.549998299997,134,True
+Región de La Araucanía,blanco,L,26550.0,2022-05,0.85,22567.5,134,True
+Región de La Araucanía,blanco,L,27240.0,2022-06,0.85,23154.0,134,True
+Región de La Araucanía,blanco,L,27490.607142,2022-07,0.85,23367.0160707,134,True
+Región de La Araucanía,blanco,L,28192.800000000003,2022-08,0.85,23963.88,134,True
+Región de La Araucanía,blanco,L,28860.0,2022-09,0.85,24531.0,134,True
+Región de La Araucanía,blanco,L,29788.571424,2022-10,0.85,25320.2857104,134,True
+Región de La Araucanía,blanco,L,30600.0,2022-11,0.85,26010.0,134,True
+Región de La Araucanía,blanco,L,29749.125,2022-12,0.85,25286.75625,134,True
+Región de La Araucanía,blanco,L,29915.142852,2023-01,0.85,25427.8714242,134,True
+Región de La Araucanía,blanco,L,30496.800000000003,2023-02,0.85,25922.280000000002,134,True
+Región de La Araucanía,blanco,L,32588.57142,2023-03,0.85,27700.285707,134,True
+Región de La Araucanía,blanco,L,34042.28571,2023-04,0.85,28935.942853499997,134,True
+Región de La Araucanía,blanco,L,39107.057142,2023-05,0.85,33240.998570699994,134,True
+Región de La Araucanía,blanco,L,43320.0,2023-06,0.85,36822.0,134,True
+Región de La Araucanía,blanco,L,43599.499998,2023-07,0.85,37059.5749983,134,True
+Región de La Araucanía,blanco,L,43038.0,2023-08,0.85,36582.299999999996,134,True
+Región de La Araucanía,blanco,L,42984.0,2023-09,0.85,36536.4,134,True
+Región de La Araucanía,blanco,L,41917.14285,2023-10,0.85,35629.5714225,134,True
+Región de La Araucanía,blanco,L,41796.999996,2023-11,0.85,35527.4499966,134,True
+Región de La Araucanía,blanco,L,41275.999998,2023-12,0.85,35084.5999983,134,True
+Región de La Araucanía,blanco,L,40805.142852,2024-01,0.85,34684.3714242,134,True
+Región de La Araucanía,blanco,L,40537.999998,2024-02,0.85,34457.2999983,134,True
+Región de La Araucanía,blanco,L,42306.999996,2024-03,0.85,35960.9499966,134,True
+Región de La Araucanía,blanco,L,42974.571426,2024-04,0.85,36528.385712100004,134,True
+Región de La Araucanía,blanco,L,43795.2,2024-05,0.85,37225.92,134,True
+Región de La Araucanía,blanco,L,44858.769228000005,2024-06,0.85,38129.9538438,134,True
+Región de La Araucanía,blanco,L,45217.599996,2024-07,0.85,38434.959996599995,134,True
+Región de La Araucanía,blanco,L,44214.285708,2024-08,0.85,37582.1428518,134,True
+Región de La Araucanía,blanco,L,44025.428568,2024-09,0.85,37421.6142828,134,True
+Región de La Araucanía,blanco,L,43504.8,2024-10,0.85,36979.08,134,True
+Región de La Araucanía,blanco,L,42733.714284,2024-11,0.85,36323.6571414,134,True
+Región de La Araucanía,blanco,L,42857.666664,2024-12,0.85,36429.0166644,134,True
+Región de La Araucanía,blanco,L,40848.272724,2025-01,0.85,34721.0318154,134,True
+Región de La Araucanía,blanco,L,40519.999992,2025-02,0.85,34441.9999932,134,True
+Región de La Araucanía,blanco,L,42437.25,2025-03,0.85,36071.6625,134,True
+Región de La Araucanía,blanco,L,43080.0,2025-04,0.85,36618.0,134,True
+Región de La Araucanía,blanco,L,44939.142852,2025-05,0.85,38198.2714242,134,True
+Región de La Araucanía,blanco,L,47722.5,2025-06,0.85,40564.125,134,True
+Región de La Araucanía,blanco,L,47880.0,2025-07,0.85,40698.0,134,True
+Región de La Araucanía,blanco,L,48294.285708,2025-08,0.85,41050.1428518,134,True
+Región de La Araucanía,blanco,L,47961.142848,2025-09,0.85,40766.9714208,134,True
+Región de La Araucanía,color,L,21344.28,2014-08,0.85,18142.638,134,True
+Región de La Araucanía,color,L,21505.620000000003,2014-09,0.85,18279.777000000002,134,True
+Región de La Araucanía,color,L,21772.5,2014-10,0.85,18506.625,134,True
+Región de La Araucanía,color,L,22150.98,2014-11,0.85,18828.333,134,True
+Región de La Araucanía,color,L,21998.76,2014-12,0.85,18698.946,134,True
+Región de La Araucanía,color,L,22278.18,2015-01,0.85,18936.453,134,True
+Región de La Araucanía,color,L,22372.2,2015-02,0.85,19016.37,134,True
+Región de La Araucanía,color,L,22416.36,2015-03,0.85,19053.906,134,True
+Región de La Araucanía,color,L,22486.86,2015-04,0.85,19113.831,134,True
+Región de La Araucanía,color,L,23280.42,2015-05,0.85,19788.356999999996,134,True
+Región de La Araucanía,color,L,23909.76,2015-06,0.85,20323.296,134,True
+Región de La Araucanía,color,L,23701.86,2015-07,0.85,20146.581,134,True
+Región de La Araucanía,color,L,24144.36,2015-08,0.85,20522.706,134,True
+Región de La Araucanía,color,L,24374.7,2015-09,0.85,20718.495,134,True
+Región de La Araucanía,color,L,23912.58,2015-10,0.85,20325.693,134,True
+Región de La Araucanía,color,L,23332.44,2015-11,0.85,19832.573999999997,134,True
+Región de La Araucanía,color,L,22533.78,2015-12,0.85,19153.713,134,True
+Región de La Araucanía,color,L,22552.14,2016-01,0.85,19169.319,134,True
+Región de La Araucanía,color,L,22582.26,2016-02,0.85,19194.921,134,True
+Región de La Araucanía,color,L,23011.5,2016-03,0.85,19559.774999999998,134,True
+Región de La Araucanía,color,L,23124.0,2016-04,0.85,19655.399999999998,134,True
+Región de La Araucanía,color,L,23148.120000000003,2016-05,0.85,19675.902000000002,134,True
+Región de La Araucanía,color,L,22972.38,2016-06,0.85,19526.523,134,True
+Región de La Araucanía,color,L,23295.78,2016-07,0.85,19801.412999999997,134,True
+Región de La Araucanía,color,L,22610.04,2016-08,0.85,19218.534,134,True
+Región de La Araucanía,color,L,22706.82,2016-09,0.85,19300.797,134,True
+Región de La Araucanía,color,L,22551.96,2016-10,0.85,19169.165999999997,134,True
+Región de La Araucanía,color,L,22438.620000000003,2016-11,0.85,19072.827,134,True
+Región de La Araucanía,color,L,22188.0,2016-12,0.85,18859.8,134,True
+Región de La Araucanía,color,L,22615.98,2017-01,0.85,19223.583,134,True
+Región de La Araucanía,color,L,22879.2,2017-02,0.85,19447.32,134,True
+Región de La Araucanía,color,L,22678.98,2017-03,0.85,19277.132999999998,134,True
+Región de La Araucanía,color,L,23077.38,2017-04,0.85,19615.773,134,True
+Región de La Araucanía,color,L,22901.58,2017-05,0.85,19466.343,134,True
+Región de La Araucanía,color,L,23141.88,2017-06,0.85,19670.598,134,True
+Región de La Araucanía,color,L,23632.62,2017-07,0.85,20087.727,134,True
+Región de La Araucanía,color,L,23864.76,2017-08,0.85,20285.046,134,True
+Región de La Araucanía,color,L,23867.4,2017-09,0.85,20287.29,134,True
+Región de La Araucanía,color,L,23905.38,2017-10,0.85,20319.573,134,True
+Región de La Araucanía,color,L,23486.4,2017-11,0.85,19963.440000000002,134,True
+Región de La Araucanía,color,L,24110.04,2017-12,0.85,20493.534,134,True
+Región de La Araucanía,color,L,23451.96,2018-01,0.85,19934.165999999997,134,True
+Región de La Araucanía,color,L,23539.2,2018-02,0.85,20008.32,134,True
+Región de La Araucanía,color,L,23199.84,2018-03,0.85,19719.864,134,True
+Región de La Araucanía,color,L,23594.46,2018-04,0.85,20055.290999999997,134,True
+Región de La Araucanía,color,L,23514.96,2018-05,0.85,19987.716,134,True
+Región de La Araucanía,color,L,23551.2,2018-06,0.85,20018.52,134,True
+Región de La Araucanía,color,L,23129.34,2018-07,0.85,19659.939,134,True
+Región de La Araucanía,color,L,23581.74,2018-08,0.85,20044.479,134,True
+Región de La Araucanía,color,L,23280.0,2018-09,0.85,19788.0,134,True
+Región de La Araucanía,color,L,23556.3,2018-10,0.85,20022.855,134,True
+Región de La Araucanía,color,L,23353.14,2018-11,0.85,19850.168999999998,134,True
+Región de La Araucanía,color,L,22707.0,2018-12,0.85,19300.95,134,True
+Región de La Araucanía,color,L,22224.96,2019-01,0.85,18891.216,134,True
+Región de La Araucanía,color,L,21550.5,2019-02,0.85,18317.925,134,True
+Región de La Araucanía,color,L,22594.02,2019-03,0.85,19204.917,134,True
+Región de La Araucanía,color,L,22767.0,2019-04,0.85,19351.95,134,True
+Región de La Araucanía,color,L,22581.0,2019-05,0.85,19193.85,134,True
+Región de La Araucanía,color,L,22431.6,2019-06,0.85,19066.859999999997,134,True
+Región de La Araucanía,color,L,22796.16,2019-07,0.85,19376.736,134,True
+Región de La Araucanía,color,L,22688.28,2019-08,0.85,19285.037999999997,134,True
+Región de La Araucanía,color,L,22439.46,2019-09,0.85,19073.540999999997,134,True
+Región de La Araucanía,color,L,22337.16,2019-10,0.85,18986.586,134,True
+Región de La Araucanía,color,L,22818.66,2019-11,0.85,19395.861,134,True
+Región de La Araucanía,color,L,21989.16,2019-12,0.85,18690.786,134,True
+Región de La Araucanía,color,L,22130.52,2020-01,0.85,18810.942,134,True
+Región de La Araucanía,color,L,22306.14,2020-02,0.85,18960.218999999997,134,True
+Región de La Araucanía,color,L,22137.84,2020-03,0.85,18817.164,134,True
+Región de La Araucanía,color,L,22929.36,2020-04,0.85,19489.956,134,True
+Región de La Araucanía,color,L,23921.28,2020-05,0.85,20333.088,134,True
+Región de La Araucanía,color,L,25116.6,2020-06,0.85,21349.109999999997,134,True
+Región de La Araucanía,color,L,25503.48,2020-07,0.85,21677.958,134,True
+Región de La Araucanía,color,L,25720.02,2020-08,0.85,21862.017,134,True
+Región de La Araucanía,color,L,25215.42,2020-09,0.85,21433.106999999996,134,True
+Región de La Araucanía,color,L,24868.26,2020-10,0.85,21138.020999999997,134,True
+Región de La Araucanía,color,L,24859.5,2020-11,0.85,21130.575,134,True
+Región de La Araucanía,color,L,23534.04,2020-12,0.85,20003.934,134,True
+Región de La Araucanía,color,L,24061.8,2021-01,0.85,20452.53,134,True
+Región de La Araucanía,color,L,24296.4,2021-02,0.85,20651.940000000002,134,True
+Región de La Araucanía,color,L,24240.0,2021-03,0.85,20604.0,134,True
+Región de La Araucanía,color,L,24099.48,2021-04,0.85,20484.558,134,True
+Región de La Araucanía,color,L,24774.6,2021-05,0.85,21058.41,134,True
+Región de La Araucanía,color,L,24904.92,2021-06,0.85,21169.181999999997,134,True
+Región de La Araucanía,color,L,24537.0,2021-07,0.85,20856.45,134,True
+Región de La Araucanía,color,L,24560.28,2021-08,0.85,20876.237999999998,134,True
+Región de La Araucanía,color,L,24502.98,2021-09,0.85,20827.533,134,True
+Región de La Araucanía,color,L,23467.2,2021-10,0.85,19947.12,134,True
+Región de La Araucanía,color,L,24054.0,2021-11,0.85,20445.899999999998,134,True
+Región de La Araucanía,color,L,24009.9,2021-12,0.85,20408.415,134,True
+Región de La Araucanía,color,L,24036.0,2022-01,0.85,20430.6,134,True
+Región de La Araucanía,color,L,24095.142852,2022-02,0.85,20480.8714242,134,True
+Región de La Araucanía,color,L,25942.714284,2022-03,0.85,22051.3071414,134,True
+Región de La Araucanía,color,L,27881.25,2022-04,0.85,23699.0625,134,True
+Región de La Araucanía,color,L,28180.999998,2022-05,0.85,23953.8499983,134,True
+Región de La Araucanía,color,L,28605.428568000003,2022-06,0.85,24314.6142828,134,True
+Región de La Araucanía,color,L,29226.399996,2022-07,0.85,24842.4399966,134,True
+Región de La Araucanía,color,L,29922.0,2022-08,0.85,25433.7,134,True
+Región de La Araucanía,color,L,30760.666656,2022-09,0.85,26146.5666576,134,True
+Región de La Araucanía,color,L,31410.5934,2022-10,0.85,26699.004390000002,134,True
+Región de La Araucanía,color,L,32472.0,2022-11,0.85,27601.2,134,True
+Región de La Araucanía,color,L,31836.214284,2022-12,0.85,27060.7821414,134,True
+Región de La Araucanía,color,L,32256.249996,2023-01,0.85,27417.8124966,134,True
+Región de La Araucanía,color,L,32389.916664,2023-02,0.85,27531.4291644,134,True
+Región de La Araucanía,color,L,34200.0,2023-03,0.85,29070.0,134,True
+Región de La Araucanía,color,L,36354.0,2023-04,0.85,30900.899999999998,134,True
+Región de La Araucanía,color,L,41814.0,2023-05,0.85,35541.9,134,True
+Región de La Araucanía,color,L,45372.999996,2023-06,0.85,38567.0499966,134,True
+Región de La Araucanía,color,L,45000.947364,2023-07,0.85,38250.8052594,134,True
+Región de La Araucanía,color,L,44640.0,2023-08,0.85,37944.0,134,True
+Región de La Araucanía,color,L,43872.0,2023-09,0.85,37291.2,134,True
+Región de La Araucanía,color,L,42784.05,2023-10,0.85,36366.442500000005,134,True
+Región de La Araucanía,color,L,43665.75,2023-11,0.85,37115.8875,134,True
+Región de La Araucanía,color,L,42279.999996,2023-12,0.85,35937.999996599996,134,True
+Región de La Araucanía,color,L,42960.0,2024-01,0.85,36516.0,134,True
+Región de La Araucanía,color,L,42637.14285,2024-02,0.85,36241.5714225,134,True
+Región de La Araucanía,color,L,44096.4,2024-03,0.85,37481.94,134,True
+Región de La Araucanía,color,L,44402.64285,2024-04,0.85,37742.24642249999,134,True
+Región de La Araucanía,color,L,45358.999998,2024-05,0.85,38555.149998299996,134,True
+Región de La Araucanía,color,L,46044.0,2024-06,0.85,39137.4,134,True
+Región de La Araucanía,color,L,46411.2,2024-07,0.85,39449.52,134,True
+Región de La Araucanía,color,L,45984.0,2024-08,0.85,39086.4,134,True
+Región de La Araucanía,color,L,46080.0,2024-09,0.85,39168.0,134,True
+Región de La Araucanía,color,L,45720.0,2024-10,0.85,38862.0,134,True
+Región de La Araucanía,color,L,44347.2,2024-11,0.85,37695.119999999995,134,True
+Región de La Araucanía,color,L,43917.0,2024-12,0.85,37329.45,134,True
+Región de La Araucanía,color,L,43162.285704,2025-01,0.85,36687.9428484,134,True
+Región de La Araucanía,color,L,42672.0,2025-02,0.85,36271.2,134,True
+Región de La Araucanía,color,L,44251.5,2025-03,0.85,37613.775,134,True
+Región de La Araucanía,color,L,45240.0,2025-04,0.85,38454.0,134,True
+Región de La Araucanía,color,L,48495.6,2025-05,0.85,41221.259999999995,134,True
+Región de La Araucanía,color,L,49193.333328,2025-06,0.85,41814.3333288,134,True
+Región de La Araucanía,color,L,50442.0,2025-07,0.85,42875.7,134,True
+Región de La Araucanía,color,L,49459.999998,2025-08,0.85,42040.9999983,134,True
+Región de La Araucanía,color,L,49242.857142,2025-09,0.85,41856.4285707,134,True
+Región de Los Lagos,blanco,L,20052.54,2014-08,0.85,17044.659,134,True
+Región de Los Lagos,blanco,L,20117.04,2014-09,0.85,17099.484,134,True
+Región de Los Lagos,blanco,L,20167.2,2014-10,0.85,17142.12,134,True
+Región de Los Lagos,blanco,L,20029.44,2014-11,0.85,17025.023999999998,134,True
+Región de Los Lagos,blanco,L,20328.0,2014-12,0.85,17278.8,134,True
+Región de Los Lagos,blanco,L,20029.62,2015-01,0.85,17025.177,134,True
+Región de Los Lagos,blanco,L,20766.72,2015-02,0.85,17651.712,134,True
+Región de Los Lagos,blanco,L,20940.0,2015-03,0.85,17799.0,134,True
+Región de Los Lagos,blanco,L,21012.0,2015-04,0.85,17860.2,134,True
+Región de Los Lagos,blanco,L,21833.88,2015-05,0.85,18558.798,134,True
+Región de Los Lagos,blanco,L,22385.94,2015-06,0.85,19028.049,134,True
+Región de Los Lagos,blanco,L,22923.36,2015-07,0.85,19484.856,134,True
+Región de Los Lagos,blanco,L,23107.08,2015-08,0.85,19641.018,134,True
+Región de Los Lagos,blanco,L,22837.38,2015-09,0.85,19411.773,134,True
+Región de Los Lagos,blanco,L,22416.0,2015-10,0.85,19053.6,134,True
+Región de Los Lagos,blanco,L,22416.0,2015-11,0.85,19053.6,134,True
+Región de Los Lagos,blanco,L,22390.26,2015-12,0.85,19031.720999999998,134,True
+Región de Los Lagos,blanco,L,21924.0,2016-01,0.85,18635.399999999998,134,True
+Región de Los Lagos,blanco,L,21688.56,2016-02,0.85,18435.276,134,True
+Región de Los Lagos,blanco,L,22128.0,2016-03,0.85,18808.8,134,True
+Región de Los Lagos,blanco,L,22152.0,2016-04,0.85,18829.2,134,True
+Región de Los Lagos,blanco,L,22000.98,2016-05,0.85,18700.833,134,True
+Región de Los Lagos,blanco,L,21987.96,2016-06,0.85,18689.766,134,True
+Región de Los Lagos,blanco,L,22412.88,2016-07,0.85,19050.948,134,True
+Región de Los Lagos,blanco,L,22619.16,2016-08,0.85,19226.286,134,True
+Región de Los Lagos,blanco,L,22342.44,2016-09,0.85,18991.073999999997,134,True
+Región de Los Lagos,blanco,L,22015.02,2016-10,0.85,18712.767,134,True
+Región de Los Lagos,blanco,L,22020.84,2016-11,0.85,18717.714,134,True
+Región de Los Lagos,blanco,L,21836.52,2016-12,0.85,18561.042,134,True
+Región de Los Lagos,blanco,L,21182.7,2017-01,0.85,18005.295000000002,134,True
+Región de Los Lagos,blanco,L,20835.0,2017-02,0.85,17709.75,134,True
+Región de Los Lagos,blanco,L,21043.56,2017-03,0.85,17887.026,134,True
+Región de Los Lagos,blanco,L,21159.96,2017-04,0.85,17985.966,134,True
+Región de Los Lagos,blanco,L,22143.72,2017-05,0.85,18822.162,134,True
+Región de Los Lagos,blanco,L,22214.76,2017-06,0.85,18882.546,134,True
+Región de Los Lagos,blanco,L,22863.48,2017-07,0.85,19433.958,134,True
+Región de Los Lagos,blanco,L,23097.36,2017-08,0.85,19632.756,134,True
+Región de Los Lagos,blanco,L,23042.76,2017-09,0.85,19586.345999999998,134,True
+Región de Los Lagos,blanco,L,23178.6,2017-10,0.85,19701.809999999998,134,True
+Región de Los Lagos,blanco,L,23403.9,2017-11,0.85,19893.315000000002,134,True
+Región de Los Lagos,blanco,L,23052.84,2017-12,0.85,19594.914,134,True
+Región de Los Lagos,blanco,L,22740.0,2018-01,0.85,19329.0,134,True
+Región de Los Lagos,blanco,L,22581.78,2018-02,0.85,19194.513,134,True
+Región de Los Lagos,blanco,L,22255.86,2018-03,0.85,18917.481,134,True
+Región de Los Lagos,blanco,L,22432.620000000003,2018-04,0.85,19067.727000000003,134,True
+Región de Los Lagos,blanco,L,22419.96,2018-05,0.85,19056.966,134,True
+Región de Los Lagos,blanco,L,22626.96,2018-06,0.85,19232.915999999997,134,True
+Región de Los Lagos,blanco,L,22913.28,2018-07,0.85,19476.287999999997,134,True
+Región de Los Lagos,blanco,L,23177.1,2018-08,0.85,19700.535,134,True
+Región de Los Lagos,blanco,L,23127.6,2018-09,0.85,19658.46,134,True
+Región de Los Lagos,blanco,L,22821.6,2018-10,0.85,19398.359999999997,134,True
+Región de Los Lagos,blanco,L,22285.620000000003,2018-11,0.85,18942.777000000002,134,True
+Región de Los Lagos,blanco,L,21820.38,2018-12,0.85,18547.323,134,True
+Región de Los Lagos,blanco,L,21358.38,2019-01,0.85,18154.623,134,True
+Región de Los Lagos,blanco,L,21139.5,2019-02,0.85,17968.575,134,True
+Región de Los Lagos,blanco,L,21138.6,2019-03,0.85,17967.809999999998,134,True
+Región de Los Lagos,blanco,L,21417.36,2019-04,0.85,18204.756,134,True
+Región de Los Lagos,blanco,L,21714.6,2019-05,0.85,18457.41,134,True
+Región de Los Lagos,blanco,L,21619.98,2019-06,0.85,18376.983,134,True
+Región de Los Lagos,blanco,L,22103.4,2019-07,0.85,18787.89,134,True
+Región de Los Lagos,blanco,L,21685.56,2019-08,0.85,18432.726000000002,134,True
+Región de Los Lagos,blanco,L,20550.300000000003,2019-09,0.85,17467.755,134,True
+Región de Los Lagos,blanco,L,21565.08,2019-10,0.85,18330.318,134,True
+Región de Los Lagos,blanco,L,21877.68,2019-11,0.85,18596.028,134,True
+Región de Los Lagos,blanco,L,21297.78,2019-12,0.85,18103.112999999998,134,True
+Región de Los Lagos,blanco,L,21481.68,2020-01,0.85,18259.428,134,True
+Región de Los Lagos,blanco,L,21407.34,2020-02,0.85,18196.239,134,True
+Región de Los Lagos,blanco,L,20765.4,2020-03,0.85,17650.59,134,True
+Región de Los Lagos,blanco,L,22868.4,2020-04,0.85,19438.14,134,True
+Región de Los Lagos,blanco,L,23514.0,2020-05,0.85,19986.899999999998,134,True
+Región de Los Lagos,blanco,L,24504.0,2020-06,0.85,20828.399999999998,134,True
+Región de Los Lagos,blanco,L,24877.32,2020-07,0.85,21145.721999999998,134,True
+Región de Los Lagos,blanco,L,24792.0,2020-08,0.85,21073.2,134,True
+Región de Los Lagos,blanco,L,24792.0,2020-09,0.85,21073.2,134,True
+Región de Los Lagos,blanco,L,24696.0,2020-10,0.85,20991.6,134,True
+Región de Los Lagos,blanco,L,25716.0,2020-11,0.85,21858.6,134,True
+Región de Los Lagos,blanco,L,23632.98,2020-12,0.85,20088.033,134,True
+Región de Los Lagos,blanco,L,24640.02,2021-01,0.85,20944.017,134,True
+Región de Los Lagos,blanco,L,24519.96,2021-02,0.85,20841.966,134,True
+Región de Los Lagos,blanco,L,24480.0,2021-03,0.85,20808.0,134,True
+Región de Los Lagos,blanco,L,24312.9,2021-04,0.85,20665.965,134,True
+Región de Los Lagos,blanco,L,24225.0,2021-05,0.85,20591.25,134,True
+Región de Los Lagos,blanco,L,24367.26,2021-06,0.85,20712.171,134,True
+Región de Los Lagos,blanco,L,24858.84,2021-07,0.85,21130.014,134,True
+Región de Los Lagos,blanco,L,23688.0,2021-08,0.85,20134.8,134,True
+Región de Los Lagos,blanco,L,24380.16,2021-09,0.85,20723.136,134,True
+Región de Los Lagos,blanco,L,22676.52,2021-10,0.85,19275.042,134,True
+Región de Los Lagos,blanco,L,22689.300000000003,2021-11,0.85,19285.905000000002,134,True
+Región de Los Lagos,blanco,L,21710.52,2021-12,0.85,18453.942,134,True
+Región de Los Lagos,blanco,L,22416.0,2022-01,0.85,19053.6,134,True
+Región de Los Lagos,blanco,L,22655.25,2022-02,0.85,19256.962499999998,134,True
+Región de Los Lagos,blanco,L,22828.338456,2022-03,0.85,19404.0876876,134,True
+Región de Los Lagos,blanco,L,24032.769228,2022-04,0.85,20427.8538438,134,True
+Región de Los Lagos,blanco,L,26300.543856,2022-05,0.85,22355.4622776,134,True
+Región de Los Lagos,blanco,L,27082.846152,2022-06,0.85,23020.419229199997,134,True
+Región de Los Lagos,blanco,L,27567.0,2022-07,0.85,23431.95,134,True
+Región de Los Lagos,blanco,L,27756.571428,2022-08,0.85,23593.0857138,134,True
+Región de Los Lagos,blanco,L,28155.0,2022-09,0.85,23931.75,134,True
+Región de Los Lagos,blanco,L,29902.956516,2022-10,0.85,25417.5130386,134,True
+Región de Los Lagos,blanco,L,31101.249996,2022-11,0.85,26436.0624966,134,True
+Región de Los Lagos,blanco,L,30464.85,2022-12,0.85,25895.122499999998,134,True
+Región de Los Lagos,blanco,L,30583.788456,2023-01,0.85,25996.220187599996,134,True
+Región de Los Lagos,blanco,L,31297.714284,2023-02,0.85,26603.0571414,134,True
+Región de Los Lagos,blanco,L,33946.305882,2023-03,0.85,28854.3599997,134,True
+Región de Los Lagos,blanco,L,33908.25,2023-04,0.85,28822.0125,134,True
+Región de Los Lagos,blanco,L,36696.0,2023-05,0.85,31191.6,134,True
+Región de Los Lagos,blanco,L,41822.25,2023-06,0.85,35548.9125,134,True
+Región de Los Lagos,blanco,L,41534.526312,2023-07,0.85,35304.3473652,134,True
+Región de Los Lagos,blanco,L,43760.57142,2023-08,0.85,37196.485707,134,True
+Región de Los Lagos,blanco,L,43716.33333,2023-09,0.85,37158.8833305,134,True
+Región de Los Lagos,blanco,L,42636.773328,2023-10,0.85,36241.2573288,134,True
+Región de Los Lagos,blanco,L,41303.159412,2023-11,0.85,35107.6855002,134,True
+Región de Los Lagos,blanco,L,41588.31168,2023-12,0.85,35350.064928,134,True
+Región de Los Lagos,blanco,L,40571.478252,2024-01,0.85,34485.7565142,134,True
+Región de Los Lagos,blanco,L,40928.899998,2024-02,0.85,34789.5649983,134,True
+Región de Los Lagos,blanco,L,42721.694112,2024-03,0.85,36313.439995199995,134,True
+Región de Los Lagos,blanco,L,43107.428568,2024-04,0.85,36641.3142828,134,True
+Región de Los Lagos,blanco,L,43900.5,2024-05,0.85,37315.424999999996,134,True
+Región de Los Lagos,blanco,L,44519.478252,2024-06,0.85,37841.5565142,134,True
+Región de Los Lagos,blanco,L,44659.285704,2024-07,0.85,37960.3928484,134,True
+Región de Los Lagos,blanco,L,44135.21739,2024-08,0.85,37514.9347815,134,True
+Región de Los Lagos,blanco,L,44209.5,2024-09,0.85,37578.075,134,True
+Región de Los Lagos,blanco,L,42957.0,2024-10,0.85,36513.45,134,True
+Región de Los Lagos,blanco,L,42419.55,2024-11,0.85,36056.6175,134,True
+Región de Los Lagos,blanco,L,42932.78571,2024-12,0.85,36492.86785349999,134,True
+Región de Los Lagos,blanco,L,41285.25,2025-01,0.85,35092.4625,134,True
+Región de Los Lagos,blanco,L,42348.909084,2025-02,0.85,35996.5727214,134,True
+Región de Los Lagos,blanco,L,43002.206892,2025-03,0.85,36551.8758582,134,True
+Región de Los Lagos,blanco,L,44086.666656,2025-04,0.85,37473.6666576,134,True
+Región de Los Lagos,blanco,L,45955.999998,2025-05,0.85,39062.5999983,134,True
+Región de Los Lagos,blanco,L,46915.999998,2025-06,0.85,39878.5999983,134,True
+Región de Los Lagos,blanco,L,48827.172408,2025-07,0.85,41503.0965468,134,True
+Región de Los Lagos,blanco,L,47934.545448,2025-08,0.85,40744.3636308,134,True
+Región de Los Lagos,blanco,L,47880.0,2025-09,0.85,40698.0,134,True
+Región de Los Lagos,color,L,21356.160000000003,2014-08,0.85,18152.736,134,True
+Región de Los Lagos,color,L,21096.0,2014-09,0.85,17931.6,134,True
+Región de Los Lagos,color,L,21506.88,2014-10,0.85,18280.848,134,True
+Región de Los Lagos,color,L,21685.38,2014-11,0.85,18432.573,134,True
+Región de Los Lagos,color,L,21712.56,2014-12,0.85,18455.676,134,True
+Región de Los Lagos,color,L,21914.4,2015-01,0.85,18627.24,134,True
+Región de Los Lagos,color,L,21824.04,2015-02,0.85,18550.434,134,True
+Región de Los Lagos,color,L,22701.0,2015-03,0.85,19295.85,134,True
+Región de Los Lagos,color,L,22415.34,2015-04,0.85,19053.039,134,True
+Región de Los Lagos,color,L,23271.72,2015-05,0.85,19780.962,134,True
+Región de Los Lagos,color,L,24150.72,2015-06,0.85,20528.112,134,True
+Región de Los Lagos,color,L,24870.96,2015-07,0.85,21140.316,134,True
+Región de Los Lagos,color,L,24340.26,2015-08,0.85,20689.220999999998,134,True
+Región de Los Lagos,color,L,24636.3,2015-09,0.85,20940.855,134,True
+Región de Los Lagos,color,L,23718.84,2015-10,0.85,20161.014,134,True
+Región de Los Lagos,color,L,23634.6,2015-11,0.85,20089.41,134,True
+Región de Los Lagos,color,L,24348.0,2015-12,0.85,20695.8,134,True
+Región de Los Lagos,color,L,23556.0,2016-01,0.85,20022.6,134,True
+Región de Los Lagos,color,L,22732.08,2016-02,0.85,19322.268,134,True
+Región de Los Lagos,color,L,23385.48,2016-03,0.85,19877.658,134,True
+Región de Los Lagos,color,L,23728.2,2016-04,0.85,20168.97,134,True
+Región de Los Lagos,color,L,23999.64,2016-05,0.85,20399.694,134,True
+Región de Los Lagos,color,L,23328.0,2016-06,0.85,19828.8,134,True
+Región de Los Lagos,color,L,24113.82,2016-07,0.85,20496.747,134,True
+Región de Los Lagos,color,L,24768.0,2016-08,0.85,21052.8,134,True
+Región de Los Lagos,color,L,24703.14,2016-09,0.85,20997.668999999998,134,True
+Región de Los Lagos,color,L,24417.9,2016-10,0.85,20755.215,134,True
+Región de Los Lagos,color,L,23956.8,2016-11,0.85,20363.28,134,True
+Región de Los Lagos,color,L,23848.32,2016-12,0.85,20271.072,134,True
+Región de Los Lagos,color,L,23675.64,2017-01,0.85,20124.293999999998,134,True
+Región de Los Lagos,color,L,23760.0,2017-02,0.85,20196.0,134,True
+Región de Los Lagos,color,L,23524.56,2017-03,0.85,19995.876,134,True
+Región de Los Lagos,color,L,23811.24,2017-04,0.85,20239.554,134,True
+Región de Los Lagos,color,L,24300.24,2017-05,0.85,20655.204,134,True
+Región de Los Lagos,color,L,24978.840000000004,2017-06,0.85,21232.014000000003,134,True
+Región de Los Lagos,color,L,25029.120000000003,2017-07,0.85,21274.752,134,True
+Región de Los Lagos,color,L,25358.52,2017-08,0.85,21554.742,134,True
+Región de Los Lagos,color,L,25323.0,2017-09,0.85,21524.55,134,True
+Región de Los Lagos,color,L,25349.04,2017-10,0.85,21546.684,134,True
+Región de Los Lagos,color,L,25639.74,2017-11,0.85,21793.779000000002,134,True
+Región de Los Lagos,color,L,25150.2,2017-12,0.85,21377.67,134,True
+Región de Los Lagos,color,L,25140.0,2018-01,0.85,21369.0,134,True
+Región de Los Lagos,color,L,25002.72,2018-02,0.85,21252.312,134,True
+Región de Los Lagos,color,L,24469.26,2018-03,0.85,20798.871,134,True
+Región de Los Lagos,color,L,24798.3,2018-04,0.85,21078.555,134,True
+Región de Los Lagos,color,L,24139.14,2018-05,0.85,20518.269,134,True
+Región de Los Lagos,color,L,24340.74,2018-06,0.85,20689.629,134,True
+Región de Los Lagos,color,L,24014.64,2018-07,0.85,20412.444,134,True
+Región de Los Lagos,color,L,24857.88,2018-08,0.85,21129.198,134,True
+Región de Los Lagos,color,L,24256.62,2018-09,0.85,20618.127,134,True
+Región de Los Lagos,color,L,24055.68,2018-10,0.85,20447.328,134,True
+Región de Los Lagos,color,L,23879.16,2018-11,0.85,20297.286,134,True
+Región de Los Lagos,color,L,23284.2,2018-12,0.85,19791.57,134,True
+Región de Los Lagos,color,L,23541.42,2019-01,0.85,20010.207,134,True
+Región de Los Lagos,color,L,22701.42,2019-02,0.85,19296.207,134,True
+Región de Los Lagos,color,L,23721.300000000003,2019-03,0.85,20163.105000000003,134,True
+Región de Los Lagos,color,L,23324.52,2019-04,0.85,19825.842,134,True
+Región de Los Lagos,color,L,23201.16,2019-05,0.85,19720.986,134,True
+Región de Los Lagos,color,L,23403.6,2019-06,0.85,19893.059999999998,134,True
+Región de Los Lagos,color,L,23476.56,2019-07,0.85,19955.076,134,True
+Región de Los Lagos,color,L,23321.4,2019-08,0.85,19823.190000000002,134,True
+Región de Los Lagos,color,L,23132.28,2019-09,0.85,19662.438,134,True
+Región de Los Lagos,color,L,23298.12,2019-10,0.85,19803.402,134,True
+Región de Los Lagos,color,L,23394.54,2019-11,0.85,19885.359,134,True
+Región de Los Lagos,color,L,22922.22,2019-12,0.85,19483.887,134,True
+Región de Los Lagos,color,L,22916.04,2020-01,0.85,19478.634000000002,134,True
+Región de Los Lagos,color,L,22931.1,2020-02,0.85,19491.434999999998,134,True
+Región de Los Lagos,color,L,22515.96,2020-03,0.85,19138.566,134,True
+Región de Los Lagos,color,L,23932.98,2020-04,0.85,20343.033,134,True
+Región de Los Lagos,color,L,24275.76,2020-05,0.85,20634.395999999997,134,True
+Región de Los Lagos,color,L,25761.0,2020-06,0.85,21896.85,134,True
+Región de Los Lagos,color,L,26464.56,2020-07,0.85,22494.876,134,True
+Región de Los Lagos,color,L,25897.5,2020-08,0.85,22012.875,134,True
+Región de Los Lagos,color,L,25599.96,2020-09,0.85,21759.966,134,True
+Región de Los Lagos,color,L,25479.96,2020-10,0.85,21657.966,134,True
+Región de Los Lagos,color,L,24576.0,2020-11,0.85,20889.6,134,True
+Región de Los Lagos,color,L,23730.0,2020-12,0.85,20170.5,134,True
+Región de Los Lagos,color,L,24121.86,2021-01,0.85,20503.581,134,True
+Región de Los Lagos,color,L,23335.98,2021-02,0.85,19835.583,134,True
+Región de Los Lagos,color,L,24483.72,2021-03,0.85,20811.162,134,True
+Región de Los Lagos,color,L,24768.54,2021-04,0.85,21053.259000000002,134,True
+Región de Los Lagos,color,L,24319.98,2021-05,0.85,20671.983,134,True
+Región de Los Lagos,color,L,24920.04,2021-06,0.85,21182.034,134,True
+Región de Los Lagos,color,L,25497.0,2021-07,0.85,21672.45,134,True
+Región de Los Lagos,color,L,25719.0,2021-08,0.85,21861.149999999998,134,True
+Región de Los Lagos,color,L,25502.64,2021-09,0.85,21677.244,134,True
+Región de Los Lagos,color,L,24918.24,2021-10,0.85,21180.504,134,True
+Región de Los Lagos,color,L,23955.96,2021-11,0.85,20362.566,134,True
+Región de Los Lagos,color,L,24032.52,2021-12,0.85,20427.642,134,True
+Región de Los Lagos,color,L,23098.05,2022-01,0.85,19633.3425,134,True
+Región de Los Lagos,color,L,24392.94285,2022-02,0.85,20734.001422499998,134,True
+Región de Los Lagos,color,L,25291.714284,2022-03,0.85,21497.957141400002,134,True
+Región de Los Lagos,color,L,26842.749996,2022-04,0.85,22816.337496599997,134,True
+Región de Los Lagos,color,L,28204.5,2022-05,0.85,23973.825,134,True
+Región de Los Lagos,color,L,28815.63636,2022-06,0.85,24493.290906,134,True
+Región de Los Lagos,color,L,29904.0,2022-07,0.85,25418.399999999998,134,True
+Región de Los Lagos,color,L,30152.347824,2022-08,0.85,25629.4956504,134,True
+Región de Los Lagos,color,L,30675.717942,2022-09,0.85,26074.3602507,134,True
+Región de Los Lagos,color,L,31618.956516,2022-10,0.85,26876.113038599997,134,True
+Región de Los Lagos,color,L,32280.272724,2022-11,0.85,27438.2318154,134,True
+Región de Los Lagos,color,L,32111.60784,2022-12,0.85,27294.866664,134,True
+Región de Los Lagos,color,L,32053.846152,2023-01,0.85,27245.7692292,134,True
+Región de Los Lagos,color,L,32280.0,2023-02,0.85,27438.0,134,True
+Región de Los Lagos,color,L,34716.0,2023-03,0.85,29508.6,134,True
+Región de Los Lagos,color,L,35828.853144,2023-04,0.85,30454.5251724,134,True
+Región de Los Lagos,color,L,37578.0,2023-05,0.85,31941.3,134,True
+Región de Los Lagos,color,L,43446.105258,2023-06,0.85,36929.1894693,134,True
+Región de Los Lagos,color,L,42510.57142199999,2023-07,0.85,36133.98570869999,134,True
+Región de Los Lagos,color,L,44154.75,2023-08,0.85,37531.5375,134,True
+Región de Los Lagos,color,L,44401.999998,2023-09,0.85,37741.6999983,134,True
+Región de Los Lagos,color,L,44354.666664,2023-10,0.85,37701.466664399995,134,True
+Región de Los Lagos,color,L,44551.578936,2023-11,0.85,37868.8420956,134,True
+Región de Los Lagos,color,L,44345.625,2023-12,0.85,37693.78125,134,True
+Región de Los Lagos,color,L,44280.0,2024-01,0.85,37638.0,134,True
+Región de Los Lagos,color,L,44796.857136000006,2024-02,0.85,38077.3285656,134,True
+Región de Los Lagos,color,L,44986.527270000006,2024-03,0.85,38238.5481795,134,True
+Región de Los Lagos,color,L,44694.321426,2024-04,0.85,37990.1732121,134,True
+Región de Los Lagos,color,L,44280.0,2024-05,0.85,37638.0,134,True
+Región de Los Lagos,color,L,45711.0,2024-06,0.85,38854.35,134,True
+Región de Los Lagos,color,L,45872.4,2024-07,0.85,38991.54,134,True
+Región de Los Lagos,color,L,45855.090906,2024-08,0.85,38976.827270099995,134,True
+Región de Los Lagos,color,L,45277.999992,2024-09,0.85,38486.299993199995,134,True
+Región de Los Lagos,color,L,44808.298608,2024-10,0.85,38087.0538168,134,True
+Región de Los Lagos,color,L,44241.514284,2024-11,0.85,37605.2871414,134,True
+Región de Los Lagos,color,L,44280.0,2024-12,0.85,37638.0,134,True
+Región de Los Lagos,color,L,43419.0,2025-01,0.85,36906.15,134,True
+Región de Los Lagos,color,L,43283.1111,2025-02,0.85,36790.644435,134,True
+Región de Los Lagos,color,L,43225.363632,2025-03,0.85,36741.5590872,134,True
+Región de Los Lagos,color,L,45288.517644,2025-04,0.85,38495.2399974,134,True
+Región de Los Lagos,color,L,47040.0,2025-05,0.85,39984.0,134,True
+Región de Los Lagos,color,L,49061.538456,2025-06,0.85,41702.3076876,134,True
+Región de Los Lagos,color,L,50352.0,2025-07,0.85,42799.2,134,True
+Región de Los Lagos,color,L,49539.999996,2025-08,0.85,42108.999996599996,134,True
+Región de Los Lagos,color,L,50136.0,2025-09,0.85,42615.6,134,True
+Región de Valparaíso,blanco,L,19575.6,2014-07,0.85,16639.26,135,True
+Región de Valparaíso,blanco,L,19888.68,2014-08,0.85,16905.378,135,True
+Región de Valparaíso,blanco,L,20094.66,2014-09,0.85,17080.461,135,True
+Región de Valparaíso,blanco,L,20442.84,2014-10,0.85,17376.414,135,True
+Región de Valparaíso,blanco,L,20471.88,2014-11,0.85,17401.098,135,True
+Región de Valparaíso,blanco,L,20614.32,2014-12,0.85,17522.172,135,True
+Región de Valparaíso,blanco,L,20051.64,2015-01,0.85,17043.894,135,True
+Región de Valparaíso,blanco,L,20415.6,2015-02,0.85,17353.26,135,True
+Región de Valparaíso,blanco,L,20357.7,2015-03,0.85,17304.045000000002,135,True
+Región de Valparaíso,blanco,L,20517.12,2015-04,0.85,17439.552,135,True
+Región de Valparaíso,blanco,L,21129.0,2015-05,0.85,17959.649999999998,135,True
+Región de Valparaíso,blanco,L,21380.28,2015-06,0.85,18173.237999999998,135,True
+Región de Valparaíso,blanco,L,22431.48,2015-07,0.85,19066.757999999998,135,True
+Región de Valparaíso,blanco,L,22419.120000000003,2015-08,0.85,19056.252,135,True
+Región de Valparaíso,blanco,L,21841.5,2015-09,0.85,18565.274999999998,135,True
+Región de Valparaíso,blanco,L,21493.86,2015-10,0.85,18269.781,135,True
+Región de Valparaíso,blanco,L,21520.92,2015-11,0.85,18292.782,135,True
+Región de Valparaíso,blanco,L,21914.58,2015-12,0.85,18627.393,135,True
+Región de Valparaíso,blanco,L,21568.56,2016-01,0.85,18333.276,135,True
+Región de Valparaíso,blanco,L,21708.0,2016-02,0.85,18451.8,135,True
+Región de Valparaíso,blanco,L,22009.2,2016-03,0.85,18707.82,135,True
+Región de Valparaíso,blanco,L,21889.620000000003,2016-04,0.85,18606.177000000003,135,True
+Región de Valparaíso,blanco,L,21815.04,2016-05,0.85,18542.784,135,True
+Región de Valparaíso,blanco,L,21762.0,2016-06,0.85,18497.7,135,True
+Región de Valparaíso,blanco,L,21694.32,2016-07,0.85,18440.172,135,True
+Región de Valparaíso,blanco,L,21560.76,2016-08,0.85,18326.645999999997,135,True
+Región de Valparaíso,blanco,L,21450.78,2016-09,0.85,18233.162999999997,135,True
+Región de Valparaíso,blanco,L,21646.62,2016-10,0.85,18399.627,135,True
+Región de Valparaíso,blanco,L,22125.66,2016-11,0.85,18806.810999999998,135,True
+Región de Valparaíso,blanco,L,22131.0,2016-12,0.85,18811.35,135,True
+Región de Valparaíso,blanco,L,21424.56,2017-01,0.85,18210.876,135,True
+Región de Valparaíso,blanco,L,21291.480000000003,2017-02,0.85,18097.758,135,True
+Región de Valparaíso,blanco,L,21073.56,2017-03,0.85,17912.526,135,True
+Región de Valparaíso,blanco,L,21492.0,2017-04,0.85,18268.2,135,True
+Región de Valparaíso,blanco,L,21373.800000000003,2017-05,0.85,18167.730000000003,135,True
+Región de Valparaíso,blanco,L,21923.22,2017-06,0.85,18634.737,135,True
+Región de Valparaíso,blanco,L,21893.46,2017-07,0.85,18609.441,135,True
+Región de Valparaíso,blanco,L,22248.0,2017-08,0.85,18910.8,135,True
+Región de Valparaíso,blanco,L,22231.32,2017-09,0.85,18896.622,135,True
+Región de Valparaíso,blanco,L,21935.82,2017-10,0.85,18645.447,135,True
+Región de Valparaíso,blanco,L,21868.26,2017-11,0.85,18588.020999999997,135,True
+Región de Valparaíso,blanco,L,22442.4,2017-12,0.85,19076.04,135,True
+Región de Valparaíso,blanco,L,21965.64,2018-01,0.85,18670.793999999998,135,True
+Región de Valparaíso,blanco,L,22257.24,2018-02,0.85,18918.654000000002,135,True
+Región de Valparaíso,blanco,L,21879.66,2018-03,0.85,18597.711,135,True
+Región de Valparaíso,blanco,L,21930.36,2018-04,0.85,18640.806,135,True
+Región de Valparaíso,blanco,L,22375.62,2018-05,0.85,19019.277,135,True
+Región de Valparaíso,blanco,L,22402.56,2018-06,0.85,19042.176,135,True
+Región de Valparaíso,blanco,L,22220.16,2018-07,0.85,18887.136,135,True
+Región de Valparaíso,blanco,L,22186.44,2018-08,0.85,18858.474,135,True
+Región de Valparaíso,blanco,L,22400.82,2018-09,0.85,19040.697,135,True
+Región de Valparaíso,blanco,L,22215.84,2018-10,0.85,18883.464,135,True
+Región de Valparaíso,blanco,L,22212.480000000003,2018-11,0.85,18880.608000000004,135,True
+Región de Valparaíso,blanco,L,22215.24,2018-12,0.85,18882.954,135,True
+Región de Valparaíso,blanco,L,22070.58,2019-01,0.85,18759.993000000002,135,True
+Región de Valparaíso,blanco,L,21720.84,2019-02,0.85,18462.714,135,True
+Región de Valparaíso,blanco,L,22149.0,2019-03,0.85,18826.649999999998,135,True
+Región de Valparaíso,blanco,L,21845.76,2019-04,0.85,18568.895999999997,135,True
+Región de Valparaíso,blanco,L,22261.74,2019-05,0.85,18922.479,135,True
+Región de Valparaíso,blanco,L,22166.52,2019-06,0.85,18841.542,135,True
+Región de Valparaíso,blanco,L,22177.32,2019-07,0.85,18850.721999999998,135,True
+Región de Valparaíso,blanco,L,21885.0,2019-08,0.85,18602.25,135,True
+Región de Valparaíso,blanco,L,21280.32,2019-09,0.85,18088.272,135,True
+Región de Valparaíso,blanco,L,21495.24,2019-10,0.85,18270.954,135,True
+Región de Valparaíso,blanco,L,22264.74,2019-11,0.85,18925.029000000002,135,True
+Región de Valparaíso,blanco,L,21067.2,2019-12,0.85,17907.12,135,True
+Región de Valparaíso,blanco,L,21668.28,2020-01,0.85,18418.037999999997,135,True
+Región de Valparaíso,blanco,L,21547.5,2020-02,0.85,18315.375,135,True
+Región de Valparaíso,blanco,L,21387.18,2020-03,0.85,18179.103,135,True
+Región de Valparaíso,blanco,L,21995.82,2020-04,0.85,18696.447,135,True
+Región de Valparaíso,blanco,L,23140.26,2020-05,0.85,19669.220999999998,135,True
+Región de Valparaíso,blanco,L,23580.66,2020-06,0.85,20043.560999999998,135,True
+Región de Valparaíso,blanco,L,24228.6,2020-07,0.85,20594.309999999998,135,True
+Región de Valparaíso,blanco,L,24377.04,2020-08,0.85,20720.484,135,True
+Región de Valparaíso,blanco,L,24408.72,2020-09,0.85,20747.412,135,True
+Región de Valparaíso,blanco,L,24276.24,2020-10,0.85,20634.804,135,True
+Región de Valparaíso,blanco,L,24035.46,2020-11,0.85,20430.141,135,True
+Región de Valparaíso,blanco,L,23877.0,2020-12,0.85,20295.45,135,True
+Región de Valparaíso,blanco,L,23965.56,2021-01,0.85,20370.726000000002,135,True
+Región de Valparaíso,blanco,L,23549.88,2021-02,0.85,20017.398,135,True
+Región de Valparaíso,blanco,L,23846.4,2021-03,0.85,20269.440000000002,135,True
+Región de Valparaíso,blanco,L,23694.0,2021-04,0.85,20139.899999999998,135,True
+Región de Valparaíso,blanco,L,24132.0,2021-05,0.85,20512.2,135,True
+Región de Valparaíso,blanco,L,24529.08,2021-06,0.85,20849.718,135,True
+Región de Valparaíso,blanco,L,24479.52,2021-07,0.85,20807.592,135,True
+Región de Valparaíso,blanco,L,23667.0,2021-08,0.85,20116.95,135,True
+Región de Valparaíso,blanco,L,23727.96,2021-09,0.85,20168.766,135,True
+Región de Valparaíso,blanco,L,24237.0,2021-10,0.85,20601.45,135,True
+Región de Valparaíso,blanco,L,23835.96,2021-11,0.85,20260.566,135,True
+Región de Valparaíso,blanco,L,23067.42,2021-12,0.85,19607.306999999997,135,True
+Región de Valparaíso,blanco,L,22896.999996,2022-01,0.85,19462.449996599997,135,True
+Región de Valparaíso,blanco,L,22977.0,2022-02,0.85,19530.45,135,True
+Región de Valparaíso,blanco,L,23880.0,2022-03,0.85,20298.0,135,True
+Región de Valparaíso,blanco,L,25423.714284,2022-04,0.85,21610.1571414,135,True
+Región de Valparaíso,blanco,L,26680.971426,2022-05,0.85,22678.8257121,135,True
+Región de Valparaíso,blanco,L,27385.5,2022-06,0.85,23277.675,135,True
+Región de Valparaíso,blanco,L,28161.499998,2022-07,0.85,23937.2749983,135,True
+Región de Valparaíso,blanco,L,29103.428568000003,2022-08,0.85,24737.9142828,135,True
+Región de Valparaíso,blanco,L,29402.85714,2022-09,0.85,24992.428569,135,True
+Región de Valparaíso,blanco,L,30252.9,2022-10,0.85,25714.965,135,True
+Región de Valparaíso,blanco,L,30511.999992,2022-11,0.85,25935.1999932,135,True
+Región de Valparaíso,blanco,L,29966.166666,2022-12,0.85,25471.2416661,135,True
+Región de Valparaíso,blanco,L,30220.846152,2023-01,0.85,25687.719229199996,135,True
+Región de Valparaíso,blanco,L,30555.428568000003,2023-02,0.85,25972.1142828,135,True
+Región de Valparaíso,blanco,L,31731.272724,2023-03,0.85,26971.581815399997,135,True
+Región de Valparaíso,blanco,L,32391.6,2023-04,0.85,27532.859999999997,135,True
+Región de Valparaíso,blanco,L,36801.999996,2023-05,0.85,31281.699996599997,135,True
+Región de Valparaíso,blanco,L,39963.428568,2023-06,0.85,33968.914282800004,135,True
+Región de Valparaíso,blanco,L,41298.999996,2023-07,0.85,35104.1499966,135,True
+Región de Valparaíso,blanco,L,42141.0,2023-08,0.85,35819.85,135,True
+Región de Valparaíso,blanco,L,42938.571426,2023-09,0.85,36497.7857121,135,True
+Región de Valparaíso,blanco,L,42468.0,2023-10,0.85,36097.799999999996,135,True
+Región de Valparaíso,blanco,L,42241.999992,2023-11,0.85,35905.699993199996,135,True
+Región de Valparaíso,blanco,L,41395.2,2023-12,0.85,35185.92,135,True
+Región de Valparaíso,blanco,L,40554.0,2024-01,0.85,34470.9,135,True
+Región de Valparaíso,blanco,L,41307.0,2024-02,0.85,35110.95,135,True
+Región de Valparaíso,blanco,L,41762.4,2024-03,0.85,35498.04,135,True
+Región de Valparaíso,blanco,L,41860.999998,2024-04,0.85,35581.8499983,135,True
+Región de Valparaíso,blanco,L,43020.999996,2024-05,0.85,36567.849996599994,135,True
+Región de Valparaíso,blanco,L,43743.0,2024-06,0.85,37181.549999999996,135,True
+Región de Valparaíso,blanco,L,44307.499998,2024-07,0.85,37661.3749983,135,True
+Región de Valparaíso,blanco,L,44151.0,2024-08,0.85,37528.35,135,True
+Región de Valparaíso,blanco,L,43159.999992,2024-09,0.85,36685.9999932,135,True
+Región de Valparaíso,blanco,L,42348.0,2024-10,0.85,35995.799999999996,135,True
+Región de Valparaíso,blanco,L,42035.799996,2024-11,0.85,35730.4299966,135,True
+Región de Valparaíso,blanco,L,42126.725268,2024-12,0.85,35807.7164778,135,True
+Región de Valparaíso,blanco,L,41731.999992,2025-01,0.85,35472.199993199996,135,True
+Región de Valparaíso,blanco,L,41225.538456,2025-02,0.85,35041.7076876,135,True
+Región de Valparaíso,blanco,L,42308.727264,2025-03,0.85,35962.4181744,135,True
+Región de Valparaíso,blanco,L,43049.333328,2025-04,0.85,36591.9333288,135,True
+Región de Valparaíso,blanco,L,45948.0,2025-05,0.85,39055.799999999996,135,True
+Región de Valparaíso,blanco,L,47853.6,2025-06,0.85,40675.56,135,True
+Región de Valparaíso,blanco,L,48480.0,2025-07,0.85,41208.0,135,True
+Región de Valparaíso,blanco,L,48330.0,2025-08,0.85,41080.5,135,True
+Región de Valparaíso,blanco,L,47360.72727,2025-09,0.85,40256.6181795,135,True
+Región de Valparaíso,color,L,20997.06,2014-07,0.85,17847.501,135,True
+Región de Valparaíso,color,L,21042.6,2014-08,0.85,17886.21,135,True
+Región de Valparaíso,color,L,20992.32,2014-09,0.85,17843.471999999998,135,True
+Región de Valparaíso,color,L,21077.16,2014-10,0.85,17915.586,135,True
+Región de Valparaíso,color,L,21257.22,2014-11,0.85,18068.637,135,True
+Región de Valparaíso,color,L,21230.16,2014-12,0.85,18045.636,135,True
+Región de Valparaíso,color,L,21148.68,2015-01,0.85,17976.378,135,True
+Región de Valparaíso,color,L,21354.0,2015-02,0.85,18150.899999999998,135,True
+Región de Valparaíso,color,L,20990.52,2015-03,0.85,17841.942,135,True
+Región de Valparaíso,color,L,21196.800000000003,2015-04,0.85,18017.280000000002,135,True
+Región de Valparaíso,color,L,21712.56,2015-05,0.85,18455.676,135,True
+Región de Valparaíso,color,L,22163.7,2015-06,0.85,18839.145,135,True
+Región de Valparaíso,color,L,23311.86,2015-07,0.85,19815.081,135,True
+Región de Valparaíso,color,L,23188.800000000003,2015-08,0.85,19710.480000000003,135,True
+Región de Valparaíso,color,L,22794.0,2015-09,0.85,19374.899999999998,135,True
+Región de Valparaíso,color,L,22641.84,2015-10,0.85,19245.564,135,True
+Región de Valparaíso,color,L,22536.0,2015-11,0.85,19155.6,135,True
+Región de Valparaíso,color,L,22496.160000000003,2015-12,0.85,19121.736,135,True
+Región de Valparaíso,color,L,22352.04,2016-01,0.85,18999.234,135,True
+Región de Valparaíso,color,L,22470.0,2016-02,0.85,19099.5,135,True
+Región de Valparaíso,color,L,22541.64,2016-03,0.85,19160.394,135,True
+Región de Valparaíso,color,L,22638.480000000003,2016-04,0.85,19242.708000000002,135,True
+Región de Valparaíso,color,L,22581.96,2016-05,0.85,19194.665999999997,135,True
+Región de Valparaíso,color,L,22476.0,2016-06,0.85,19104.6,135,True
+Región de Valparaíso,color,L,22628.04,2016-07,0.85,19233.834,135,True
+Región de Valparaíso,color,L,22590.0,2016-08,0.85,19201.5,135,True
+Región de Valparaíso,color,L,22629.42,2016-09,0.85,19235.006999999998,135,True
+Región de Valparaíso,color,L,22656.66,2016-10,0.85,19258.161,135,True
+Región de Valparaíso,color,L,22824.0,2016-11,0.85,19400.399999999998,135,True
+Región de Valparaíso,color,L,23032.56,2016-12,0.85,19577.676,135,True
+Región de Valparaíso,color,L,22861.8,2017-01,0.85,19432.53,135,True
+Región de Valparaíso,color,L,22570.02,2017-02,0.85,19184.517,135,True
+Región de Valparaíso,color,L,22459.5,2017-03,0.85,19090.575,135,True
+Región de Valparaíso,color,L,22462.56,2017-04,0.85,19093.176,135,True
+Región de Valparaíso,color,L,22668.0,2017-05,0.85,19267.8,135,True
+Región de Valparaíso,color,L,23017.56,2017-06,0.85,19564.926,135,True
+Región de Valparaíso,color,L,23052.84,2017-07,0.85,19594.914,135,True
+Región de Valparaíso,color,L,23163.0,2017-08,0.85,19688.55,135,True
+Región de Valparaíso,color,L,23074.8,2017-09,0.85,19613.579999999998,135,True
+Región de Valparaíso,color,L,23087.52,2017-10,0.85,19624.392,135,True
+Región de Valparaíso,color,L,23056.14,2017-11,0.85,19597.718999999997,135,True
+Región de Valparaíso,color,L,23043.6,2017-12,0.85,19587.059999999998,135,True
+Región de Valparaíso,color,L,23107.68,2018-01,0.85,19641.528,135,True
+Región de Valparaíso,color,L,23076.96,2018-02,0.85,19615.415999999997,135,True
+Región de Valparaíso,color,L,23242.26,2018-03,0.85,19755.921,135,True
+Región de Valparaíso,color,L,23101.26,2018-04,0.85,19636.071,135,True
+Región de Valparaíso,color,L,23460.48,2018-05,0.85,19941.408,135,True
+Región de Valparaíso,color,L,23870.4,2018-06,0.85,20289.84,135,True
+Región de Valparaíso,color,L,23715.96,2018-07,0.85,20158.566,135,True
+Región de Valparaíso,color,L,23613.24,2018-08,0.85,20071.254,135,True
+Región de Valparaíso,color,L,23511.06,2018-09,0.85,19984.401,135,True
+Región de Valparaíso,color,L,24042.42,2018-10,0.85,20436.056999999997,135,True
+Región de Valparaíso,color,L,23519.52,2018-11,0.85,19991.592,135,True
+Región de Valparaíso,color,L,23512.32,2018-12,0.85,19985.471999999998,135,True
+Región de Valparaíso,color,L,23312.16,2019-01,0.85,19815.336,135,True
+Región de Valparaíso,color,L,23150.82,2019-02,0.85,19678.197,135,True
+Región de Valparaíso,color,L,22625.52,2019-03,0.85,19231.692,135,True
+Región de Valparaíso,color,L,22168.08,2019-04,0.85,18842.868000000002,135,True
+Región de Valparaíso,color,L,22869.78,2019-05,0.85,19439.313,135,True
+Región de Valparaíso,color,L,22413.66,2019-06,0.85,19051.611,135,True
+Región de Valparaíso,color,L,22452.0,2019-07,0.85,19084.2,135,True
+Región de Valparaíso,color,L,22815.6,2019-08,0.85,19393.26,135,True
+Región de Valparaíso,color,L,22574.4,2019-09,0.85,19188.24,135,True
+Región de Valparaíso,color,L,22335.0,2019-10,0.85,18984.75,135,True
+Región de Valparaíso,color,L,22275.48,2019-11,0.85,18934.158,135,True
+Región de Valparaíso,color,L,21315.96,2019-12,0.85,18118.566,135,True
+Región de Valparaíso,color,L,22867.2,2020-01,0.85,19437.12,135,True
+Región de Valparaíso,color,L,22536.78,2020-02,0.85,19156.263,135,True
+Región de Valparaíso,color,L,21725.58,2020-03,0.85,18466.743000000002,135,True
+Región de Valparaíso,color,L,23095.62,2020-04,0.85,19631.277,135,True
+Región de Valparaíso,color,L,24042.0,2020-05,0.85,20435.7,135,True
+Región de Valparaíso,color,L,24404.76,2020-06,0.85,20744.046,135,True
+Región de Valparaíso,color,L,24993.84,2020-07,0.85,21244.764,135,True
+Región de Valparaíso,color,L,24844.5,2020-08,0.85,21117.825,135,True
+Región de Valparaíso,color,L,24941.22,2020-09,0.85,21200.037,135,True
+Región de Valparaíso,color,L,24607.2,2020-10,0.85,20916.12,135,True
+Región de Valparaíso,color,L,24527.4,2020-11,0.85,20848.29,135,True
+Región de Valparaíso,color,L,24403.2,2020-12,0.85,20742.72,135,True
+Región de Valparaíso,color,L,23934.0,2021-01,0.85,20343.899999999998,135,True
+Región de Valparaíso,color,L,23539.2,2021-02,0.85,20008.32,135,True
+Región de Valparaíso,color,L,23873.28,2021-03,0.85,20292.287999999997,135,True
+Región de Valparaíso,color,L,24396.0,2021-04,0.85,20736.6,135,True
+Región de Valparaíso,color,L,25204.32,2021-05,0.85,21423.672,135,True
+Región de Valparaíso,color,L,25495.32,2021-06,0.85,21671.022,135,True
+Región de Valparaíso,color,L,24573.6,2021-07,0.85,20887.559999999998,135,True
+Región de Valparaíso,color,L,24529.32,2021-08,0.85,20849.922,135,True
+Región de Valparaíso,color,L,24517.32,2021-09,0.85,20839.721999999998,135,True
+Región de Valparaíso,color,L,24116.52,2021-10,0.85,20499.042,135,True
+Región de Valparaíso,color,L,24424.32,2021-11,0.85,20760.672,135,True
+Región de Valparaíso,color,L,24500.46,2021-12,0.85,20825.391,135,True
+Región de Valparaíso,color,L,24040.363632,2022-01,0.85,20434.3090872,135,True
+Región de Valparaíso,color,L,23782.666656,2022-02,0.85,20215.2666576,135,True
+Región de Valparaíso,color,L,25788.0,2022-03,0.85,21919.8,135,True
+Región de Valparaíso,color,L,27639.999996,2022-04,0.85,23493.9999966,135,True
+Región de Valparaíso,color,L,28417.599996,2022-05,0.85,24154.9599966,135,True
+Región de Valparaíso,color,L,28824.935058,2022-06,0.85,24501.1947993,135,True
+Región de Valparaíso,color,L,29172.0,2022-07,0.85,24796.2,135,True
+Región de Valparaíso,color,L,30474.857136,2022-08,0.85,25903.6285656,135,True
+Región de Valparaíso,color,L,30854.769228,2022-09,0.85,26226.5538438,135,True
+Región de Valparaíso,color,L,32192.666664,2022-10,0.85,27363.7666644,135,True
+Región de Valparaíso,color,L,32832.0,2022-11,0.85,27907.2,135,True
+Región de Valparaíso,color,L,32047.446426,2022-12,0.85,27240.3294621,135,True
+Región de Valparaíso,color,L,31985.733330000003,2023-01,0.85,27187.873330500002,135,True
+Región de Valparaíso,color,L,32520.0,2023-02,0.85,27642.0,135,True
+Región de Valparaíso,color,L,34014.0,2023-03,0.85,28911.899999999998,135,True
+Región de Valparaíso,color,L,34765.714284,2023-04,0.85,29550.8571414,135,True
+Región de Valparaíso,color,L,39631.909086,2023-05,0.85,33687.1227231,135,True
+Región de Valparaíso,color,L,41885.45454,2023-06,0.85,35602.636359,135,True
+Región de Valparaíso,color,L,42547.666662,2023-07,0.85,36165.5166627,135,True
+Región de Valparaíso,color,L,43621.178568,2023-08,0.85,37078.0017828,135,True
+Región de Valparaíso,color,L,44275.999992,2023-09,0.85,37634.5999932,135,True
+Región de Valparaíso,color,L,44187.0,2023-10,0.85,37558.95,135,True
+Región de Valparaíso,color,L,43495.999992,2023-11,0.85,36971.5999932,135,True
+Región de Valparaíso,color,L,42907.2,2023-12,0.85,36471.119999999995,135,True
+Región de Valparaíso,color,L,43699.2,2024-01,0.85,37144.32,135,True
+Región de Valparaíso,color,L,44124.0,2024-02,0.85,37505.4,135,True
+Región de Valparaíso,color,L,44305.714284,2024-03,0.85,37659.8571414,135,True
+Región de Valparaíso,color,L,44325.923076,2024-04,0.85,37677.0346146,135,True
+Región de Valparaíso,color,L,45082.285704,2024-05,0.85,38319.9428484,135,True
+Región de Valparaíso,color,L,45555.999996,2024-06,0.85,38722.599996599994,135,True
+Región de Valparaíso,color,L,45643.749996,2024-07,0.85,38797.187496599996,135,True
+Región de Valparaíso,color,L,45595.999992,2024-08,0.85,38756.5999932,135,True
+Región de Valparaíso,color,L,45778.90908,2024-09,0.85,38912.072717999996,135,True
+Región de Valparaíso,color,L,44140.749996,2024-10,0.85,37519.6374966,135,True
+Región de Valparaíso,color,L,43340.142852,2024-11,0.85,36839.1214242,135,True
+Región de Valparaíso,color,L,42887.892852,2024-12,0.85,36454.7089242,135,True
+Región de Valparaíso,color,L,42235.999992,2025-01,0.85,35900.5999932,135,True
+Región de Valparaíso,color,L,42571.2,2025-02,0.85,36185.52,135,True
+Región de Valparaíso,color,L,44013.600000000006,2025-03,0.85,37411.560000000005,135,True
+Región de Valparaíso,color,L,45701.142852,2025-04,0.85,38845.9714242,135,True
+Región de Valparaíso,color,L,46893.999996,2025-05,0.85,39859.8999966,135,True
+Región de Valparaíso,color,L,49832.999994,2025-06,0.85,42358.0499949,135,True
+Región de Valparaíso,color,L,50472.0,2025-07,0.85,42901.2,135,True
+Región de Valparaíso,color,L,50580.0,2025-08,0.85,42993.0,135,True
+Región de Valparaíso,color,L,50646.0,2025-09,0.85,43049.1,135,True
+Región de Ñuble,blanco,L,20654.46,2018-09,0.85,17556.290999999997,85,True
+Región de Ñuble,blanco,L,21220.14,2018-10,0.85,18037.119,85,True
+Región de Ñuble,blanco,L,21720.0,2018-11,0.85,18462.0,85,True
+Región de Ñuble,blanco,L,21000.0,2018-12,0.85,17850.0,85,True
+Región de Ñuble,blanco,L,21252.54,2019-01,0.85,18064.659,85,True
+Región de Ñuble,blanco,L,21184.5,2019-02,0.85,18006.825,85,True
+Región de Ñuble,blanco,L,21386.94,2019-03,0.85,18178.898999999998,85,True
+Región de Ñuble,blanco,L,21193.14,2019-04,0.85,18014.168999999998,85,True
+Región de Ñuble,blanco,L,20668.26,2019-05,0.85,17568.020999999997,85,True
+Región de Ñuble,blanco,L,20313.12,2019-06,0.85,17266.152,85,True
+Región de Ñuble,blanco,L,19632.96,2019-07,0.85,16688.016,85,True
+Región de Ñuble,blanco,L,19009.8,2019-08,0.85,16158.329999999998,85,True
+Región de Ñuble,blanco,L,19140.0,2019-09,0.85,16269.0,85,True
+Región de Ñuble,blanco,L,19797.6,2019-10,0.85,16827.96,85,True
+Región de Ñuble,blanco,L,20520.0,2019-11,0.85,17442.0,85,True
+Región de Ñuble,blanco,L,20760.0,2019-12,0.85,17646.0,85,True
+Región de Ñuble,blanco,L,20280.0,2020-01,0.85,17238.0,85,True
+Región de Ñuble,blanco,L,20679.96,2020-02,0.85,17577.966,85,True
+Región de Ñuble,blanco,L,20702.1,2020-03,0.85,17596.785,85,True
+Región de Ñuble,blanco,L,19260.0,2020-04,0.85,16371.0,85,True
+Región de Ñuble,blanco,L,20184.0,2020-05,0.85,17156.399999999998,85,True
+Región de Ñuble,blanco,L,21510.0,2020-06,0.85,18283.5,85,True
+Región de Ñuble,blanco,L,23417.76,2020-07,0.85,19905.095999999998,85,True
+Región de Ñuble,blanco,L,23544.18,2020-08,0.85,20012.553,85,True
+Región de Ñuble,blanco,L,23723.28,2020-09,0.85,20164.787999999997,85,True
+Región de Ñuble,blanco,L,23901.6,2020-10,0.85,20316.359999999997,85,True
+Región de Ñuble,blanco,L,23424.0,2020-11,0.85,19910.399999999998,85,True
+Región de Ñuble,blanco,L,23400.0,2020-12,0.85,19890.0,85,True
+Región de Ñuble,blanco,L,23400.0,2021-01,0.85,19890.0,85,True
+Región de Ñuble,blanco,L,22844.46,2021-02,0.85,19417.790999999997,85,True
+Región de Ñuble,blanco,L,23336.88,2021-03,0.85,19836.348,85,True
+Región de Ñuble,blanco,L,23424.0,2021-04,0.85,19910.399999999998,85,True
+Región de Ñuble,blanco,L,22755.0,2021-05,0.85,19341.75,85,True
+Región de Ñuble,blanco,L,23352.84,2021-06,0.85,19849.914,85,True
+Región de Ñuble,blanco,L,22680.0,2021-07,0.85,19278.0,85,True
+Región de Ñuble,blanco,L,22741.92,2021-08,0.85,19330.631999999998,85,True
+Región de Ñuble,blanco,L,22571.22,2021-09,0.85,19185.537,85,True
+Región de Ñuble,blanco,L,23200.26,2021-10,0.85,19720.220999999998,85,True
+Región de Ñuble,blanco,L,23059.98,2021-11,0.85,19600.983,85,True
+Región de Ñuble,blanco,L,22287.96,2021-12,0.85,18944.766,85,True
+Región de Ñuble,blanco,L,22279.999992,2022-01,0.85,18937.9999932,85,True
+Región de Ñuble,blanco,L,23137.333326,2022-02,0.85,19666.7333271,85,True
+Región de Ñuble,blanco,L,23632.615380000003,2022-03,0.85,20087.723073,85,True
+Región de Ñuble,blanco,L,24496.5,2022-04,0.85,20822.024999999998,85,True
+Región de Ñuble,blanco,L,26263.83333,2022-05,0.85,22324.2583305,85,True
+Región de Ñuble,blanco,L,27319.999992,2022-06,0.85,23221.9999932,85,True
+Región de Ñuble,blanco,L,27855.999996,2022-07,0.85,23677.599996599998,85,True
+Región de Ñuble,blanco,L,27850.153842,2022-08,0.85,23672.6307657,85,True
+Región de Ñuble,blanco,L,29052.0,2022-09,0.85,24694.2,85,True
+Región de Ñuble,blanco,L,29484.799992,2022-10,0.85,25062.0799932,85,True
+Región de Ñuble,blanco,L,30447.0,2022-11,0.85,25879.95,85,True
+Región de Ñuble,blanco,L,30565.739124,2022-12,0.85,25980.8782554,85,True
+Región de Ñuble,blanco,L,31396.800000000003,2023-01,0.85,26687.280000000002,85,True
+Región de Ñuble,blanco,L,30778.588224,2023-02,0.85,26161.7999904,85,True
+Región de Ñuble,blanco,L,33080.095230000006,2023-03,0.85,28118.080945500005,85,True
+Región de Ñuble,blanco,L,33528.0,2023-04,0.85,28498.8,85,True
+Región de Ñuble,blanco,L,34239.999996,2023-05,0.85,29103.9999966,85,True
+Región de Ñuble,blanco,L,39535.2,2023-06,0.85,33604.92,85,True
+Región de Ñuble,blanco,L,41192.357136,2023-07,0.85,35013.5035656,85,True
+Región de Ñuble,blanco,L,41599.671324,2023-08,0.85,35359.720625400005,85,True
+Región de Ñuble,blanco,L,42847.999992,2023-09,0.85,36420.799993199995,85,True
+Región de Ñuble,blanco,L,42011.57142,2023-10,0.85,35709.835707,85,True
+Región de Ñuble,blanco,L,41674.344816,2023-11,0.85,35423.1930936,85,True
+Región de Ñuble,blanco,L,41568.0,2023-12,0.85,35332.799999999996,85,True
+Región de Ñuble,blanco,L,41047.894734,2024-01,0.85,34890.7105239,85,True
+Región de Ñuble,blanco,L,39956.4,2024-02,0.85,33962.94,85,True
+Región de Ñuble,blanco,L,42796.601736,2024-03,0.85,36377.111475599995,85,True
+Región de Ñuble,blanco,L,43740.0,2024-04,0.85,37179.0,85,True
+Región de Ñuble,blanco,L,43994.482752,2024-05,0.85,37395.310339200005,85,True
+Región de Ñuble,blanco,L,44688.0,2024-06,0.85,37984.799999999996,85,True
+Región de Ñuble,blanco,L,45068.786316,2024-07,0.85,38308.4683686,85,True
+Región de Ñuble,blanco,L,45253.714284,2024-08,0.85,38465.6571414,85,True
+Región de Ñuble,blanco,L,44049.999996,2024-09,0.85,37442.499996599996,85,True
+Región de Ñuble,blanco,L,44059.999998,2024-10,0.85,37450.9999983,85,True
+Región de Ñuble,blanco,L,43761.923076,2024-11,0.85,37197.6346146,85,True
+Región de Ñuble,blanco,L,42872.347824,2024-12,0.85,36441.49565039999,85,True
+Región de Ñuble,blanco,L,41814.857136000006,2025-01,0.85,35542.628565600004,85,True
+Región de Ñuble,blanco,L,41923.2,2025-02,0.85,35634.719999999994,85,True
+Región de Ñuble,blanco,L,42525.931032,2025-03,0.85,36147.0413772,85,True
+Región de Ñuble,blanco,L,42360.0,2025-04,0.85,36006.0,85,True
+Región de Ñuble,blanco,L,45308.142852,2025-05,0.85,38511.921424199994,85,True
+Región de Ñuble,blanco,L,47836.61538,2025-06,0.85,40661.123073,85,True
+Región de Ñuble,blanco,L,50274.285708,2025-07,0.85,42733.1428518,85,True
+Región de Ñuble,blanco,L,50070.0,2025-08,0.85,42559.5,85,True
+Región de Ñuble,blanco,L,50119.28571,2025-09,0.85,42601.392853499994,85,True
+Región de Ñuble,color,L,23781.919998,2018-09,0.85,20214.6319983,85,True
+Región de Ñuble,color,L,23574.0,2018-10,0.85,20037.899999999998,85,True
+Región de Ñuble,color,L,22788.0,2018-11,0.85,19369.8,85,True
+Región de Ñuble,color,L,23477.76,2018-12,0.85,19956.095999999998,85,True
+Región de Ñuble,color,L,23060.7,2019-01,0.85,19601.595,85,True
+Región de Ñuble,color,L,23287.26,2019-02,0.85,19794.171,85,True
+Región de Ñuble,color,L,23525.28,2019-03,0.85,19996.487999999998,85,True
+Región de Ñuble,color,L,22926.0,2019-04,0.85,19487.1,85,True
+Región de Ñuble,color,L,22133.88,2019-05,0.85,18813.798,85,True
+Región de Ñuble,color,L,22238.22,2019-06,0.85,18902.487,85,True
+Región de Ñuble,color,L,22068.84,2019-07,0.85,18758.514,85,True
+Región de Ñuble,color,L,22523.88,2019-08,0.85,19145.298,85,True
+Región de Ñuble,color,L,22626.0,2019-09,0.85,19232.1,85,True
+Región de Ñuble,color,L,21758.88,2019-10,0.85,18495.048,85,True
+Región de Ñuble,color,L,22304.76,2019-11,0.85,18959.046,85,True
+Región de Ñuble,color,L,22550.04,2019-12,0.85,19167.534,85,True
+Región de Ñuble,color,L,22640.04,2020-01,0.85,19244.034,85,True
+Región de Ñuble,color,L,22218.6,2020-02,0.85,18885.809999999998,85,True
+Región de Ñuble,color,L,22477.2,2020-03,0.85,19105.62,85,True
+Región de Ñuble,color,L,21480.0,2020-04,0.85,18258.0,85,True
+Región de Ñuble,color,L,22716.300000000003,2020-05,0.85,19308.855000000003,85,True
+Región de Ñuble,color,L,23733.6,2020-06,0.85,20173.559999999998,85,True
+Región de Ñuble,color,L,23431.800000000003,2020-07,0.85,19917.030000000002,85,True
+Región de Ñuble,color,L,24849.0,2020-08,0.85,21121.649999999998,85,True
+Región de Ñuble,color,L,24680.04,2020-09,0.85,20978.034,85,True
+Región de Ñuble,color,L,22760.04,2020-10,0.85,19346.034,85,True
+Región de Ñuble,color,L,23400.0,2020-11,0.85,19890.0,85,True
+Región de Ñuble,color,L,22279.98,2020-12,0.85,18937.983,85,True
+Región de Ñuble,color,L,23184.0,2021-01,0.85,19706.399999999998,85,True
+Región de Ñuble,color,L,22437.0,2021-02,0.85,19071.45,85,True
+Región de Ñuble,color,L,24144.0,2021-03,0.85,20522.399999999998,85,True
+Región de Ñuble,color,L,24480.0,2021-04,0.85,20808.0,85,True
+Región de Ñuble,color,L,22980.0,2021-05,0.85,19533.0,85,True
+Región de Ñuble,color,L,24694.2,2021-06,0.85,20990.07,85,True
+Región de Ñuble,color,L,26028.0,2021-07,0.85,22123.8,85,True
+Región de Ñuble,color,L,25397.58,2021-08,0.85,21587.943,85,True
+Región de Ñuble,color,L,25680.0,2021-09,0.85,21828.0,85,True
+Región de Ñuble,color,L,25488.42,2021-10,0.85,21665.157,85,True
+Región de Ñuble,color,L,25123.5,2021-11,0.85,21354.975,85,True
+Región de Ñuble,color,L,25087.2,2021-12,0.85,21324.12,85,True
+Región de Ñuble,color,L,24963.692304,2022-01,0.85,21219.1384584,85,True
+Región de Ñuble,color,L,24849.999996,2022-02,0.85,21122.4999966,85,True
+Región de Ñuble,color,L,25797.857142,2022-03,0.85,21928.1785707,85,True
+Región de Ñuble,color,L,27153.699996,2022-04,0.85,23080.6449966,85,True
+Región de Ñuble,color,L,29069.647056,2022-05,0.85,24709.1999976,85,True
+Región de Ñuble,color,L,29436.0,2022-06,0.85,25020.6,85,True
+Región de Ñuble,color,L,29799.999996,2022-07,0.85,25329.9999966,85,True
+Región de Ñuble,color,L,29859.0,2022-08,0.85,25380.149999999998,85,True
+Región de Ñuble,color,L,30138.545448,2022-09,0.85,25617.7636308,85,True
+Región de Ñuble,color,L,31404.0,2022-10,0.85,26693.399999999998,85,True
+Región de Ñuble,color,L,32439.529404,2022-11,0.85,27573.5999934,85,True
+Región de Ñuble,color,L,32280.0,2022-12,0.85,27438.0,85,True
+Región de Ñuble,color,L,32760.0,2023-01,0.85,27846.0,85,True
+Región de Ñuble,color,L,32671.999992,2023-02,0.85,27771.1999932,85,True
+Región de Ñuble,color,L,33731.333328,2023-03,0.85,28671.6333288,85,True
+Región de Ñuble,color,L,34818.0,2023-04,0.85,29595.3,85,True
+Región de Ñuble,color,L,34920.0,2023-05,0.85,29682.0,85,True
+Región de Ñuble,color,L,40200.0,2023-06,0.85,34170.0,85,True
+Región de Ñuble,color,L,39060.0,2023-07,0.85,33201.0,85,True
+Región de Ñuble,color,L,41400.0,2023-08,0.85,35190.0,85,True
+Región de Ñuble,color,L,43200.0,2023-09,0.85,36720.0,85,True
+Región de Ñuble,color,L,42600.0,2023-10,0.85,36210.0,85,True
+Región de Ñuble,color,L,43800.0,2023-11,0.85,37230.0,85,True
+Región de Ñuble,color,L,42507.0,2023-12,0.85,36130.95,85,True
+Región de Ñuble,color,L,43630.363632,2024-01,0.85,37085.8090872,85,True
+Región de Ñuble,color,L,43719.15789,2024-02,0.85,37161.2842065,85,True
+Región de Ñuble,color,L,44425.636362000005,2024-03,0.85,37761.7909077,85,True
+Región de Ñuble,color,L,44679.999996,2024-04,0.85,37977.999996599996,85,True
+Región de Ñuble,color,L,44280.0,2024-05,0.85,37638.0,85,True
+Región de Ñuble,color,L,44280.0,2024-06,0.85,37638.0,85,True
+Región de Ñuble,color,L,45177.391302,2024-07,0.85,38400.7826067,85,True
+Región de Ñuble,color,L,44969.499996,2024-08,0.85,38224.0749966,85,True
+Región de Ñuble,color,L,45698.538456,2024-09,0.85,38843.7576876,85,True
+Región de Ñuble,color,L,44773.740252,2024-10,0.85,38057.679214200005,85,True
+Región de Ñuble,color,L,44280.0,2024-11,0.85,37638.0,85,True
+Región de Ñuble,color,L,44280.0,2024-12,0.85,37638.0,85,True
+Región de Ñuble,color,L,42794.863632,2025-01,0.85,36375.6340872,85,True
+Región de Ñuble,color,L,42973.826082,2025-02,0.85,36527.7521697,85,True
+Región de Ñuble,color,L,43365.499998,2025-03,0.85,36860.6749983,85,True
+Región de Ñuble,color,L,43440.0,2025-04,0.85,36924.0,85,True
+Región de Ñuble,color,L,46336.909086,2025-05,0.85,39386.3727231,85,True
+Región de Ñuble,color,L,47760.0,2025-06,0.85,40596.0,85,True
+Región de Ñuble,color,L,50095.999998,2025-07,0.85,42581.5999983,85,True
+Región de Ñuble,color,L,50242.777776,2025-08,0.85,42706.3611096,85,True
+Región de Ñuble,color,L,50287.2,2025-09,0.85,42744.119999999995,85,True
+Región del Biobío,blanco,L,17982.6,2014-01,0.85,15285.21,141,True
+Región del Biobío,blanco,L,18271.32,2014-02,0.85,15530.622,141,True
+Región del Biobío,blanco,L,18598.86,2014-03,0.85,15809.031,141,True
+Región del Biobío,blanco,L,18438.0,2014-04,0.85,15672.3,141,True
+Región del Biobío,blanco,L,18651.6,2014-05,0.85,15853.859999999999,141,True
+Región del Biobío,blanco,L,18977.28,2014-06,0.85,16130.687999999998,141,True
+Región del Biobío,blanco,L,19534.32,2014-07,0.85,16604.172,141,True
+Región del Biobío,blanco,L,20178.36,2014-08,0.85,17151.606,141,True
+Región del Biobío,blanco,L,20079.72,2014-09,0.85,17067.762,141,True
+Región del Biobío,blanco,L,20101.98,2014-10,0.85,17086.683,141,True
+Región del Biobío,blanco,L,20151.96,2014-11,0.85,17129.165999999997,141,True
+Región del Biobío,blanco,L,20301.48,2014-12,0.85,17256.257999999998,141,True
+Región del Biobío,blanco,L,20144.1,2015-01,0.85,17122.484999999997,141,True
+Región del Biobío,blanco,L,20275.2,2015-02,0.85,17233.920000000002,141,True
+Región del Biobío,blanco,L,20354.76,2015-03,0.85,17301.546,141,True
+Región del Biobío,blanco,L,20672.34,2015-04,0.85,17571.489,141,True
+Región del Biobío,blanco,L,21068.28,2015-05,0.85,17908.037999999997,141,True
+Región del Biobío,blanco,L,21690.0,2015-06,0.85,18436.5,141,True
+Región del Biobío,blanco,L,22320.0,2015-07,0.85,18972.0,141,True
+Región del Biobío,blanco,L,22493.52,2015-08,0.85,19119.492,141,True
+Región del Biobío,blanco,L,22614.84,2015-09,0.85,19222.614,141,True
+Región del Biobío,blanco,L,21694.2,2015-10,0.85,18440.07,141,True
+Región del Biobío,blanco,L,21880.02,2015-11,0.85,18598.017,141,True
+Región del Biobío,blanco,L,21963.36,2015-12,0.85,18668.856,141,True
+Región del Biobío,blanco,L,21353.04,2016-01,0.85,18150.084,141,True
+Región del Biobío,blanco,L,21405.84,2016-02,0.85,18194.964,141,True
+Región del Biobío,blanco,L,21758.28,2016-03,0.85,18494.537999999997,141,True
+Región del Biobío,blanco,L,21832.800000000003,2016-04,0.85,18557.88,141,True
+Región del Biobío,blanco,L,21569.58,2016-05,0.85,18334.143,141,True
+Región del Biobío,blanco,L,21486.84,2016-06,0.85,18263.814,141,True
+Región del Biobío,blanco,L,21199.800000000003,2016-07,0.85,18019.83,141,True
+Región del Biobío,blanco,L,21257.82,2016-08,0.85,18069.147,141,True
+Región del Biobío,blanco,L,21094.08,2016-09,0.85,17929.968,141,True
+Región del Biobío,blanco,L,21404.22,2016-10,0.85,18193.587,141,True
+Región del Biobío,blanco,L,21586.26,2016-11,0.85,18348.321,141,True
+Región del Biobío,blanco,L,21398.4,2016-12,0.85,18188.64,141,True
+Región del Biobío,blanco,L,21139.2,2017-01,0.85,17968.32,141,True
+Región del Biobío,blanco,L,20829.72,2017-02,0.85,17705.262,141,True
+Región del Biobío,blanco,L,20997.72,2017-03,0.85,17848.062,141,True
+Región del Biobío,blanco,L,21480.0,2017-04,0.85,18258.0,141,True
+Región del Biobío,blanco,L,21480.0,2017-05,0.85,18258.0,141,True
+Región del Biobío,blanco,L,21654.96,2017-06,0.85,18406.716,141,True
+Región del Biobío,blanco,L,22119.48,2017-07,0.85,18801.558,141,True
+Región del Biobío,blanco,L,22572.0,2017-08,0.85,19186.2,141,True
+Región del Biobío,blanco,L,22228.5,2017-09,0.85,18894.225,141,True
+Región del Biobío,blanco,L,22240.800000000003,2017-10,0.85,18904.68,141,True
+Región del Biobío,blanco,L,22559.16,2017-11,0.85,19175.286,141,True
+Región del Biobío,blanco,L,22002.84,2017-12,0.85,18702.414,141,True
+Región del Biobío,blanco,L,22534.08,2018-01,0.85,19153.968,141,True
+Región del Biobío,blanco,L,22032.24,2018-02,0.85,18727.404000000002,141,True
+Región del Biobío,blanco,L,22366.32,2018-03,0.85,19011.372,141,True
+Región del Biobío,blanco,L,21933.300000000003,2018-04,0.85,18643.305,141,True
+Región del Biobío,blanco,L,21894.0,2018-05,0.85,18609.899999999998,141,True
+Región del Biobío,blanco,L,22022.28,2018-06,0.85,18718.938,141,True
+Región del Biobío,blanco,L,22041.66,2018-07,0.85,18735.411,141,True
+Región del Biobío,blanco,L,22469.1,2018-08,0.85,19098.734999999997,141,True
+Región del Biobío,blanco,L,22136.91,2018-09,0.85,18816.373499999998,141,True
+Región del Biobío,blanco,L,22444.800000000003,2018-10,0.85,19078.08,141,True
+Región del Biobío,blanco,L,22131.96,2018-11,0.85,18812.165999999997,141,True
+Región del Biobío,blanco,L,22112.4,2018-12,0.85,18795.54,141,True
+Región del Biobío,blanco,L,22077.0,2019-01,0.85,18765.45,141,True
+Región del Biobío,blanco,L,22680.0,2019-02,0.85,19278.0,141,True
+Región del Biobío,blanco,L,21652.2,2019-03,0.85,18404.37,141,True
+Región del Biobío,blanco,L,21080.04,2019-04,0.85,17918.034,141,True
+Región del Biobío,blanco,L,21622.98,2019-05,0.85,18379.533,141,True
+Región del Biobío,blanco,L,21366.84,2019-06,0.85,18161.814,141,True
+Región del Biobío,blanco,L,21650.4,2019-07,0.85,18402.84,141,True
+Región del Biobío,blanco,L,21547.56,2019-08,0.85,18315.426,141,True
+Región del Biobío,blanco,L,20888.52,2019-09,0.85,17755.242,141,True
+Región del Biobío,blanco,L,20880.0,2019-10,0.85,17748.0,141,True
+Región del Biobío,blanco,L,21234.48,2019-11,0.85,18049.308,141,True
+Región del Biobío,blanco,L,20823.18,2019-12,0.85,17699.703,141,True
+Región del Biobío,blanco,L,21374.52,2020-01,0.85,18168.342,141,True
+Región del Biobío,blanco,L,20994.84,2020-02,0.85,17845.614,141,True
+Región del Biobío,blanco,L,21493.98,2020-03,0.85,18269.882999999998,141,True
+Región del Biobío,blanco,L,20280.0,2020-04,0.85,17238.0,141,True
+Región del Biobío,blanco,L,21374.4,2020-05,0.85,18168.24,141,True
+Región del Biobío,blanco,L,23832.0,2020-06,0.85,20257.2,141,True
+Región del Biobío,blanco,L,23970.0,2020-07,0.85,20374.5,141,True
+Región del Biobío,blanco,L,23853.0,2020-08,0.85,20275.05,141,True
+Región del Biobío,blanco,L,24382.32,2020-09,0.85,20724.971999999998,141,True
+Región del Biobío,blanco,L,24048.0,2020-10,0.85,20440.8,141,True
+Región del Biobío,blanco,L,24486.48,2020-11,0.85,20813.507999999998,141,True
+Región del Biobío,blanco,L,23430.0,2020-12,0.85,19915.5,141,True
+Región del Biobío,blanco,L,23893.5,2021-01,0.85,20309.475,141,True
+Región del Biobío,blanco,L,23481.0,2021-02,0.85,19958.85,141,True
+Región del Biobío,blanco,L,23233.98,2021-03,0.85,19748.882999999998,141,True
+Región del Biobío,blanco,L,23508.0,2021-04,0.85,19981.8,141,True
+Región del Biobío,blanco,L,23876.04,2021-05,0.85,20294.634000000002,141,True
+Región del Biobío,blanco,L,24774.9,2021-06,0.85,21058.665,141,True
+Región del Biobío,blanco,L,24720.0,2021-07,0.85,21012.0,141,True
+Región del Biobío,blanco,L,24054.42,2021-08,0.85,20446.256999999998,141,True
+Región del Biobío,blanco,L,24710.4,2021-09,0.85,21003.84,141,True
+Región del Biobío,blanco,L,21879.96,2021-10,0.85,18597.966,141,True
+Región del Biobío,blanco,L,21879.96,2021-11,0.85,18597.966,141,True
+Región del Biobío,blanco,L,21480.0,2021-12,0.85,18258.0,141,True
+Región del Biobío,blanco,L,22215.0,2022-01,0.85,18882.75,141,True
+Región del Biobío,blanco,L,22410.0,2022-02,0.85,19048.5,141,True
+Región del Biobío,blanco,L,22680.0,2022-03,0.85,19278.0,141,True
+Región del Biobío,blanco,L,24202.8,2022-04,0.85,20572.379999999997,141,True
+Región del Biobío,blanco,L,26059.999998,2022-05,0.85,22150.999998299998,141,True
+Región del Biobío,blanco,L,27240.0,2022-06,0.85,23154.0,141,True
+Región del Biobío,blanco,L,27480.0,2022-07,0.85,23358.0,141,True
+Región del Biobío,blanco,L,28119.999996,2022-08,0.85,23901.9999966,141,True
+Región del Biobío,blanco,L,28920.0,2022-09,0.85,24582.0,141,True
+Región del Biobío,blanco,L,30870.0,2022-10,0.85,26239.5,141,True
+Región del Biobío,blanco,L,30519.999996,2022-11,0.85,25941.9999966,141,True
+Región del Biobío,blanco,L,29631.399996,2022-12,0.85,25186.6899966,141,True
+Región del Biobío,blanco,L,30381.6,2023-01,0.85,25824.359999999997,141,True
+Región del Biobío,blanco,L,29731.999998,2023-02,0.85,25272.1999983,141,True
+Región del Biobío,blanco,L,32040.0,2023-03,0.85,27234.0,141,True
+Región del Biobío,blanco,L,33240.0,2023-04,0.85,28254.0,141,True
+Región del Biobío,blanco,L,35406.0,2023-05,0.85,30095.1,141,True
+Región del Biobío,blanco,L,41242.666662,2023-06,0.85,35056.2666627,141,True
+Región del Biobío,blanco,L,42029.599992,2023-07,0.85,35725.1599932,141,True
+Región del Biobío,blanco,L,42531.0,2023-08,0.85,36151.35,141,True
+Región del Biobío,blanco,L,43027.636356,2023-09,0.85,36573.4909026,141,True
+Región del Biobío,blanco,L,42446.666664,2023-10,0.85,36079.6666644,141,True
+Región del Biobío,blanco,L,42519.999996,2023-11,0.85,36141.999996599996,141,True
+Región del Biobío,blanco,L,40881.0,2023-12,0.85,34748.85,141,True
+Región del Biobío,blanco,L,41217.999996,2024-01,0.85,35035.2999966,141,True
+Región del Biobío,blanco,L,40680.0,2024-02,0.85,34578.0,141,True
+Región del Biobío,blanco,L,42528.0,2024-03,0.85,36148.799999999996,141,True
+Región del Biobío,blanco,L,42100.5,2024-04,0.85,35785.424999999996,141,True
+Región del Biobío,blanco,L,41934.0,2024-05,0.85,35643.9,141,True
+Región del Biobío,blanco,L,42621.0,2024-06,0.85,36227.85,141,True
+Región del Biobío,blanco,L,44199.999996,2024-07,0.85,37569.999996599996,141,True
+Región del Biobío,blanco,L,42711.999996,2024-08,0.85,36305.1999966,141,True
+Región del Biobío,blanco,L,42360.0,2024-09,0.85,36006.0,141,True
+Región del Biobío,blanco,L,41969.45454,2024-10,0.85,35674.036359,141,True
+Región del Biobío,blanco,L,40488.642852,2024-11,0.85,34415.3464242,141,True
+Región del Biobío,blanco,L,40689.333324,2024-12,0.85,34585.9333254,141,True
+Región del Biobío,blanco,L,41104.999998,2025-01,0.85,34939.2499983,141,True
+Región del Biobío,blanco,L,42397.399998,2025-02,0.85,36037.7899983,141,True
+Región del Biobío,blanco,L,41142.071424,2025-03,0.85,34970.7607104,141,True
+Región del Biobío,blanco,L,43446.171426,2025-04,0.85,36929.2457121,141,True
+Región del Biobío,blanco,L,45832.8,2025-05,0.85,38957.880000000005,141,True
+Región del Biobío,blanco,L,48016.28571,2025-06,0.85,40813.8428535,141,True
+Región del Biobío,blanco,L,48939.999996,2025-07,0.85,41598.999996599996,141,True
+Región del Biobío,blanco,L,49784.285706,2025-08,0.85,42316.6428501,141,True
+Región del Biobío,blanco,L,49560.0,2025-09,0.85,42126.0,141,True
+Región del Biobío,color,L,20775.0,2014-05,0.85,17658.75,137,True
+Región del Biobío,color,L,20134.44,2014-06,0.85,17114.273999999998,137,True
+Región del Biobío,color,L,21022.92,2014-07,0.85,17869.481999999996,137,True
+Región del Biobío,color,L,21317.4,2014-08,0.85,18119.79,137,True
+Región del Biobío,color,L,21605.28,2014-09,0.85,18364.487999999998,137,True
+Región del Biobío,color,L,21402.0,2014-10,0.85,18191.7,137,True
+Región del Biobío,color,L,21591.96,2014-11,0.85,18353.165999999997,137,True
+Región del Biobío,color,L,21932.52,2014-12,0.85,18642.642,137,True
+Región del Biobío,color,L,22140.24,2015-01,0.85,18819.204,137,True
+Región del Biobío,color,L,21652.08,2015-02,0.85,18404.268,137,True
+Región del Biobío,color,L,21717.24,2015-03,0.85,18459.654000000002,137,True
+Región del Biobío,color,L,22062.0,2015-04,0.85,18752.7,137,True
+Región del Biobío,color,L,22586.34,2015-05,0.85,19198.389,137,True
+Región del Biobío,color,L,22887.48,2015-06,0.85,19454.358,137,True
+Región del Biobío,color,L,23691.96,2015-07,0.85,20138.165999999997,137,True
+Región del Biobío,color,L,24018.6,2015-08,0.85,20415.809999999998,137,True
+Región del Biobío,color,L,23949.42,2015-09,0.85,20357.006999999998,137,True
+Región del Biobío,color,L,23469.6,2015-10,0.85,19949.16,137,True
+Región del Biobío,color,L,23460.0,2015-11,0.85,19941.0,137,True
+Región del Biobío,color,L,23334.0,2015-12,0.85,19833.899999999998,137,True
+Región del Biobío,color,L,23434.5,2016-01,0.85,19919.325,137,True
+Región del Biobío,color,L,22378.68,2016-02,0.85,19021.878,137,True
+Región del Biobío,color,L,23250.06,2016-03,0.85,19762.551,137,True
+Región del Biobío,color,L,23292.0,2016-04,0.85,19798.2,137,True
+Región del Biobío,color,L,23100.36,2016-05,0.85,19635.306,137,True
+Región del Biobío,color,L,23284.02,2016-06,0.85,19791.417,137,True
+Región del Biobío,color,L,23287.5,2016-07,0.85,19794.375,137,True
+Región del Biobío,color,L,23475.42,2016-08,0.85,19954.106999999996,137,True
+Región del Biobío,color,L,23264.76,2016-09,0.85,19775.046,137,True
+Región del Biobío,color,L,23700.9,2016-10,0.85,20145.765,137,True
+Región del Biobío,color,L,23278.56,2016-11,0.85,19786.776,137,True
+Región del Biobío,color,L,23419.2,2016-12,0.85,19906.32,137,True
+Región del Biobío,color,L,22996.68,2017-01,0.85,19547.178,137,True
+Región del Biobío,color,L,23160.84,2017-02,0.85,19686.714,137,True
+Región del Biobío,color,L,23203.44,2017-03,0.85,19722.924,137,True
+Región del Biobío,color,L,23390.04,2017-04,0.85,19881.534,137,True
+Región del Biobío,color,L,23790.36,2017-05,0.85,20221.806,137,True
+Región del Biobío,color,L,23753.64,2017-06,0.85,20190.593999999997,137,True
+Región del Biobío,color,L,23698.92,2017-07,0.85,20144.082,137,True
+Región del Biobío,color,L,24120.0,2017-08,0.85,20502.0,137,True
+Región del Biobío,color,L,24349.26,2017-09,0.85,20696.871,137,True
+Región del Biobío,color,L,24246.96,2017-10,0.85,20609.915999999997,137,True
+Región del Biobío,color,L,24459.96,2017-11,0.85,20790.966,137,True
+Región del Biobío,color,L,24954.0,2017-12,0.85,21210.899999999998,137,True
+Región del Biobío,color,L,24401.64,2018-01,0.85,20741.394,137,True
+Región del Biobío,color,L,24575.34,2018-02,0.85,20889.039,137,True
+Región del Biobío,color,L,24429.660000000003,2018-03,0.85,20765.211000000003,137,True
+Región del Biobío,color,L,23989.8,2018-04,0.85,20391.329999999998,137,True
+Región del Biobío,color,L,23927.4,2018-05,0.85,20338.29,137,True
+Región del Biobío,color,L,24066.66,2018-06,0.85,20456.661,137,True
+Región del Biobío,color,L,23912.4,2018-07,0.85,20325.54,137,True
+Región del Biobío,color,L,24073.98,2018-08,0.85,20462.882999999998,137,True
+Región del Biobío,color,L,24504.0,2018-09,0.85,20828.399999999998,137,True
+Región del Biobío,color,L,24045.6,2018-10,0.85,20438.76,137,True
+Región del Biobío,color,L,24488.04,2018-11,0.85,20814.834,137,True
+Región del Biobío,color,L,24361.5,2018-12,0.85,20707.274999999998,137,True
+Región del Biobío,color,L,23712.54,2019-01,0.85,20155.659,137,True
+Región del Biobío,color,L,24679.98,2019-02,0.85,20977.983,137,True
+Región del Biobío,color,L,22788.0,2019-03,0.85,19369.8,137,True
+Región del Biobío,color,L,22364.52,2019-04,0.85,19009.842,137,True
+Región del Biobío,color,L,22909.98,2019-05,0.85,19473.483,137,True
+Región del Biobío,color,L,23241.84,2019-06,0.85,19755.564,137,True
+Región del Biobío,color,L,22609.5,2019-07,0.85,19218.075,137,True
+Región del Biobío,color,L,22932.78,2019-08,0.85,19492.862999999998,137,True
+Región del Biobío,color,L,23090.4,2019-09,0.85,19626.84,137,True
+Región del Biobío,color,L,22081.08,2019-10,0.85,18768.918,137,True
+Región del Biobío,color,L,22671.72,2019-11,0.85,19270.962,137,True
+Región del Biobío,color,L,22018.2,2019-12,0.85,18715.47,137,True
+Región del Biobío,color,L,22406.1,2020-01,0.85,19045.184999999998,137,True
+Región del Biobío,color,L,22240.56,2020-02,0.85,18904.476000000002,137,True
+Región del Biobío,color,L,22134.0,2020-03,0.85,18813.899999999998,137,True
+Región del Biobío,color,L,21397.98,2020-04,0.85,18188.283,137,True
+Región del Biobío,color,L,23486.4,2020-05,0.85,19963.440000000002,137,True
+Región del Biobío,color,L,24801.0,2020-06,0.85,21080.85,137,True
+Región del Biobío,color,L,23880.0,2020-07,0.85,20298.0,137,True
+Región del Biobío,color,L,24600.0,2020-08,0.85,20910.0,137,True
+Región del Biobío,color,L,25080.0,2020-09,0.85,21318.0,137,True
+Región del Biobío,color,L,24978.0,2020-10,0.85,21231.3,137,True
+Región del Biobío,color,L,24600.0,2020-11,0.85,20910.0,137,True
+Región del Biobío,color,L,25080.0,2020-12,0.85,21318.0,137,True
+Región del Biobío,color,L,24478.02,2021-01,0.85,20806.317,137,True
+Región del Biobío,color,L,23934.0,2021-02,0.85,20343.899999999998,137,True
+Región del Biobío,color,L,23898.0,2021-03,0.85,20313.3,137,True
+Región del Biobío,color,L,24315.96,2021-04,0.85,20668.566,137,True
+Región del Biobío,color,L,25398.0,2021-05,0.85,21588.3,137,True
+Región del Biobío,color,L,25707.96,2021-06,0.85,21851.766,137,True
+Región del Biobío,color,L,25854.0,2021-07,0.85,21975.899999999998,137,True
+Región del Biobío,color,L,25221.0,2021-08,0.85,21437.85,137,True
+Región del Biobío,color,L,25494.0,2021-09,0.85,21669.899999999998,137,True
+Región del Biobío,color,L,23208.0,2021-10,0.85,19726.8,137,True
+Región del Biobío,color,L,23880.0,2021-11,0.85,20298.0,137,True
+Región del Biobío,color,L,22680.0,2021-12,0.85,19278.0,137,True
+Región del Biobío,color,L,23400.0,2022-01,0.85,19890.0,137,True
+Región del Biobío,color,L,22680.0,2022-02,0.85,19278.0,137,True
+Región del Biobío,color,L,27480.0,2022-03,0.85,23358.0,137,True
+Región del Biobío,color,L,26866.35,2022-04,0.85,22836.3975,137,True
+Región del Biobío,color,L,27240.0,2022-05,0.85,23154.0,137,True
+Región del Biobío,color,L,28159.999992,2022-06,0.85,23935.9999932,137,True
+Región del Biobío,color,L,28399.999992,2022-07,0.85,24139.9999932,137,True
+Región del Biobío,color,L,29214.0,2022-08,0.85,24831.899999999998,137,True
+Región del Biobío,color,L,31119.999996,2022-09,0.85,26451.9999966,137,True
+Región del Biobío,color,L,32242.153842,2022-10,0.85,27405.8307657,137,True
+Región del Biobío,color,L,32508.75,2022-11,0.85,27632.4375,137,True
+Región del Biobío,color,L,31368.499998,2022-12,0.85,26663.2249983,137,True
+Región del Biobío,color,L,31080.0,2023-01,0.85,26418.0,137,True
+Región del Biobío,color,L,31915.14285,2023-02,0.85,27127.8714225,137,True
+Región del Biobío,color,L,32770.285703999994,2023-03,0.85,27854.742848399994,137,True
+Región del Biobío,color,L,35365.5,2023-04,0.85,30060.675,137,True
+Región del Biobío,color,L,37159.999992,2023-05,0.85,31585.999993199996,137,True
+Región del Biobío,color,L,42313.5,2023-06,0.85,35966.475,137,True
+Región del Biobío,color,L,43245.399996,2023-07,0.85,36758.5899966,137,True
+Región del Biobío,color,L,43776.999996,2023-08,0.85,37210.4499966,137,True
+Región del Biobío,color,L,44331.818178,2023-09,0.85,37682.0454513,137,True
+Región del Biobío,color,L,43680.0,2023-10,0.85,37128.0,137,True
+Región del Biobío,color,L,44403.999996,2023-11,0.85,37743.3999966,137,True
+Región del Biobío,color,L,44335.8,2023-12,0.85,37685.43,137,True
+Región del Biobío,color,L,45313.333332,2024-01,0.85,38516.3333322,137,True
+Región del Biobío,color,L,44812.5,2024-02,0.85,38090.625,137,True
+Región del Biobío,color,L,44992.61538,2024-03,0.85,38243.723073,137,True
+Región del Biobío,color,L,45360.0,2024-04,0.85,38556.0,137,True
+Región del Biobío,color,L,45240.0,2024-05,0.85,38454.0,137,True
+Región del Biobío,color,L,44634.0,2024-06,0.85,37938.9,137,True
+Región del Biobío,color,L,45655.999992,2024-07,0.85,38807.5999932,137,True
+Región del Biobío,color,L,45594.0,2024-08,0.85,38754.9,137,True
+Región del Biobío,color,L,46254.0,2024-09,0.85,39315.9,137,True
+Región del Biobío,color,L,45537.9,2024-10,0.85,38707.215000000004,137,True
+Región del Biobío,color,L,44997.600000000006,2024-11,0.85,38247.96000000001,137,True
+Región del Biobío,color,L,45405.333324,2024-12,0.85,38594.5333254,137,True
+Región del Biobío,color,L,45480.0,2025-01,0.85,38658.0,137,True
+Región del Biobío,color,L,44580.545448,2025-02,0.85,37893.4636308,137,True
+Región del Biobío,color,L,44675.25,2025-03,0.85,37973.9625,137,True
+Región del Biobío,color,L,44949.6,2025-04,0.85,38207.159999999996,137,True
+Región del Biobío,color,L,47079.999996,2025-05,0.85,40017.999996599996,137,True
+Región del Biobío,color,L,49756.999998,2025-06,0.85,42293.4499983,137,True
+Región del Biobío,color,L,51030.0,2025-07,0.85,43375.5,137,True
+Región del Biobío,color,L,50966.363628,2025-08,0.85,43321.4090838,137,True
+Región del Biobío,color,L,50965.333332,2025-09,0.85,43320.5333322,137,True
+Región del Maule,blanco,L,18360.6,2014-01,0.85,15606.509999999998,141,True
+Región del Maule,blanco,L,18555.18,2014-02,0.85,15771.903,141,True
+Región del Maule,blanco,L,18730.5,2014-03,0.85,15920.925,141,True
+Región del Maule,blanco,L,18793.74,2014-04,0.85,15974.679,141,True
+Región del Maule,blanco,L,18738.24,2014-05,0.85,15927.504,141,True
+Región del Maule,blanco,L,18723.24,2014-06,0.85,15914.754,141,True
+Región del Maule,blanco,L,19709.28,2014-07,0.85,16752.888,141,True
+Región del Maule,blanco,L,20101.02,2014-08,0.85,17085.867,141,True
+Región del Maule,blanco,L,19752.0,2014-09,0.85,16789.2,141,True
+Región del Maule,blanco,L,19994.76,2014-10,0.85,16995.546,141,True
+Región del Maule,blanco,L,20000.04,2014-11,0.85,17000.034,141,True
+Región del Maule,blanco,L,20173.68,2014-12,0.85,17147.628,141,True
+Región del Maule,blanco,L,19962.72,2015-01,0.85,16968.312,141,True
+Región del Maule,blanco,L,20136.24,2015-02,0.85,17115.804,141,True
+Región del Maule,blanco,L,20173.546152,2015-03,0.85,17147.5142292,141,True
+Región del Maule,blanco,L,20320.800000000003,2015-04,0.85,17272.68,141,True
+Región del Maule,blanco,L,20616.48,2015-05,0.85,17524.007999999998,141,True
+Región del Maule,blanco,L,21570.84,2015-06,0.85,18335.214,141,True
+Región del Maule,blanco,L,22340.28,2015-07,0.85,18989.237999999998,141,True
+Región del Maule,blanco,L,21991.02,2015-08,0.85,18692.367,141,True
+Región del Maule,blanco,L,21876.72,2015-09,0.85,18595.212,141,True
+Región del Maule,blanco,L,21433.02,2015-10,0.85,18218.067,141,True
+Región del Maule,blanco,L,21358.26,2015-11,0.85,18154.520999999997,141,True
+Región del Maule,blanco,L,21459.84,2015-12,0.85,18240.864,141,True
+Región del Maule,blanco,L,20972.64,2016-01,0.85,17826.744,141,True
+Región del Maule,blanco,L,21408.120000000003,2016-02,0.85,18196.902000000002,141,True
+Región del Maule,blanco,L,21577.56,2016-03,0.85,18340.926,141,True
+Región del Maule,blanco,L,21855.54,2016-04,0.85,18577.209,141,True
+Región del Maule,blanco,L,21827.64,2016-05,0.85,18553.494,141,True
+Región del Maule,blanco,L,21670.32,2016-06,0.85,18419.772,141,True
+Región del Maule,blanco,L,21355.92,2016-07,0.85,18152.532,141,True
+Región del Maule,blanco,L,21191.52,2016-08,0.85,18012.792,141,True
+Región del Maule,blanco,L,21463.08,2016-09,0.85,18243.618000000002,141,True
+Región del Maule,blanco,L,21093.24,2016-10,0.85,17929.254,141,True
+Región del Maule,blanco,L,21616.92,2016-11,0.85,18374.381999999998,141,True
+Región del Maule,blanco,L,21036.0,2016-12,0.85,17880.6,141,True
+Región del Maule,blanco,L,20645.4,2017-01,0.85,17548.59,141,True
+Región del Maule,blanco,L,20772.12,2017-02,0.85,17656.302,141,True
+Región del Maule,blanco,L,20368.56,2017-03,0.85,17313.276,141,True
+Región del Maule,blanco,L,21100.14,2017-04,0.85,17935.119,141,True
+Región del Maule,blanco,L,21383.04,2017-05,0.85,18175.584,141,True
+Región del Maule,blanco,L,21957.6,2017-06,0.85,18663.96,141,True
+Región del Maule,blanco,L,21898.8,2017-07,0.85,18613.98,141,True
+Región del Maule,blanco,L,22128.96,2017-08,0.85,18809.615999999998,141,True
+Región del Maule,blanco,L,22114.44,2017-09,0.85,18797.273999999998,141,True
+Región del Maule,blanco,L,21808.32,2017-10,0.85,18537.072,141,True
+Región del Maule,blanco,L,21547.44,2017-11,0.85,18315.323999999997,141,True
+Región del Maule,blanco,L,21927.96,2017-12,0.85,18638.766,141,True
+Región del Maule,blanco,L,21798.96,2018-01,0.85,18529.115999999998,141,True
+Región del Maule,blanco,L,21751.5,2018-02,0.85,18488.774999999998,141,True
+Región del Maule,blanco,L,21701.88,2018-03,0.85,18446.598,141,True
+Región del Maule,blanco,L,21915.42,2018-04,0.85,18628.106999999996,141,True
+Región del Maule,blanco,L,22035.72,2018-05,0.85,18730.362,141,True
+Región del Maule,blanco,L,21884.16,2018-06,0.85,18601.536,141,True
+Región del Maule,blanco,L,21870.18,2018-07,0.85,18589.653,141,True
+Región del Maule,blanco,L,21942.6,2018-08,0.85,18651.21,141,True
+Región del Maule,blanco,L,21882.42,2018-09,0.85,18600.056999999997,141,True
+Región del Maule,blanco,L,21691.86,2018-10,0.85,18438.081,141,True
+Región del Maule,blanco,L,21696.48,2018-11,0.85,18442.007999999998,141,True
+Región del Maule,blanco,L,21668.28,2018-12,0.85,18418.037999999997,141,True
+Región del Maule,blanco,L,21411.06,2019-01,0.85,18199.401,141,True
+Región del Maule,blanco,L,21311.1,2019-02,0.85,18114.434999999998,141,True
+Región del Maule,blanco,L,21203.1,2019-03,0.85,18022.635,141,True
+Región del Maule,blanco,L,20834.64,2019-04,0.85,17709.444,141,True
+Región del Maule,blanco,L,21068.88,2019-05,0.85,17908.548,141,True
+Región del Maule,blanco,L,20973.96,2019-06,0.85,17827.865999999998,141,True
+Región del Maule,blanco,L,21269.16,2019-07,0.85,18078.786,141,True
+Región del Maule,blanco,L,20856.0,2019-08,0.85,17727.6,141,True
+Región del Maule,blanco,L,19914.3,2019-09,0.85,16927.155,141,True
+Región del Maule,blanco,L,20820.0,2019-10,0.85,17697.0,141,True
+Región del Maule,blanco,L,21433.32,2019-11,0.85,18218.322,141,True
+Región del Maule,blanco,L,20763.78,2019-12,0.85,17649.213,141,True
+Región del Maule,blanco,L,20895.96,2020-01,0.85,17761.566,141,True
+Región del Maule,blanco,L,20976.48,2020-02,0.85,17830.007999999998,141,True
+Región del Maule,blanco,L,21133.38,2020-03,0.85,17963.373,141,True
+Región del Maule,blanco,L,21377.4,2020-04,0.85,18170.79,141,True
+Región del Maule,blanco,L,22321.98,2020-05,0.85,18973.683,141,True
+Región del Maule,blanco,L,22922.46,2020-06,0.85,19484.091,141,True
+Región del Maule,blanco,L,22424.34,2020-07,0.85,19060.689,141,True
+Región del Maule,blanco,L,23397.0,2020-08,0.85,19887.45,141,True
+Región del Maule,blanco,L,23513.4,2020-09,0.85,19986.39,141,True
+Región del Maule,blanco,L,22840.68,2020-10,0.85,19414.578,141,True
+Región del Maule,blanco,L,23484.06,2020-11,0.85,19961.451,141,True
+Región del Maule,blanco,L,23196.0,2020-12,0.85,19716.6,141,True
+Región del Maule,blanco,L,22998.18,2021-01,0.85,19548.453,141,True
+Región del Maule,blanco,L,22557.84,2021-02,0.85,19174.164,141,True
+Región del Maule,blanco,L,22741.32,2021-03,0.85,19330.122,141,True
+Región del Maule,blanco,L,23445.300000000003,2021-04,0.85,19928.505,141,True
+Región del Maule,blanco,L,23634.36,2021-05,0.85,20089.206,141,True
+Región del Maule,blanco,L,23876.04,2021-06,0.85,20294.634000000002,141,True
+Región del Maule,blanco,L,23624.52,2021-07,0.85,20080.842,141,True
+Región del Maule,blanco,L,22692.0,2021-08,0.85,19288.2,141,True
+Región del Maule,blanco,L,22893.6,2021-09,0.85,19459.559999999998,141,True
+Región del Maule,blanco,L,22358.76,2021-10,0.85,19004.946,141,True
+Región del Maule,blanco,L,22790.58,2021-11,0.85,19371.993000000002,141,True
+Región del Maule,blanco,L,22274.4,2021-12,0.85,18933.24,141,True
+Región del Maule,blanco,L,22260.0,2022-01,0.85,18921.0,141,True
+Región del Maule,blanco,L,23064.75,2022-02,0.85,19605.0375,141,True
+Región del Maule,blanco,L,23219.769228,2022-03,0.85,19736.8038438,141,True
+Región del Maule,blanco,L,24553.05882,2022-04,0.85,20870.099996999998,141,True
+Región del Maule,blanco,L,26448.0,2022-05,0.85,22480.8,141,True
+Región del Maule,blanco,L,27986.631006000003,2022-06,0.85,23788.636355100003,141,True
+Región del Maule,blanco,L,28791.0,2022-07,0.85,24472.35,141,True
+Región del Maule,blanco,L,29446.736832,2022-08,0.85,25029.7263072,141,True
+Región del Maule,blanco,L,30139.2,2022-09,0.85,25618.32,141,True
+Región del Maule,blanco,L,30119.208786000003,2022-10,0.85,25601.3274681,141,True
+Región del Maule,blanco,L,30694.114284000003,2022-11,0.85,26089.997141400003,141,True
+Región del Maule,blanco,L,30493.714284,2022-12,0.85,25919.6571414,141,True
+Región del Maule,blanco,L,30199.200000000004,2023-01,0.85,25669.320000000003,141,True
+Región del Maule,blanco,L,31391.799996,2023-02,0.85,26683.029996600002,141,True
+Región del Maule,blanco,L,33707.333328,2023-03,0.85,28651.2333288,141,True
+Región del Maule,blanco,L,34761.818178,2023-04,0.85,29547.5454513,141,True
+Región del Maule,blanco,L,37068.0,2023-05,0.85,31507.8,141,True
+Región del Maule,blanco,L,41676.857142,2023-06,0.85,35425.3285707,141,True
+Región del Maule,blanco,L,41331.818178,2023-07,0.85,35132.0454513,141,True
+Región del Maule,blanco,L,42420.0,2023-08,0.85,36057.0,141,True
+Región del Maule,blanco,L,42746.625,2023-09,0.85,36334.63125,141,True
+Región del Maule,blanco,L,42715.028568,2023-10,0.85,36307.7742828,141,True
+Región del Maule,blanco,L,42065.25,2023-11,0.85,35755.4625,141,True
+Región del Maule,blanco,L,41733.600000000006,2023-12,0.85,35473.560000000005,141,True
+Región del Maule,blanco,L,42548.952372,2024-01,0.85,36166.6095162,141,True
+Región del Maule,blanco,L,42555.999996,2024-02,0.85,36172.599996599994,141,True
+Región del Maule,blanco,L,42780.952374,2024-03,0.85,36363.8095179,141,True
+Región del Maule,blanco,L,42867.999996,2024-04,0.85,36437.7999966,141,True
+Región del Maule,blanco,L,43809.857136000006,2024-05,0.85,37238.378565600004,141,True
+Región del Maule,blanco,L,44124.799992,2024-06,0.85,37506.0799932,141,True
+Región del Maule,blanco,L,43915.2,2024-07,0.85,37327.92,141,True
+Región del Maule,blanco,L,44107.2,2024-08,0.85,37491.119999999995,141,True
+Región del Maule,blanco,L,42369.677418,2024-09,0.85,36014.2258053,141,True
+Región del Maule,blanco,L,44638.999998,2024-10,0.85,37943.149998299996,141,True
+Región del Maule,blanco,L,44071.999992,2024-11,0.85,37461.199993199996,141,True
+Región del Maule,blanco,L,42471.0,2024-12,0.85,36100.35,141,True
+Región del Maule,blanco,L,42295.999998,2025-01,0.85,35951.5999983,141,True
+Región del Maule,blanco,L,41730.399996,2025-02,0.85,35470.8399966,141,True
+Región del Maule,blanco,L,43438.666662,2025-03,0.85,36922.8666627,141,True
+Región del Maule,blanco,L,43266.6,2025-04,0.85,36776.61,141,True
+Región del Maule,blanco,L,45079.999992,2025-05,0.85,38317.9999932,141,True
+Región del Maule,blanco,L,46470.3,2025-06,0.85,39499.755000000005,141,True
+Región del Maule,blanco,L,48342.857136000006,2025-07,0.85,41091.42856560001,141,True
+Región del Maule,blanco,L,48384.0,2025-08,0.85,41126.4,141,True
+Región del Maule,blanco,L,48180.0,2025-09,0.85,40953.0,141,True
+Región del Maule,color,L,20227.98,2014-06,0.85,17193.783,136,True
+Región del Maule,color,L,20817.36,2014-07,0.85,17694.756,136,True
+Región del Maule,color,L,21115.5,2014-08,0.85,17948.175,136,True
+Región del Maule,color,L,21021.96,2014-09,0.85,17868.665999999997,136,True
+Región del Maule,color,L,20748.0,2014-10,0.85,17635.8,136,True
+Región del Maule,color,L,21545.34,2014-11,0.85,18313.539,136,True
+Región del Maule,color,L,21138.0,2014-12,0.85,17967.3,136,True
+Región del Maule,color,L,21461.4,2015-01,0.85,18242.190000000002,136,True
+Región del Maule,color,L,21192.84,2015-02,0.85,18013.914,136,True
+Región del Maule,color,L,21548.31,2015-03,0.85,18316.0635,136,True
+Región del Maule,color,L,22048.800000000003,2015-04,0.85,18741.480000000003,136,True
+Región del Maule,color,L,22424.58,2015-05,0.85,19060.893,136,True
+Región del Maule,color,L,23120.76,2015-06,0.85,19652.645999999997,136,True
+Región del Maule,color,L,23834.04,2015-07,0.85,20258.934,136,True
+Región del Maule,color,L,23686.68,2015-08,0.85,20133.678,136,True
+Región del Maule,color,L,23298.0,2015-09,0.85,19803.3,136,True
+Región del Maule,color,L,22762.86,2015-10,0.85,19348.431,136,True
+Región del Maule,color,L,23032.620000000003,2015-11,0.85,19577.727000000003,136,True
+Región del Maule,color,L,23068.800000000003,2015-12,0.85,19608.480000000003,136,True
+Región del Maule,color,L,22768.980000000003,2016-01,0.85,19353.633,136,True
+Región del Maule,color,L,22596.24,2016-02,0.85,19206.804,136,True
+Región del Maule,color,L,22989.0,2016-03,0.85,19540.649999999998,136,True
+Región del Maule,color,L,23277.84,2016-04,0.85,19786.164,136,True
+Región del Maule,color,L,23404.38,2016-05,0.85,19893.723,136,True
+Región del Maule,color,L,23227.68,2016-06,0.85,19743.528,136,True
+Región del Maule,color,L,23135.28,2016-07,0.85,19664.987999999998,136,True
+Región del Maule,color,L,23088.0,2016-08,0.85,19624.8,136,True
+Región del Maule,color,L,23257.08,2016-09,0.85,19768.518,136,True
+Región del Maule,color,L,23294.34,2016-10,0.85,19800.189,136,True
+Región del Maule,color,L,23472.96,2016-11,0.85,19952.016,136,True
+Región del Maule,color,L,22924.92,2016-12,0.85,19486.181999999997,136,True
+Región del Maule,color,L,22948.980000000003,2017-01,0.85,19506.633,136,True
+Región del Maule,color,L,22792.02,2017-02,0.85,19373.217,136,True
+Región del Maule,color,L,22397.16,2017-03,0.85,19037.586,136,True
+Región del Maule,color,L,22740.96,2017-04,0.85,19329.816,136,True
+Región del Maule,color,L,23300.52,2017-05,0.85,19805.442,136,True
+Región del Maule,color,L,23747.64,2017-06,0.85,20185.494,136,True
+Región del Maule,color,L,23275.26,2017-07,0.85,19783.970999999998,136,True
+Región del Maule,color,L,23888.76,2017-08,0.85,20305.446,136,True
+Región del Maule,color,L,23679.12,2017-09,0.85,20127.252,136,True
+Región del Maule,color,L,23346.9,2017-10,0.85,19844.865,136,True
+Región del Maule,color,L,23421.300000000003,2017-11,0.85,19908.105000000003,136,True
+Región del Maule,color,L,23923.92,2017-12,0.85,20335.332,136,True
+Región del Maule,color,L,23364.36,2018-01,0.85,19859.706,136,True
+Región del Maule,color,L,23568.300000000003,2018-02,0.85,20033.055,136,True
+Región del Maule,color,L,23736.18,2018-03,0.85,20175.753,136,True
+Región del Maule,color,L,23660.88,2018-04,0.85,20111.748,136,True
+Región del Maule,color,L,23353.56,2018-05,0.85,19850.526,136,True
+Región del Maule,color,L,23703.66,2018-06,0.85,20148.111,136,True
+Región del Maule,color,L,23109.6,2018-07,0.85,19643.16,136,True
+Región del Maule,color,L,23512.56,2018-08,0.85,19985.676,136,True
+Región del Maule,color,L,23383.32,2018-09,0.85,19875.822,136,True
+Región del Maule,color,L,23818.86,2018-10,0.85,20246.031,136,True
+Región del Maule,color,L,23888.52,2018-11,0.85,20305.242,136,True
+Región del Maule,color,L,23376.78,2018-12,0.85,19870.263,136,True
+Región del Maule,color,L,22853.64,2019-01,0.85,19425.593999999997,136,True
+Región del Maule,color,L,22788.0,2019-02,0.85,19369.8,136,True
+Región del Maule,color,L,22450.26,2019-03,0.85,19082.720999999998,136,True
+Región del Maule,color,L,22815.3,2019-04,0.85,19393.004999999997,136,True
+Región del Maule,color,L,22812.0,2019-05,0.85,19390.2,136,True
+Región del Maule,color,L,22395.0,2019-06,0.85,19035.75,136,True
+Región del Maule,color,L,22526.88,2019-07,0.85,19147.848,136,True
+Región del Maule,color,L,22165.92,2019-08,0.85,18841.032,136,True
+Región del Maule,color,L,22590.48,2019-09,0.85,19201.908,136,True
+Región del Maule,color,L,22677.36,2019-10,0.85,19275.756,136,True
+Región del Maule,color,L,22490.46,2019-11,0.85,19116.891,136,True
+Región del Maule,color,L,22162.2,2019-12,0.85,18837.87,136,True
+Región del Maule,color,L,22708.32,2020-01,0.85,19302.072,136,True
+Región del Maule,color,L,22378.68,2020-02,0.85,19021.878,136,True
+Región del Maule,color,L,22099.02,2020-03,0.85,18784.167,136,True
+Región del Maule,color,L,22674.0,2020-04,0.85,19272.899999999998,136,True
+Región del Maule,color,L,23232.78,2020-05,0.85,19747.862999999998,136,True
+Región del Maule,color,L,23644.92,2020-06,0.85,20098.181999999997,136,True
+Región del Maule,color,L,23777.52,2020-07,0.85,20210.892,136,True
+Región del Maule,color,L,24368.22,2020-08,0.85,20712.987,136,True
+Región del Maule,color,L,24196.68,2020-09,0.85,20567.178,136,True
+Región del Maule,color,L,23964.96,2020-10,0.85,20370.216,136,True
+Región del Maule,color,L,24014.04,2020-11,0.85,20411.934,136,True
+Región del Maule,color,L,23713.5,2020-12,0.85,20156.475,136,True
+Región del Maule,color,L,23781.6,2021-01,0.85,20214.359999999997,136,True
+Región del Maule,color,L,23614.02,2021-02,0.85,20071.917,136,True
+Región del Maule,color,L,24194.64,2021-03,0.85,20565.444,136,True
+Región del Maule,color,L,24251.52,2021-04,0.85,20613.792,136,True
+Región del Maule,color,L,24774.0,2021-05,0.85,21057.899999999998,136,True
+Región del Maule,color,L,25105.800000000003,2021-06,0.85,21339.93,136,True
+Región del Maule,color,L,24752.28,2021-07,0.85,21039.438,136,True
+Región del Maule,color,L,24252.0,2021-08,0.85,20614.2,136,True
+Región del Maule,color,L,24888.0,2021-09,0.85,21154.8,136,True
+Región del Maule,color,L,23932.98,2021-10,0.85,20343.033,136,True
+Región del Maule,color,L,24540.0,2021-11,0.85,20859.0,136,True
+Región del Maule,color,L,24567.96,2021-12,0.85,20882.766,136,True
+Región del Maule,color,L,24952.176462000003,2022-01,0.85,21209.3499927,136,True
+Región del Maule,color,L,24591.499998,2022-02,0.85,20902.7749983,136,True
+Región del Maule,color,L,26664.0,2022-03,0.85,22664.399999999998,136,True
+Región del Maule,color,L,27581.333328,2022-04,0.85,23444.1333288,136,True
+Región del Maule,color,L,28791.0,2022-05,0.85,24472.35,136,True
+Región del Maule,color,L,29277.248844,2022-06,0.85,24885.6615174,136,True
+Región del Maule,color,L,29766.0,2022-07,0.85,25301.1,136,True
+Región del Maule,color,L,30924.0,2022-08,0.85,26285.399999999998,136,True
+Región del Maule,color,L,31749.909084,2022-09,0.85,26987.4227214,136,True
+Región del Maule,color,L,32107.342104,2022-10,0.85,27291.2407884,136,True
+Región del Maule,color,L,33122.499996,2022-11,0.85,28154.1249966,136,True
+Región del Maule,color,L,32671.05882,2022-12,0.85,27770.399996999997,136,True
+Región del Maule,color,L,33056.588226,2023-01,0.85,28098.0999921,136,True
+Región del Maule,color,L,33177.166662,2023-02,0.85,28200.5916627,136,True
+Región del Maule,color,L,33986.823528,2023-03,0.85,28888.7999988,136,True
+Región del Maule,color,L,35838.272724,2023-04,0.85,30462.5318154,136,True
+Región del Maule,color,L,38477.4,2023-05,0.85,32705.79,136,True
+Región del Maule,color,L,44712.999996,2023-06,0.85,38006.0499966,136,True
+Región del Maule,color,L,43494.0,2023-07,0.85,36969.9,136,True
+Región del Maule,color,L,44323.714284,2023-08,0.85,37675.1571414,136,True
+Región del Maule,color,L,44899.181814,2023-09,0.85,38164.304541900005,136,True
+Región del Maule,color,L,44907.333324,2023-10,0.85,38171.2333254,136,True
+Región del Maule,color,L,44463.6,2023-11,0.85,37794.06,136,True
+Región del Maule,color,L,44607.249996,2023-12,0.85,37916.162496599994,136,True
+Región del Maule,color,L,44477.142852,2024-01,0.85,37805.571424199996,136,True
+Región del Maule,color,L,45341.499996,2024-02,0.85,38540.2749966,136,True
+Región del Maule,color,L,45163.168824,2024-03,0.85,38388.6935004,136,True
+Región del Maule,color,L,44212.61538,2024-04,0.85,37580.723073,136,True
+Región del Maule,color,L,45171.0,2024-05,0.85,38395.35,136,True
+Región del Maule,color,L,45574.8387,2024-06,0.85,38738.612895,136,True
+Región del Maule,color,L,45398.94117,2024-07,0.85,38589.0999945,136,True
+Región del Maule,color,L,45924.576618,2024-08,0.85,39035.8901253,136,True
+Región del Maule,color,L,45528.0,2024-09,0.85,38698.799999999996,136,True
+Región del Maule,color,L,45310.599996,2024-10,0.85,38514.0099966,136,True
+Región del Maule,color,L,44190.285708,2024-11,0.85,37561.7428518,136,True
+Región del Maule,color,L,44197.043472000005,2024-12,0.85,37567.4869512,136,True
+Región del Maule,color,L,43992.0,2025-01,0.85,37393.2,136,True
+Región del Maule,color,L,43080.0,2025-02,0.85,36618.0,136,True
+Región del Maule,color,L,44751.784614,2025-03,0.85,38039.016921899994,136,True
+Región del Maule,color,L,45228.999996,2025-04,0.85,38444.6499966,136,True
+Región del Maule,color,L,47226.799998,2025-05,0.85,40142.7799983,136,True
+Región del Maule,color,L,49235.285712,2025-06,0.85,41849.9928552,136,True
+Región del Maule,color,L,50388.0,2025-07,0.85,42829.799999999996,136,True
+Región del Maule,color,L,49335.0,2025-08,0.85,41934.75,136,True
+Región del Maule,color,L,51060.0,2025-09,0.85,43401.0,136,True

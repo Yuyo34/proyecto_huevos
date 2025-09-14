@@ -1,0 +1,22 @@
+paths:
+  raw_prices_clean: raw_prices_clean.csv
+  odepa_retail: odepa_retail.csv
+  ratios_calibrated: ratios_calibrated.csv
+  monthly_index: monthly_index.csv
+  monthly_index_with_proxies: monthly_index_with_proxies.csv
+  seasonal_factors: seasonal_factors.csv
+  forecast_out: forecast_1_2m.csv
+  inputs_anchors_dir: inputs/anchors
+  anchors_master: anchors_wholesale.csv
+params:
+  kmin: 5
+  kpool: 6
+  winsor: 0.025
+  default_ratio: 0.85
+  forecast_h: 2
+  forecast_alpha: 0.35
+  m_target_ci95: 200
+  excel_locale: true
+  round_dp: 0
+anchors_schema:
+  required: [date, zone, egg_color, egg_size, unit, price_clp]

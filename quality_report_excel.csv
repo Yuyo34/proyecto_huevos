@@ -1,0 +1,9 @@
+﻿month;zone;egg_color;egg_size;n;p50;p10;p90;iqr;n_target_m;bias_median_pct;bias_mean_pct;bias_n;monotonic_ok
+2025-09;Región Metropolitana de Santiago;blanco;L;1;2220,0;2220,0;2220,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;blanco;M;1;2040,0;2040,0;2040,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;blanco;S;1;1860,0;1860,0;1860,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;blanco;XL;1;2460,0;2460,0;2460,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;color;L;1;2184,0;2184,0;2184,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;color;M;1;2004,0;2004,0;2004,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;color;S;1;1824,0;1824,0;1824,0;0,0;;;;;False
+2025-09;Región Metropolitana de Santiago;color;XL;1;2460,0;2460,0;2460,0;0,0;;;;;False
