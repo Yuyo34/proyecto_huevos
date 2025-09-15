@@ -9,3 +9,5 @@ data/*
 _*.py
 *.py.bak
 *.bak
+
+*.bak2
