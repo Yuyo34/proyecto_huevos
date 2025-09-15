@@ -1,0 +1,32 @@
+﻿name: nightly-forecast
+on:
+  push:
+  schedule:
+    - cron: '0 12 * * *'   # ~09:00 America/Santiago (ajusta si cambia el huso)
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt || \
+          pip install -r upgrade_precision/requirements_min.txt || \
+          pip install pandas numpy statsmodels pmdarima
+      - name: Run pipeline
+        run: |
+          mkdir -p out
+          python -m upgrade_precision.pipeline.pipeline_monthly_exog \
+            --target data/precio_huevo_mensual.csv \
+            --bt_init 12 --seasonality 12 --h 2 \
+            --out out/forecast_next2m.csv
+      - name: Commit forecast
+        run: |
+          git config user.name "autobot"
+          git config user.email "actions@users.noreply.github.com"
+          git add out/forecast_next2m.csv || true
+          git commit -m "auto: forecast F" || echo "no changes"
+          git push
