@@ -4,3 +4,8 @@ out/
 data/*
 !data/precio_huevo_mensual.csv
 *.ipynb_checkpoints/
+
+# Helpers locales y backups
+_*.py
+*.py.bak
+*.bak

@@ -1,21 +1,20 @@
 ﻿from __future__ import annotations
 import argparse
-import numpy as np
 import pandas as pd
+import numpy as np
 from pathlib import Path
 
 from ..utils.io_tools import read_series_csv
 from ..utils.exog_tools import build_exog_matrix
-from ..eval.backtesting import rolling_backtest
-from ..utils.metrics import mape, smape, mase
-from ..utils.stl_tools import stl_decompose
 from ..modeling.sarimax_exog import SarimaxExog
 from ..modeling.ridge_exog import RidgeExog
 from ..modeling.residual_ridge import ResidualRidge
+from ..eval.backtesting import rolling_backtest
+from ..utils.metrics import mape, smape, mase
+from ..utils.stl_tools import stl_decompose
 
 BASE_REGRESSORS = ["usdclp", "ipc", "diesel", "corn", "soy"]
 
-# ----------------- utilidades -----------------
 def _fallback_forecast(y: pd.Series, h: int, seasonality: int = 12) -> pd.Series:
     y = y.dropna().astype(float)
     if len(y) == 0:
@@ -27,7 +26,7 @@ def _fallback_forecast(y: pd.Series, h: int, seasonality: int = 12) -> pd.Series
         vals = [float(tail.iloc[i % seasonality]) for i in range(h)]
     elif len(y) >= 2:
         slope = (y.iloc[-1] - y.iloc[0]) / (len(y) - 1)
-        vals = y.iloc[-1] + slope * np.arange(1, h + 1)
+        vals = y.iloc[-1] + slope * np.arange(1, h+1)
     else:
         vals = [float(y.iloc[-1])] * h
     return pd.Series(vals, index=future_idx)
@@ -38,17 +37,11 @@ def _seasonal_pattern(seasonal: pd.Series) -> pd.Series:
     return pat
 
 def _load_align_series(path: str, target_idx: pd.DatetimeIndex) -> pd.Series:
-    """Lee CSV (date,value), fuerza MS y alinea al rango del target con ffill/bfill."""
     s = read_series_csv(path).asfreq("MS")
     s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
     return s
 
-def _build_exog_aligned(
-    y_index: pd.DatetimeIndex,
-    paths: dict[str, str],
-    lags: list[int],
-    log_names: set[str],
-) -> pd.DataFrame | None:
+def _build_exog_aligned(y_index: pd.DatetimeIndex, paths: dict[str,str], lags: list[int], log_names: set[str]) -> pd.DataFrame | None:
     exog = {}
     for name, p in paths.items():
         if p:
@@ -73,13 +66,8 @@ def _bt_metrics_on_original(preds_deseas: pd.Series, y: pd.Series, seasonal: pd.
     seas_bt = preds_deseas.index.to_series().dt.month.map(pat).astype(float)
     preds_orig = (preds_deseas * seas_bt.values) if multiplicative else (preds_deseas + seas_bt.values)
     y_true = y.reindex(preds_orig.index)
-    return {
-        "MAPE": mape(y_true, preds_orig),
-        "sMAPE": smape(y_true, preds_orig),
-        "MASE": mase(y, preds_orig, seasonality=seasonality),
-    }
+    return {"MAPE": mape(y_true, preds_orig), "sMAPE": smape(y_true, preds_orig), "MASE": mase(y, preds_orig, seasonality=seasonality)}
 
-# ----------------- main -----------------
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--target", required=True)
@@ -92,7 +80,6 @@ def main():
     ap.add_argument("--bt_init", type=int, default=12)
     ap.add_argument("--out", required=True)
     ap.add_argument("--multiplicative", action="store_true")
-    ap.add_argument("--no_boost", action="store_true")  # desactiva el booster de residuo
     args = ap.parse_args()
 
     # Target mensual
@@ -130,11 +117,11 @@ def main():
 
     # Exógenas
     paths = {r: getattr(args, r) for r in BASE_REGRESSORS}
-    LOG_NAMES = {"usdclp", "diesel", "corn", "soy"}
+    LOG_NAMES = {"usdclp","diesel","corn","soy"}
     def make_X(lags):
         return _build_exog_aligned(y_deseas.index, paths, lags=lags, log_names=LOG_NAMES)
 
-    # Auto-lags para SARIMAX (para elegir mejor set de X); si no, usar args.lags
+    # Auto-lags para tener el mejor set de X para SARIMAX
     lags_to_try = [args.lags] if not args.auto_lags else [[x] for x in args.auto_lags] + [args.auto_lags]
     best_lags, best_mase, best_X, best_y = None, np.inf, None, None
     for L in lags_to_try:
@@ -142,17 +129,15 @@ def main():
         X_model = None if X is None else X.dropna()
         y_model = y_deseas if X_model is None else y_deseas.loc[X_model.index]
         n_d = len(y_model)
-        init = max(6, min(n_d - 1, args.bt_init))
+        init = max(6, min(n_d-1, args.bt_init))
         ok_bt = (n_d - args.h) >= init and init >= 6
         if not ok_bt:
             continue
         def builder_sarimax():
-            return SarimaxExog(
-                seasonal_period=args.seasonality,
-                pdq_grid=[(0,1,1),(1,1,0),(1,1,1)],
-                PDQ_grid=[(0,1,1),(1,1,0)],
-                trend=None
-            )
+            return SarimaxExog(seasonal_period=args.seasonality,
+                               pdq_grid=[(0,1,1),(1,1,0),(1,1,1)],
+                               PDQ_grid=[(0,1,1),(1,1,0)],
+                               trend=None)
         bt = rolling_backtest(y_model, X_model, builder_sarimax, horizon=1, initial_window=init, seasonality=args.seasonality)
         if "pred" in bt and not bt["pred"].empty:
             mets = _bt_metrics_on_original(bt["pred"], y, seasonal, args.multiplicative, args.seasonality)
@@ -172,16 +157,14 @@ def main():
 
     # Backtest comparando: BASELINE vs SARIMAX vs RIDGE
     results = []
-    init = max(6, min(len(y_model) - 1, args.bt_init))
+    init = max(6, min(len(y_model)-1, args.bt_init))
     can_bt = (len(y_model) - args.h) >= init and init >= 6
 
     def builder_sarimax():
-        return SarimaxExog(
-            seasonal_period=args.seasonality,
-            pdq_grid=[(0,1,1),(1,1,0),(1,1,1)],
-            PDQ_grid=[(0,1,1),(1,1,0)],
-            trend=None
-        )
+        return SarimaxExog(seasonal_period=args.seasonality,
+                           pdq_grid=[(0,1,1),(1,1,0),(1,1,1)],
+                           PDQ_grid=[(0,1,1),(1,1,0)],
+                           trend=None)
     def builder_ridge():
         return RidgeExog(alpha=1.0, ar_lags=(1,12))
 
@@ -201,7 +184,7 @@ def main():
             results.append(("ridge", float(m2["MASE"]), y_model, X_model))
 
         # BASELINE univariado (sin exógenas)
-        init0 = max(6, min(len(y_deseas) - 1, args.bt_init))
+        init0 = max(6, min(len(y_deseas)-1, args.bt_init))
         if (len(y_deseas) - args.h) >= init0 and init0 >= 6:
             bt0 = rolling_backtest(y_deseas, None, builder_sarimax, horizon=1, initial_window=init0, seasonality=args.seasonality)
             if "pred" in bt0 and not bt0["pred"].empty:
@@ -212,59 +195,48 @@ def main():
         print(f"[BT] Sin backtest (n_d={len(y_model)}, init={init}); elegiré BASELINE por defecto.")
         results.append(("baseline", np.inf, y_deseas, None))
 
+    # Elegir mejor por MASE
     chosen = min(results, key=lambda x: x[1]) if results else ("baseline", np.inf, y_deseas, None)
     print(f"[MODEL] elegido: {chosen[0]} (MASE={chosen[1]:.4f})")
-
-    # Activar booster solo si hay exógenas y el modelo elegido es baseline/sarimax y no se pidió --no_boost
-    use_boost = (chosen[0] in ["baseline", "sarimax"]) and (not args.no_boost)
+            # Intento de booster de residuo sobre baseline/sarimax cuando hay X
+            use_boost = (chosen[0] in ["baseline","sarimax"]) and (X_model is not None)
 
     y_final, X_final = chosen[2], chosen[3]
-    X_model_for_boost = X_model  # por si baseline no tiene X_final
 
-    # Ajuste final + pronóstico en deseasonalizado
+    # Ajuste final + pronóstico
     last_idx = y.index[-1]
     future_idx = pd.date_range(last_idx + pd.offsets.MonthBegin(1), periods=args.h, freq="MS")
     try:
-        model = builder_ridge() if chosen[0] == "ridge" else builder_sarimax()
+        model = builder_ridge() if chosen[0]=="ridge" else builder_sarimax()
         model.fit(y_final, X_final)
-
         if X_final is not None:
             last_row = X_final.iloc[[-1]].to_numpy()
             X_future = pd.DataFrame(np.repeat(last_row, args.h, axis=0), index=future_idx, columns=X_final.columns)
-        elif X_model is not None:
-            # baseline elegido pero sí tenemos X_model -> usarlo para futuro (proxy: repetir última fila)
-            last_row = X_model.iloc[[-1]].to_numpy()
-            X_future = pd.DataFrame(np.repeat(last_row, args.h, axis=0), index=future_idx, columns=X_model.columns)
         else:
             X_future = None
-
         deseas = model.forecast(steps=args.h, X_future=X_future)
-
-        # Booster: ajustar sobre residuo in-sample y sumar al forecast (suave)
-        try:
-            if use_boost and (X_final is not None or X_model_for_boost is not None):
-                # elegir Xb: prioriza X_final, sino X_model
-                Xb = X_final if X_final is not None else X_model_for_boost
-                fitted_idx = y_final.index
-                fitted_in = None
-                if hasattr(model, "res_") and hasattr(model.res_, "fittedvalues"):
-                    fv = pd.Series(model.res_.fittedvalues)
-                    if not isinstance(fv.index, pd.DatetimeIndex):
-                        fv.index = fitted_idx
-                    fitted_in = fv.reindex(fitted_idx)
-                if fitted_in is not None and Xb is not None:
-                    resid = (y_final - fitted_in).dropna()
-                    X_in = Xb.reindex(resid.index)
-                    if X_in is not None and X_in.shape[1] > 0:
-                        rb = ResidualRidge(alpha=1.0).fit(resid, X_in)
-                        last_row = Xb.iloc[[-1]].to_numpy()
-                        Xf = pd.DataFrame(np.repeat(last_row, args.h, axis=0), index=future_idx, columns=Xb.columns)
-                        resid_hat = rb.forecast(Xf)
-                        deseas = deseas.add(resid_hat.reindex(deseas.index).fillna(0.0), fill_value=0.0)
-                        print(f"[BOOST] ResidualRidge aplicado. R2_in={getattr(rb, 'r2_', float('nan')):.3f}")
-        except Exception as e:
-            print(f"[BOOST] Omitido ({e}).")
-
+            # Booster: ajustar sobre residuo in-sample y sumar al forecast
+            try:
+                if use_boost:
+                    fitted_idx = y_final.index
+                    fitted_in = None
+                    if hasattr(model, 'res_') and hasattr(model.res_, 'fittedvalues'):
+                        import pandas as pd
+                        fv = pd.Series(model.res_.fittedvalues).reindex(fitted_idx)
+                        fitted_in = fv
+                    if fitted_in is not None:
+                        resid = (y_final - fitted_in).dropna()
+                        X_in = X_final.reindex(resid.index) if X_final is not None else None
+                        if X_in is not None and X_in.shape[1] > 0:
+                            rb = ResidualRidge(alpha=1.0).fit(resid, X_in)
+                            import numpy as np, pandas as pd
+                            last_row = X_final.iloc[[-1]].to_numpy()
+                            Xf = pd.DataFrame(np.repeat(last_row, args.h, axis=0), index=future_idx, columns=X_final.columns)
+                            resid_hat = rb.forecast(Xf)
+                            deseas = deseas.add(resid_hat.reindex(deseas.index).fillna(0.0), fill_value=0.0)
+                            print('[BOOST] ResidualRidge aplicado.')
+            except Exception as e:
+                print(f'[BOOST] Omitido ({e}).')
     except Exception as e:
         print(f"[FINAL] Falló ajuste ({e}); usando fallback baseline.")
         y_fb = y_final if len(y_final) > 0 else y
@@ -277,7 +249,7 @@ def main():
 
     out = pd.Series(y_forecast, index=future_idx, name="forecast").to_frame()
     out["date"] = out.index
-    out = out[["date", "forecast"]]
+    out = out[["date","forecast"]]
     Path(args.out).parent.mkdir(parents=True, exist_ok=True)
     out.to_csv(args.out, index=False)
     print(f"Pronóstico guardado en {args.out}")
