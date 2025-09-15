@@ -1,0 +1,14 @@
+{
+  "rows": 8,
+  "alphas": [
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6
+  ],
+  "metric": "mdape",
+  "median_score": 14.8315631769853,
+  "estratos_con_ratio": 8,
+  "estratos_backtesteados": 8
+}

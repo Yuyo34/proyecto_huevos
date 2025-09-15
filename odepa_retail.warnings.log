@@ -1,0 +1,9 @@
+Procesados 20 archivos desde ..
+anchors_wholesale.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+backfilled_wholesale.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+monthly_index.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+monthly_index_with_proxies.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+odepa_qc_report.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+odepa_retail.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+precio_publicable_2025-09.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}
+raw_prices.csv: columnas faltantes -> {'anio': None, 'mes': None, 'region': None, 'tipo': None, 'producto': None, 'unidad': None, 'precio': None}

@@ -1,0 +1,17 @@
+﻿month;zone;egg_color;egg_size;forecast_docena;p10;p90;method
+2025-10;Región Metropolitana de Santiago;blanco;L;1942,0;1308,0;2494,0;direct
+2025-11;Región Metropolitana de Santiago;blanco;L;1995,0;1361,0;2547,0;direct
+2025-10;Región Metropolitana de Santiago;blanco;M;1942,0;1144,0;2466,0;direct
+2025-11;Región Metropolitana de Santiago;blanco;M;1995,0;1197,0;2519,0;direct
+2025-10;Región Metropolitana de Santiago;blanco;S;1942,0;1144,0;2466,0;direct
+2025-11;Región Metropolitana de Santiago;blanco;S;1995,0;1197,0;2519,0;direct
+2025-10;Región Metropolitana de Santiago;blanco;XL;1942,0;1308,0;2494,0;direct
+2025-11;Región Metropolitana de Santiago;blanco;XL;1995,0;1361,0;2547,0;direct
+2025-10;Región Metropolitana de Santiago;color;L;1937,0;1277,0;2441,0;direct
+2025-11;Región Metropolitana de Santiago;color;L;1995,0;1335,0;2498,0;direct
+2025-10;Región Metropolitana de Santiago;color;M;1938,0;1096,0;2413,0;direct
+2025-11;Región Metropolitana de Santiago;color;M;1995,0;1153,0;2470,0;direct
+2025-10;Región Metropolitana de Santiago;color;S;1938,0;1096,0;2413,0;direct
+2025-11;Región Metropolitana de Santiago;color;S;1995,0;1153,0;2470,0;direct
+2025-10;Región Metropolitana de Santiago;color;XL;1937,0;1282,0;2444,0;direct
+2025-11;Región Metropolitana de Santiago;color;XL;1995,0;1340,0;2501,0;direct

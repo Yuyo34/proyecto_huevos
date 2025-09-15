@@ -1,0 +1,2339 @@
+date,zone,egg_color,egg_size,n,channels,unit_examples
+2014-01-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2014-01-31,Región del Biobío,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2014-01-31,Región del Maule,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2014-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-02-28,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2014-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-03-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2014-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-04-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2014-04-30,Región del Biobío,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2014-04-30,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2014-05-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-05-31,Región Metropolitana de Santiago,color,L,5,Supermercado,$/bandeja 12 unidades
+2014-05-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2014-05-31,Región del Biobío,color,L,2,Supermercado,$/bandeja 12 unidades
+2014-05-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región Metropolitana de Santiago,color,L,18,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región del Biobío,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región del Biobío,color,L,17,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-07-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región Metropolitana de Santiago,color,L,18,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de La Araucanía,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de La Araucanía,color,L,4,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de Los Lagos,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de Los Lagos,color,L,6,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región del Biobío,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región Metropolitana de Santiago,color,L,19,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de La Araucanía,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de La Araucanía,color,L,6,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región del Biobío,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región del Biobío,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2014-09-30,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de La Araucanía,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de La Araucanía,color,L,10,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Los Lagos,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Los Lagos,color,L,21,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Valparaíso,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región de Valparaíso,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región del Biobío,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región del Biobío,color,L,27,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-10-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Los Lagos,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región del Biobío,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región del Biobío,color,L,23,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2014-11-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región Metropolitana de Santiago,color,L,24,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de La Araucanía,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de La Araucanía,color,L,9,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Valparaíso,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región de Valparaíso,color,L,15,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región del Biobío,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región del Biobío,color,L,27,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región del Maule,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2014-12-31,Región del Maule,color,L,13,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región Metropolitana de Santiago,color,L,19,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Los Lagos,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región del Biobío,color,L,22,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-01-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región Metropolitana de Santiago,color,L,17,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región del Biobío,color,L,24,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-02-28,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región del Biobío,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región del Biobío,color,L,23,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-03-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de La Araucanía,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de La Araucanía,color,L,10,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Los Lagos,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Los Lagos,color,L,22,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Valparaíso,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región de Valparaíso,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región del Biobío,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región del Biobío,color,L,27,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-04-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Valparaíso,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región de Valparaíso,color,L,11,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región del Biobío,color,L,22,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-05-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región del Biobío,color,L,23,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de La Araucanía,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de La Araucanía,color,L,10,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Los Lagos,color,L,21,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Valparaíso,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región de Valparaíso,color,L,14,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región del Biobío,color,L,23,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-07-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región del Biobío,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región del Biobío,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región Metropolitana de Santiago,color,L,24,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de La Araucanía,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de La Araucanía,color,L,10,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Los Lagos,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Los Lagos,color,L,24,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región del Biobío,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región del Biobío,color,L,26,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-09-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Los Lagos,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región del Biobío,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región del Biobío,color,L,21,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región Metropolitana de Santiago,color,L,19,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de La Araucanía,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de La Araucanía,color,L,8,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región del Biobío,blanco,L,26,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región del Biobío,color,L,25,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2015-11-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Coquimbo,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de La Araucanía,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de La Araucanía,color,L,16,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Los Lagos,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Los Lagos,color,L,23,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Valparaíso,blanco,L,26,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región de Valparaíso,color,L,26,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región del Biobío,blanco,L,31,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región del Biobío,color,L,31,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2015-12-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región del Biobío,color,L,32,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-01-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región del Biobío,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región del Biobío,color,L,27,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-02-29,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de La Araucanía,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Los Lagos,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Los Lagos,color,L,25,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región de Valparaíso,color,L,30,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región del Biobío,blanco,L,42,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región del Biobío,color,L,40,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-03-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Los Lagos,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región del Biobío,color,L,31,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-04-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Valparaíso,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región de Valparaíso,color,L,19,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región del Biobío,blanco,L,36,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región del Biobío,color,L,35,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-05-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Los Lagos,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Los Lagos,color,L,23,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región del Biobío,blanco,L,42,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región del Biobío,color,L,40,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-06-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Valparaíso,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región de Valparaíso,color,L,17,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región del Biobío,color,L,32,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-07-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Los Lagos,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Los Lagos,color,L,23,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región del Biobío,blanco,L,38,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región del Biobío,color,L,38,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-08-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Valparaíso,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región de Valparaíso,color,L,18,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región del Biobío,blanco,L,31,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región del Biobío,color,L,31,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-09-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región de Valparaíso,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región del Biobío,blanco,L,34,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región del Biobío,color,L,34,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2016-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Los Lagos,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Los Lagos,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región del Biobío,blanco,L,40,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región del Biobío,color,L,39,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2016-11-30,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Valparaíso,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región de Valparaíso,color,L,19,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región del Biobío,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región del Biobío,color,L,29,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2016-12-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región de Valparaíso,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región del Biobío,blanco,L,31,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región del Biobío,color,L,31,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-01-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región de Valparaíso,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región del Biobío,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región del Biobío,color,L,27,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-02-28,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de La Araucanía,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región de Valparaíso,color,L,30,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región del Biobío,blanco,L,44,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región del Biobío,color,L,43,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-03-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región de Valparaíso,color,L,19,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región del Biobío,color,L,33,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-04-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región del Biobío,blanco,L,43,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región del Biobío,color,L,43,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-05-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región del Biobío,color,L,33,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Los Lagos,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región de Valparaíso,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región del Biobío,color,L,33,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-07-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Coquimbo,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Coquimbo,color,L,13,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de La Araucanía,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de La Araucanía,color,L,25,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Valparaíso,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región del Biobío,blanco,L,37,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región del Biobío,color,L,37,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-08-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región Metropolitana de Santiago,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región Metropolitana de Santiago,color,L,19,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región de Valparaíso,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región del Biobío,blanco,L,32,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región del Biobío,color,L,32,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2017-09-30,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región del Biobío,blanco,L,35,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región del Biobío,color,L,34,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Los Lagos,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Los Lagos,color,L,22,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región del Biobío,blanco,L,41,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región del Biobío,color,L,40,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2017-11-30,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de La Araucanía,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de La Araucanía,color,L,19,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Valparaíso,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región de Valparaíso,color,L,19,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región del Biobío,blanco,L,33,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región del Biobío,color,L,33,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2017-12-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Los Lagos,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Los Lagos,color,L,25,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región del Biobío,blanco,L,43,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región del Biobío,color,L,42,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2018-01-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región del Biobío,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región del Biobío,color,L,30,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-02-28,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región del Biobío,blanco,L,39,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región del Biobío,color,L,38,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-03-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región del Biobío,blanco,L,36,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región del Biobío,color,L,36,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-04-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Los Lagos,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Los Lagos,color,L,23,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Valparaíso,blanco,L,26,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región de Valparaíso,color,L,26,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región del Biobío,blanco,L,39,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región del Biobío,color,L,40,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2018-05-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Los Lagos,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región del Biobío,blanco,L,39,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región del Biobío,color,L,38,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región del Biobío,blanco,L,34,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región del Biobío,color,L,34,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-07-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Coquimbo,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de La Araucanía,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región del Biobío,blanco,L,40,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región del Biobío,color,L,40,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Valparaíso,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Valparaíso,color,L,18,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Ñuble,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región de Ñuble,color,L,6,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región del Biobío,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región del Maule,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2018-09-30,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región del Biobío,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región del Biobío,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Los Lagos,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Los Lagos,color,L,24,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Ñuble,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región de Ñuble,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región del Biobío,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región del Biobío,color,L,27,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2018-11-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de La Araucanía,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de La Araucanía,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región del Biobío,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región del Biobío,color,L,22,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2018-12-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Coquimbo,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región del Biobío,blanco,L,26,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región del Biobío,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2019-01-31,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Valparaíso,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Valparaíso,color,L,18,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región del Biobío,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-02-28,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región del Biobío,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región del Biobío,color,L,21,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-03-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región del Biobío,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región del Biobío,color,L,19,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-04-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Los Lagos,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Los Lagos,color,L,25,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Valparaíso,color,L,30,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Ñuble,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región del Biobío,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región del Biobío,color,L,26,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2019-05-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región del Biobío,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región del Biobío,color,L,21,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Los Lagos,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Los Lagos,color,L,25,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Ñuble,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región de Ñuble,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región del Biobío,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región del Biobío,color,L,30,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2019-07-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región del Biobío,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región del Biobío,color,L,22,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región del Biobío,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región del Biobío,color,L,21,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-09-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región Metropolitana de Santiago,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región Metropolitana de Santiago,color,L,23,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Los Lagos,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Los Lagos,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Ñuble,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región de Ñuble,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región del Biobío,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región del Biobío,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2019-10-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región del Biobío,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región del Biobío,color,L,21,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-11-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región del Biobío,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región del Biobío,color,L,20,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2019-12-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de La Araucanía,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de La Araucanía,color,L,27,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Los Lagos,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Los Lagos,color,L,23,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Ñuble,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región de Ñuble,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región del Biobío,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región del Biobío,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-01-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región del Biobío,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región del Biobío,color,L,19,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-02-29,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región del Biobío,color,L,14,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-03-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región Metropolitana de Santiago,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región Metropolitana de Santiago,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Valparaíso,color,L,30,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Ñuble,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región de Ñuble,color,L,13,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región del Biobío,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-04-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Arica y Parinacota,color,L,3,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Coquimbo,color,L,7,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de La Araucanía,color,L,21,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región del Biobío,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región del Biobío,color,L,9,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-05-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Coquimbo,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región del Biobío,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región del Biobío,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Ñuble,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2020-07-31,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región del Biobío,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región del Biobío,color,L,9,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Los Lagos,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Valparaíso,color,L,30,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Ñuble,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región de Ñuble,color,L,13,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-09-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-11-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Arica y Parinacota,color,L,3,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2020-12-31,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región del Biobío,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-01-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de La Araucanía,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de La Araucanía,color,L,14,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región del Biobío,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región del Biobío,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-02-28,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Los Lagos,color,L,19,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2021-03-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región Metropolitana de Santiago,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región Metropolitana de Santiago,color,L,18,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Coquimbo,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Ñuble,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región de Ñuble,color,L,5,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-04-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región del Biobío,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región del Biobío,color,L,17,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-05-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Los Lagos,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región del Biobío,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región del Biobío,color,L,15,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2021-06-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Los Lagos,color,L,10,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región de Ñuble,color,L,7,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región del Maule,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2021-07-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región Metropolitana de Santiago,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región Metropolitana de Santiago,color,L,19,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Coquimbo,color,L,6,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Los Lagos,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Los Lagos,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Ñuble,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región de Ñuble,color,L,6,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región del Biobío,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región del Biobío,color,L,6,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2021-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región del Biobío,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región del Biobío,color,L,14,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2021-09-30,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Coquimbo,color,L,6,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Arica y Parinacota,color,L,1,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Coquimbo,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Los Lagos,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Los Lagos,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2021-11-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región Metropolitana de Santiago,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región Metropolitana de Santiago,color,L,24,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de La Araucanía,blanco,L,26,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de La Araucanía,color,L,26,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Los Lagos,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Los Lagos,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Valparaíso,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Valparaíso,color,L,26,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2021-12-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Los Lagos,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Los Lagos,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Valparaíso,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Valparaíso,color,L,19,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Ñuble,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región de Ñuble,color,L,7,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2022-01-31,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región Metropolitana de Santiago,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región Metropolitana de Santiago,color,L,19,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Los Lagos,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Los Lagos,color,L,6,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región del Biobío,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-02-28,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Coquimbo,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Coquimbo,color,L,9,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Los Lagos,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Los Lagos,color,L,9,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región del Biobío,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región del Biobío,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-03-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Coquimbo,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Los Lagos,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Los Lagos,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región de Ñuble,color,L,6,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región del Maule,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2022-04-30,Región del Maule,color,L,7,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región Metropolitana de Santiago,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región Metropolitana de Santiago,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Arica y Parinacota,color,L,3,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Coquimbo,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Coquimbo,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de La Araucanía,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de La Araucanía,color,L,18,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Los Lagos,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Los Lagos,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Valparaíso,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Valparaíso,color,L,16,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Ñuble,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región de Ñuble,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región del Biobío,color,L,12,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región del Maule,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2022-05-31,Región del Maule,color,L,9,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Los Lagos,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Los Lagos,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Valparaíso,color,L,26,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región del Biobío,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región del Biobío,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2022-06-30,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Los Lagos,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Los Lagos,color,L,7,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Ñuble,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región de Ñuble,color,L,7,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región del Biobío,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región del Biobío,color,L,15,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región del Maule,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2022-07-31,Región del Maule,color,L,9,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Coquimbo,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Los Lagos,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Los Lagos,color,L,9,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región del Biobío,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región del Biobío,color,L,19,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2022-08-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Coquimbo,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Coquimbo,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Los Lagos,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Los Lagos,color,L,10,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región de Ñuble,color,L,7,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-09-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Arica y Parinacota,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Coquimbo,color,L,9,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2022-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Los Lagos,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región del Biobío,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región del Biobío,color,L,19,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2022-11-30,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región del Biobío,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región del Biobío,color,L,14,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2022-12-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región del Maule,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2023-01-31,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de La Araucanía,color,L,22,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Ñuble,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región de Ñuble,color,L,7,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región del Biobío,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región del Biobío,color,L,18,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-02-28,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Coquimbo,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de La Araucanía,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de La Araucanía,color,L,27,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Los Lagos,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región del Biobío,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región del Biobío,color,L,17,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-03-31,Región del Maule,color,L,13,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de La Araucanía,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-04-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de La Araucanía,color,L,25,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Ñuble,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región del Biobío,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2023-05-31,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de La Araucanía,color,L,22,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región del Biobío,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Los Lagos,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Los Lagos,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región del Biobío,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-07-31,Región del Maule,color,L,9,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Ñuble,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región del Biobío,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región del Biobío,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región del Maule,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-08-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Arica y Parinacota,blanco,L,3,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Coquimbo,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de La Araucanía,color,L,22,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Valparaíso,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Valparaíso,color,L,19,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región del Biobío,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región del Biobío,color,L,6,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-09-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-10-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Coquimbo,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Ñuble,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2023-11-30,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región del Biobío,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región del Biobío,color,L,10,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2023-12-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de La Araucanía,color,L,28,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Ñuble,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2024-01-31,Región del Maule,color,L,13,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Coquimbo,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2024-02-29,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2024-03-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Valparaíso,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Valparaíso,color,L,24,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región del Biobío,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región del Biobío,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-04-30,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de La Araucanía,color,L,30,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Los Lagos,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Los Lagos,color,L,17,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Ñuble,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región del Maule,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2024-05-31,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Coquimbo,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región del Biobío,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región del Biobío,color,L,9,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-06-30,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Valparaíso,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Valparaíso,color,L,30,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región del Biobío,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2024-07-31,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región de Ñuble,color,L,9,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-08-31,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región Metropolitana de Santiago,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región Metropolitana de Santiago,color,L,18,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Coquimbo,blanco,L,1,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Coquimbo,color,L,9,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de La Araucanía,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de La Araucanía,color,L,21,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Los Lagos,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Los Lagos,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Valparaíso,blanco,L,17,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Valparaíso,color,L,17,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Ñuble,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región del Biobío,blanco,L,7,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región del Biobío,color,L,7,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región del Maule,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-09-30,Región del Maule,color,L,3,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Coquimbo,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de La Araucanía,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Los Lagos,color,L,18,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Valparaíso,color,L,28,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Ñuble,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región de Ñuble,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región del Biobío,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región del Biobío,color,L,18,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región del Maule,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2024-10-31,Región del Maule,color,L,14,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de La Araucanía,color,L,23,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Ñuble,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región del Biobío,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-11-30,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de La Araucanía,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de La Araucanía,color,L,18,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Los Lagos,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Los Lagos,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Valparaíso,blanco,L,18,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Valparaíso,color,L,18,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región de Ñuble,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2024-12-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Coquimbo,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Coquimbo,color,L,13,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de La Araucanía,blanco,L,28,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Ñuble,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región del Biobío,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región del Biobío,color,L,13,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-01-31,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de La Araucanía,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Los Lagos,color,L,13,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región del Biobío,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2025-02-28,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Coquimbo,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Los Lagos,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Los Lagos,color,L,14,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Valparaíso,blanco,L,21,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Valparaíso,color,L,21,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Ñuble,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región de Ñuble,color,L,8,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región del Biobío,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región del Biobío,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región del Maule,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-03-31,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Coquimbo,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Coquimbo,color,L,14,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Los Lagos,blanco,L,19,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Los Lagos,color,L,16,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Valparaíso,blanco,L,29,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Valparaíso,color,L,29,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Ñuble,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región de Ñuble,color,L,13,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-04-30,Región del Maule,color,L,11,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región del Biobío,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región del Biobío,color,L,11,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región del Maule,blanco,L,11,Supermercado,$/bandeja 12 unidades
+2025-05-31,Región del Maule,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Coquimbo,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Coquimbo,color,L,11,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Los Lagos,blanco,L,14,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Valparaíso,blanco,L,22,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Valparaíso,color,L,22,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región del Biobío,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región del Biobío,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región del Maule,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-06-30,Región del Maule,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región Metropolitana de Santiago,blanco,L,25,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región Metropolitana de Santiago,color,L,25,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Arica y Parinacota,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Arica y Parinacota,color,L,5,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Coquimbo,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Coquimbo,color,L,15,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de La Araucanía,blanco,L,30,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de La Araucanía,color,L,29,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Los Lagos,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Los Lagos,color,L,15,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Valparaíso,blanco,L,27,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Valparaíso,color,L,27,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Ñuble,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región de Ñuble,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región del Biobío,blanco,L,16,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región del Biobío,color,L,16,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región del Maule,blanco,L,15,Supermercado,$/bandeja 12 unidades
+2025-07-31,Región del Maule,color,L,15,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región Metropolitana de Santiago,blanco,L,20,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región Metropolitana de Santiago,color,L,20,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Arica y Parinacota,blanco,L,4,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Arica y Parinacota,color,L,4,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Coquimbo,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Coquimbo,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de La Araucanía,blanco,L,24,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de La Araucanía,color,L,24,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Los Lagos,blanco,L,13,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Los Lagos,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Valparaíso,blanco,L,23,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Valparaíso,color,L,23,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Ñuble,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región de Ñuble,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región del Biobío,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región del Biobío,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región del Maule,blanco,L,9,Supermercado,$/bandeja 12 unidades
+2025-08-31,Región del Maule,color,L,9,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región Metropolitana de Santiago,blanco,L,10,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región Metropolitana de Santiago,color,L,10,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Arica y Parinacota,blanco,L,2,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Arica y Parinacota,color,L,2,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Coquimbo,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Coquimbo,color,L,6,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de La Araucanía,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de La Araucanía,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Los Lagos,blanco,L,8,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Los Lagos,color,L,8,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Valparaíso,blanco,L,12,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Valparaíso,color,L,12,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Ñuble,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región de Ñuble,color,L,6,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región del Biobío,blanco,L,6,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región del Biobío,color,L,6,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región del Maule,blanco,L,5,Supermercado,$/bandeja 12 unidades
+2025-09-30,Región del Maule,color,L,5,Supermercado,$/bandeja 12 unidades

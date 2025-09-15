@@ -1,0 +1,9 @@
+﻿zone;egg_color;egg_size;alpha_opt;metric;score;n_obs;ratio_global;ratio_ewma;ratio_blend
+Región Metropolitana de Santiago;blanco;L;0,2;mdape;7,2825;21;0,5412;0,5636;0,5593
+Región Metropolitana de Santiago;blanco;M;0,6;mdape;22,3806;21;0,5476;0,4916;0,5023
+Región Metropolitana de Santiago;blanco;S;0,6;mdape;23,5506;21;0,4924;0,452;0,4598
+Región Metropolitana de Santiago;blanco;XL;0,2;mdape;5,6977;21;0,5754;0,5994;0,5947
+Región Metropolitana de Santiago;color;L;0,3;mdape;5,0709;21;0,5473;0,546;0,5463
+Región Metropolitana de Santiago;color;M;0,5;mdape;25,6619;21;0,5636;0,4967;0,5095
+Región Metropolitana de Santiago;color;S;0,6;mdape;23,5956;21;0,4924;0,4483;0,4568
+Región Metropolitana de Santiago;color;XL;0,2;mdape;5,6607;21;0,5898;0,6115;0,6073
