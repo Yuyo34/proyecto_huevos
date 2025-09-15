@@ -1,38 +1,60 @@
-﻿name: nightly-forecast
+
+name: Build forecast
 on:
-  push:
+  workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'   # ~09:00 America/Santiago
+    - cron: '0 9 2 * *'   # cada día 2 a las 09:00 UTC
+
 jobs:
-  run:
+  forecast:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+        with: { python-version: '3.12' }
       - name: Install deps
         run: |
-          pip install -r requirements.txt || \
-          pip install -r upgrade_precision/requirements_min.txt || \
-          pip install pandas numpy statsmodels pmdarima
-      - name: Run pipeline + capture metrics
+          python -m pip install --upgrade pip
+          if [ -f 'upgrade_precision/requirements_min.txt' ]; then
+            pip install -r upgrade_precision/requirements_min.txt
+          fi
+          pip install pandas numpy statsmodels scikit-learn openpyxl requests xlrd==1.2.0
+      - name: Ensure target CSV
+        run: |
+          python - << 'PY'
+          import pandas as pd, pathlib, sys
+          cand=[pathlib.Path('data/precio_huevo_mensual.csv'),
+                pathlib.Path('monthly_index.csv'),
+                pathlib.Path('monthly_index_with_proxies.csv')]
+          if cand[0].exists(): print('Target ok'); sys.exit(0)
+          src=next((p for p in cand[1:] if p.exists()), None)
+          if src is None: print('No monthly_index*.csv', file=sys.stderr); sys.exit(1)
+          df=pd.read_csv(src)
+          lower={c:c.lower() for c in df.columns}
+          date_candidates={'date','fecha','period','mes','month'}
+          val_candidates={'value','precio','price','valor','p50','p50_zona_color','p50_shrunk','index','indice'}
+          date_col=next((c for c in df.columns if lower[c] in date_candidates), None)
+          val_col=next((c for c in df.columns if lower[c] in val_candidates), None)
+          if date_col is None or val_col is None: print('Encabezados no detectados', list(df.columns)); sys.exit(1)
+          df[date_col]=pd.to_datetime(df[date_col], errors='coerce')
+          out=df[[date_col,val_col]].rename(columns={date_col:'date',val_col:'value'}).dropna().sort_values('date')
+          pathlib.Path('data').mkdir(exist_ok=True)
+          out.to_csv('data/precio_huevo_mensual.csv', index=False)
+          print('OK target', len(out))
+          PY
+      - name: Fetch Chile indicators
+        run: python scripts/fetch_chile_exogs.py
+      - name: Fetch World Bank commodities
+        run: python scripts/fetch_worldbank_commodities.py
+      - name: Run pipeline
         run: |
           mkdir -p out
-          python _run_and_capture_metrics.py \
+          python -m upgrade_precision.pipeline.pipeline_monthly_exog \
             --target data/precio_huevo_mensual.csv \
-            --bt_init 12 --seasonality 12 --h 2 \
-            --lags 1 \
+            --usdclp data/usdclp_dlog.csv --ipc data/imacec_yoy.csv \
+            --corn data/corn_dlog.csv --soy data/soy_dlog.csv --diesel data/brent_dlog.csv \
+            --lags 1 --bt_init 12 --seasonality 12 --h 2 --no_boost \
             --out out/forecast_next2m.csv
-      - name: Commit artifacts (forecast + metrics)
-        run: |
-          git config user.name "autobot"
-          git config user.email "actions@users.noreply.github.com"
-          git add out/forecast_next2m.csv out/metrics.json || true
-          git commit -m "auto: forecast & metrics \F" || echo "no changes"
-          git push
-      - name: Upload run log (artifact)
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
-        with:
-          name: run-log
-          path: out/run.log
+        with: { name: forecast_outputs, path: out/ }
