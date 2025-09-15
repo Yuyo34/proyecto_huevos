@@ -1,9 +1,6 @@
 ﻿__pycache__/
 *.py[cod]
-
 out/
-
 data/*
 !data/precio_huevo_mensual.csv
-
 *.ipynb_checkpoints/
