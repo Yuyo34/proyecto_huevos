@@ -1,4 +1,4 @@
-﻿import re, io, urllib.request, pandas as pd, numpy as np
+import re, io, urllib.request, pandas as pd, numpy as np
 from pathlib import Path
 
 WB_PAGE = "https://www.worldbank.org/en/research/commodity-markets"
@@ -58,3 +58,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
