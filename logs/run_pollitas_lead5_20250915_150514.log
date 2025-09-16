@@ -1,0 +1,13 @@
+[STL] aditiva OK (n=55, period=12)
+[BT] lags=[1] -> MASE=1.6759
+[BT] lags=[2] -> MASE=1.8483
+[BT] lags=[5] -> MASE=1.3627
+[BT] lags=[6] -> MASE=1.8329
+[BT] lags=[12] -> MASE=62430663053862659661787817630115644415064359230868941089087160320.0000
+[BT] lags=[1, 2, 5, 6, 12] -> MASE=2.2301
+[EXOG] selecci¾n auto-lags -> lags=[5] (MASE=1.3627)
+[BT][SARIMAX] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(18.1660759559752), 'sMAPE': np.float64(17.55293459217101), 'MASE': np.float64(1.3626823354682378)}
+[BT][RIDGE ] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(40.55767894499501), 'sMAPE': np.float64(53.64240418311981), 'MASE': np.float64(3.9182140252959363)}
+[BT][BASE  ] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(21.31219766694576), 'sMAPE': np.float64(20.049306225365275), 'MASE': np.float64(1.7067158792934287)}
+[MODEL] elegido: sarimax (MASE=1.3627)
+Pron¾stico guardado en out\forecast_real_pollitas_lead5.csv

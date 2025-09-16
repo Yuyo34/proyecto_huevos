@@ -1,0 +1,19 @@
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+[STL] aditiva OK (n=61, period=12)
+[BT] lags=[1] -> MASE=0.9909
+[BT] lags=[2] -> MASE=0.9798
+[BT] lags=[12] -> MASE=267045407484691266332980069686628885547943460933100592011768978906600001125006442496.0000
+[BT] lags=[1, 2, 12] -> MASE=1.3007
+[EXOG] selecci¾n auto-lags -> lags=[2] (MASE=0.9798)
+[BT][SARIMAX] Ventana inicial=12, puntos=61 -> (ORIG): {'MAPE': np.float64(25.1581419205597), 'sMAPE': np.float64(23.72308357115795), 'MASE': np.float64(0.979807361063482)}
+[BT][RIDGE ] Ventana inicial=12, puntos=61 -> (ORIG): {'MAPE': np.float64(41.390307089623754), 'sMAPE': np.float64(55.21254983329796), 'MASE': np.float64(2.0250822443925234)}
+[BT][BASE  ] Ventana inicial=12, puntos=61 -> (ORIG): {'MAPE': np.float64(27.107546902962664), 'sMAPE': np.float64(26.055642155623094), 'MASE': np.float64(1.1135232795088796)}
+[MODEL] elegido: sarimax (MASE=0.9798)
+Pron¾stico guardado en out\forecast_real_pctimp_FOR_TARGET_lead2.csv

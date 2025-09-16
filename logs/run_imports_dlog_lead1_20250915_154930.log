@@ -1,0 +1,19 @@
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+C:\Users\pipon\Desktop\proyecto_huevos\upgrade_precision\pipeline\pipeline_monthly_exog.py:43: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  s = s.reindex(pd.date_range(target_idx.min(), target_idx.max(), freq="MS")).ffill().bfill()
+[STL] aditiva OK (n=55, period=12)
+[BT] lags=[1] -> MASE=1.6129
+[BT] lags=[2] -> MASE=1.8051
+[BT] lags=[12] -> MASE=2.0189
+[BT] lags=[1, 2, 12] -> MASE=1.8603
+[EXOG] selecci¾n auto-lags -> lags=[1] (MASE=1.6129)
+[BT][SARIMAX] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(20.97149224132117), 'sMAPE': np.float64(19.857689347646424), 'MASE': np.float64(1.6128621238823093)}
+[BT][RIDGE ] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(45.775445368691244), 'sMAPE': np.float64(63.296913121721545), 'MASE': np.float64(4.557951646380146)}
+[BT][BASE  ] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(21.31219766694576), 'sMAPE': np.float64(20.049306225365275), 'MASE': np.float64(1.7067158792934287)}
+[MODEL] elegido: sarimax (MASE=1.6129)
+Pron¾stico guardado en out\forecast_real_imports_dlog_lead1.csv

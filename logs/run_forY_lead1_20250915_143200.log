@@ -1,0 +1,10 @@
+[STL] aditiva OK (n=55, period=12)
+[BT] lags=[1] -> MASE=1.6782
+[BT] lags=[2] -> MASE=1.7948
+[BT] lags=[1, 2] -> MASE=1.6606
+[EXOG] selecci¾n auto-lags -> lags=[1, 2] (MASE=1.6606)
+[BT][SARIMAX] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(21.962757585153568), 'sMAPE': np.float64(21.068612386668143), 'MASE': np.float64(1.6606156159461407)}
+[BT][RIDGE ] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(40.12872530501177), 'sMAPE': np.float64(47.966060286379204), 'MASE': np.float64(3.781560985612721)}
+[BT][BASE  ] Ventana inicial=18, puntos=55 -> (ORIG): {'MAPE': np.float64(21.31219766694576), 'sMAPE': np.float64(20.049306225365275), 'MASE': np.float64(1.7067158792934287)}
+[MODEL] elegido: sarimax (MASE=1.6606)
+Pron¾stico guardado en out\forecast_real_prod_forY_lead1.csv
