@@ -1,13 +1,7 @@
-﻿__pycache__/
-*.py[cod]
+.venv/
+__pycache__/
 out/
-data/*
-!data/precio_huevo_mensual.csv
-*.ipynb_checkpoints/
-
-# Helpers locales y backups
-_*.py
-*.py.bak
-*.bak
-
-*.bak2
+logs/
+*.log
+*.png
+.ipynb_checkpoints/
