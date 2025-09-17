@@ -128,10 +128,14 @@ def choose_method(months, y, retail, z, c, s, ratios, default_ratio, alpha=0.35)
 
     preds_r = []
     if retail is not None and len(retail)==len(y):
+        ratio_value = default_ratio
+        if ratios is not None:
+            ratio_value, _ = pick_ratio_value(z, c, s, ratios, default_ratio)
+            if not np.isfinite(ratio_value):
+                ratio_value = default_ratio
         for i in range(6, len(y)-1):
             r_hat = ensemble_point(months[:i+1], retail[:i+1], h=1, alpha=alpha)
-            rr = ratios.get((z,c,s), default_ratio) if ratios is not None else default_ratio
-            preds_r.append(r_hat*rr if pd.notna(r_hat) else np.nan)
+            preds_r.append(r_hat*ratio_value if pd.notna(r_hat) else np.nan)
         score_r = mdape(trues, preds_r) if preds_r else np.nan
     else:
         score_r = np.nan
@@ -237,12 +241,13 @@ def main():
         else:
             y_ds, r_ds = y, r_series
 
-        method = choose_method(months, y_ds, r_ds, z, c, s, None, default_ratio, alpha=args.alpha)
+        method = choose_method(months, y_ds, r_ds, z, c, s, rmaps, default_ratio, alpha=args.alpha)
         q10, q90 = empirical_band(months, y_ds, alpha=args.alpha)
 
         cur_m, cur_y, cur_r = months[:], list(y_ds), (list(r_ds) if r_ds is not None else None)
         for h in range(1, args.h+1):
             target_m = add_months(months[-1], h)
+            r_hat = np.nan
             if method == "retail_ratio" and cur_r is not None:
                 r_hat = ensemble_point(cur_m, cur_r, h=1, alpha=args.alpha)
                 rr, src = pick_ratio_value(z, c, s, rmaps, default_ratio)
@@ -270,7 +275,8 @@ def main():
                                  forecast_docena=y_hat, p10=p10, p90=p90, method=method_used))
 
             cur_m.append(target_m); cur_y.append(y_hat_ds)
-            if cur_r is not None: cur_r.append(r_hat if 'r_hat' in locals() else np.nan)
+            if cur_r is not None:
+                cur_r.append(r_hat)
 
     out = pd.DataFrame(out_rows).sort_values(["zone","egg_color","egg_size","month"])
     write_outputs(out, base/args.out, excel_locale=args.excel_locale, round_dp=args.round_dp)

@@ -104,9 +104,16 @@ def main():
             break
 
     # retail_base = preferir retail_exact (si viene en MI), si no retail_odepa (de ODEPA)
+    if retail_exact:
+        retail_exact_series = pd.to_numeric(df[retail_exact], errors="coerce")
+        mask_exact = retail_exact_series.notna()
+    else:
+        retail_exact_series = pd.Series(np.nan, index=df.index)
+        mask_exact = pd.Series(False, index=df.index)
+
     df["retail_base"] = np.where(
-        pd.notna(df[retail_exact]) if retail_exact else False,
-        pd.to_numeric(df[retail_exact], errors="coerce"),
+        mask_exact,
+        retail_exact_series,
         pd.to_numeric(df["retail_odepa"], errors="coerce")
     )
 
